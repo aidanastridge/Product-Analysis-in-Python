@@ -1,0 +1,913 @@
+X1,Brand,Name,Old.Price,New.Price,ml,Concentration,Department,Scents,Base,Middle,Item.Rating,Seller,Seller.Rating,Number.Of.Sellers.Ratings,Change.In.Price,Change.In.Price.Percentage,Rating.Numbers
+0,PACO RABANNE,1 Million Lucky,395,244.55,100,EDT,Men,Woody,"Oakmoss, Patchouli, Vetiver","Hazelnut, Jasmine, Cashmir Wood, Cedar, Honey",5,noon,4.2,98.1K,150.45,38.09,98100
+1,Roberto Cavalli,Paradiso Assoluto,415,107.95,50,EDP,Women,Floral,"Vanilla, Sandalwood, Patchouli","Wild Jasmine, Red Lily",4.8,noon,4.2,98.1K,307.05,73.99,98100
+2,S.T.Dupont,Royal Amber,265,186.9,100,EDP,Unisex,Arabian,"Lemon, Mint, Wood Moss","Sandalwood, Cedar",5,noon,4.2,98.1K,78.1,29.47,98100
+4,Roberto Cavalli,Uomo,260,94.95,50,EDP,Women,Arabian,"Vanille, Benzoin, Tonka Bean",African Orange Flower,4.8,noon,4.2,98.1K,165.05,63.48,98100
+5,Roberto Cavalli,cavalli,260,94.95,50,EDP,Women,Arabian,"Vanille, Benzoin, Tonka Bean",African Orange Flower,4.8,noon,4.2,98.1K,165.05,63.48,98100
+6,HUGO BOSS,The Scent,220,220,50,EDP,Women,Oriental,Roasted Cocoa,"Lavender, Osmanthus Flower",4,rich&light,4.3,4K,0,0,4000
+8,GUCCI,Bamboo,575,189,75,EDP,Women,Floral,Sandalwood,"Casablanca Lily, Ylang Ylang Extra-Comoros",4.8,Al-Najm,3.7,347,386,67.13,347
+9,Yves Saint Laurent,M7 Oud Absolu,536,273,80,EDT,Men,Arabian,"Cistus, Myrrh, Oud, Amber",Patchouli,4.5,Al-Najm,3.7,347,263,49.07,347
+10,CERRUTI 1881,1881,335,119.55,100,EDT,Men,Fresh,"Musk, Sandalwood, Patchouli, Oak Moss, Cedar, Pepper, Pine Tree","Vetiver, Ylang-Ylang, Rose, Lily-Of-The-Valley, Cassia",4.3,AMLAQ,3.9,135,215.45,64.31,135
+11,Calvin Klein,IN 2 U MEN,152,85,100,EDT,Men,Citrus,"White Musk, Vetiver, Cedar",Cacao Pod,3.7,AMLAQ,3.9,135,67,44.08,135
+12,Rasasi,Royale Blue,97,45.3,75,EDP,Men,Fruity,Delicate Musky Sensual Woods,"Distinct, Exotic",4.5,Bismat Eatar,3.9,66,51.7,53.3,66
+15,CHLOE,Love Story,483,274.95,75,EDP,Women,Floral,"Musk, Cedar, Cashmirwood, Patchouli","Orange Blossom, Stephanotis, Rose, Black Currant, Peach",5,noon,4.2,98.1K,208.05,43.07,98100
+16,NARCISO RODRIGUEZ,Narciso Rouge,591,275.15,90,EDP,Women,Woody,"Cedar Wood, Tonka Beans, Vetiver",Musk,4.5,noon,4.2,98.1K,315.85,53.44,98100
+17,DORALL COLLECTION,24 Pure,22,9.85,100,EDT,Men,Fresh,"Amber, Musk, Sandalwood, Coumarin, Vanilla","Pink Pepper, Cardomon, Cinnamon, Jasmin, Cumin, Red Fruits, Lily, Nutmeg",4.9,B.A.G,3.7,14.1K,12.15,55.23,14100
+18,Rasasi,Romance,60,35.25,45,EDP,Women,Floral,"Amber, Musk, Powdery Notes, Cedar, Sandalwood","Rose, Jasmine",4.5,B.A.G,3.7,14.1K,24.75,41.25,14100
+19,BOUCHERON,Quatre,327,171.5,100,EDP,Women,Floral,Golden Woods Musk,"Sambac Jasmine Absolute, Rose Absolute",5,Star.perfume,3.9,537,155.5,47.55,537
+20,NARCISO RODRIGUEZ,Narciso Rodriguez,595,200,100,EDP,Women,Floral,"Patchouli, Sandalwood","Amber, Musk",4.6,hadayiq baris,3.8,122,395,66.39,122
+21,Alina Corel,Monsieur Intense Gold,31.45,31.45,100,EDP,Unisex,Woody,"Rare Wood, Amber Fat, White Musk","Shepherd, Saffron, Teak Wood, Gaiak Wood",5,Kathya,3.8,116,0,0,116
+22,Revlon,Charlie Gold,143,43,100,EDT,Women,Woody,"Sandalwood, Cedar Wood, Vanilla, Caramel Musk, Woody Accords","Jasmine, Rose, Muget, Freesia, Cinnamon",4,Golden Perfumes,3.6,113,100,69.93,113
+23,TED LAPIDUS,Pour Homme,129,44.45,100,EDT,Men,Woody,"Sandalwood, tonka bean, amber, patchouli, musk, oakmoss, cedar, tobacco","Pine tree, honey, orris root, jasmine, caraway, petitgrain, lily-of-the-valley, rose, brazilian rosewood, incense",5,neo lek,3.5,88,84.55,65.54,88
+24,Britney Spears,Fantasy,170,90,100,EDP,Women,Vanilla,"Luid Sandalwood, Jasmine, Amber, Vanilla","Sweet Napolitano Cake, Verbena, Jacaranda Wood, Grapefruit Blossom",5,Cute Shop,3.8,76,80,47.06,76
+25,GUCCI,Bloom Aqua Di Fiori,515,311.8,100,EDT,Women,Fruity,Jasmine,Tuberose,4.7,noon,4.2,98.1K,203.2,39.46,98100
+26,Yves Saint Laurent,Body Kouros,510,203.6,100,EDT,Men,Woody,Benzoin,"Chinese Cedar, Clary Sage",5,noon,4.2,98.1K,306.4,60.08,98100
+27,Van Cleef & Arpels,First,170.95,170.95,100,EDT,Women,Floral,"Honey, Sandalwood, Tonka Bean, Amber, Musk, Civet, Vanilla, Oakmoss, Vetiver","Carnation, Tuberose, Orchid, Orris Root, Jasmine, Hiacynth, Turkish Rose, Ylang-Ylang, Lily-Of-The-Valley, Narcissus",5,noon,4.2,98.1K,0,0,98100
+28,NARCISO RODRIGUEZ,Narciso Rodriguez,465,226,100,EDP,Women,Musk,"Patchouli, Sandalwood","Amber, Musk",4,Brand Land,4.2,98,239,51.4,98
+29,S.T.Dupont,S.T. Dupont,120,79.35,100,EDT,Men,Spicy,"Sandalwood, Amber, Patchouli, Musk, Coconut","Carnation, Cypress, Iris, Cinnamon, Lavender, Jasmine",5,noon,4.2,98.1K,40.65,33.88,98100
+30,Estee Lauder,Knowing,585,220,75,EDP,Women,Woody,"Oakmoss, Vetiver, Sandalwood, Amber","Jasmine, Patchouli, Orange Flower",5,KAYA,4.3,4K,365,62.39,4000
+31,Geoffrey Beene,Grey Flannel For Men,361,79,120,EDT,Men,Woody,"Tonka Bean, Almond, Oakmoss, Vetiver, Cedar","Mimose, Iris, Violet, Sage, Rose, Geranium, Narcissus",5,top langri,3.7,347,282,78.12,347
+32,Dolce & Gabbana,The Only One,596,187.3,100,EDP,Women,"Oriental, Floral","Marshmallow, Vanilla, Sandalwood, Heliotrope","Coffee, Iris",5,Asrar Aljamal,3.5,244,408.7,68.57,244
+33,Rasasi,Al Wisam Day,177,76,100,EDP,Men,Oriental,"Oak Moss, Rich, Musty Oud","Amber Nuanced Clary Sage, Soft, Milky Sandalwood, Woody Cedarwood",4.3,hadayiq baris,3.8,122,101,57.06,122
+35,Dior,Addict,715,333.8,100,EDP,Women,Floral,"Bourbon Vanilla, sandalwood, Tonka Bean","Night Queen Flower, Bulgarian Rose, Orange Flower",4.5,Parfume-Stor,3.5,63,381.2,53.31,63
+36,S.T.Dupont,Passenger,182,108.9,100,EDT,Men,Spicy,"Guaiac Wood, Benzoin","Ginger, Cardamom, Pink Pepper, Lavender",5,perfumes--addresses,4.4,59,73.1,40.16,59
+37,BURBERRY,Brit Rhythm Intense,370,136.65,90,EDT,Men,Spicy,"Cashmere Wood, Coumarin, Guaiac Wood, Leather, Sandalwood, Tonka Beans, Vanilla","Amber, Basil, Lavender, Mint, Patchouli",4.6,noon,4.2,98.1K,233.35,63.07,98100
+38,Calvin Klein,CK Be,247,108.3,200,EDT,Men,Floral,"Musk, Sandalwood, Cedar, Vanilla, Opoponax, Amber","Green Grass, Peach, Jasmine, Freesia, Magnolia, Orchid",5,noon,4.2,98.1K,138.7,56.15,98100
+39,GUCCI,Guilty,504,214.9,75,EDT,Women,Floral,"Patchouli, Amber","Raspberry Vilolet, Lilac, Peach",5,noon,4.2,98.1K,289.1,57.36,98100
+40,AIGNER,Starlight,341,126.95,100,EDP,Women,Floral,"Patchouli, Sandalwood, Vanilla, White Musk","Cumin, Jasmine, Strawberries",5,noon,4.2,98.1K,214.05,62.77,98100
+41,BENTLEY,Azure,387,107,100,EDT,Men,Citrus,"Cashmere Wood, Tonka Bean, Orcanox","Pimento, Tea Accord, Lavender, Clary Sage",4.6,Cute Shop,4.1,538,280,72.35,538
+42,VERSACE,Dylan Blue,85,20.5,5,EDT,Men,Citrus,"Frankincense, Musk, Saffron, Tonka Beans","Ambroxan, Black Pepper, Papyrus, Patchouli, Violet Leaves",4.4,Princess of beauty,4.2,467,64.5,75.88,467
+43,Estee Lauder,Modern Muse,450,164.4,50,EDP,Women,Floral,"Amber, Musk, Patchouli, Woody Notes","Honey Suckle, Jasmine Sambac, Lily, Tuberose",5,King-Perfume,3.9,450,285.6,63.47,450
+44,Yves Saint Laurent,La Nuit De L'Homme L'Intense,583,204,100,EDP,Men,Vanilla,"Tonka Bean, Patchouli","Vanilla, Sage",5,Parfume-Stor,4.1,319,379,65.01,319
+45,Juicy Couture,Vivi La Juicy Limited Edition,235,154.1,100,EDP,Women,Floral,"Amber, Caramel, Vanilla, Sandalwood, Pralines","Honeysuckle, Gardenia, Jasmine",5,AMLAQ,3.9,135,80.9,34.43,135
+46,Laura Mars,Splandid,36,36,100,EDP,Women,Floral,"Vanilla, Amber","Jasmine, Geranium, Neroli, Ylang-Ylan",5,hadayiq baris,3.8,122,0,0,122
+47,GIORGIO ARMANI,Stronger With You,415,170,100,EDT,Men,Vanilla,"Vanilla, Chestnut, Cedar, Amber wood, Guaiac Wood","Pineapple, Sage, Melon, Cinnamon, Lavender",4.5,hadayiq baris,3.8,122,245,59.04,122
+49,HERMES,Terre D'Hermes,15,9.55,2,EDT,Men,Citrus,"Patchouli, Cedar, Vetiver, Benzoin","Pepper, Pelargonium",5,beautiful lady,3.8,23,5.45,36.33,23
+50,Elizabeth Arden,5Th Avenue,135,89.4,125,EDP,Women,Floral,"Amber, Vanilla, Clove, Iris, Musk, Sandalwood","Peach, Jasmine, Bulgarian Rose, Violet, Tuberose, Carnation, Nutmeg, Ylang-Ylang",3.8,noon,4.2,98.1K,45.6,33.78,98100
+51,VERSACE,Dylan Blue,425,217.85,100,EDT,Men,Fresh,"Incense, Musk, Tonka Bean, Saffron","Ambroxan, Patchouli, Black Pepper, Violet Leaf, Papyrus",4.6,noon,4.2,98.1K,207.15,48.74,98100
+52,Benetton,Hot Gold,45,27.45,100,EDT,Women,Fresh,"Amber, Musk, Sandalwood","Carambola, Rose, Mimosa",4.4,noon,4.2,98.1K,17.55,39,98100
+53,PACO RABANNE,Invictus,395,210,100,EDT,Men,Citrus,"Guaiac Wood, Patchouli Heart","Ambregris Accord, Grapefruit Zests",4.8,Boutique Wareef,3.8,98,185,46.84,98
+54,Roberto Cavalli,Nero Assoluto,264,129.55,75,EDP,Women,Arabian,"Ebony, Woodsy Notes",Vanilla,5,noon,4.2,98.1K,134.45,50.93,98100
+55,DORALL COLLECTION,Scholar,19,9.45,100,EDT,Men,Floral,"Patchouli, Moss, Woody-Amber, Sandalwood, Musk, Dry Woods.","Jasmine, Peach, Apple, Green Notes, Lavender, Muguet, Dried Fruits.",5,B.A.G,3.7,14.1K,9.55,50.26,14100
+56,Calvin Klein,Eternity,131,100,100,EDT,Men,Floral,"Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood","Coriander, Lily, Orange Blossom, Juniper Berries, Basil, Jasmine, Sage, Lily-of-the-Valley, Geranium",4,hadayiq baris,3.8,122,31,23.66,122
+57,Juicy Couture,Viva La Juicy Noir,490,144.45,100,EDP,Women,Fruity,"Amber, Caramel, Vanilla, Sandalwood","Gardenia, Honeysuckle, Jasmine",4.9,Rose Gallary,3.5,63,345.55,70.52,63
+58,PACO RABANNE,Lady Million,535,210,80,EDP,Women,Floral,Gardenia,"Arabic Jasmine, African Orange Flower",4.7,Beauty Ideas,3.9,61,325,60.75,61
+59,Giorgio Beverly Hills,giorgio,120,120,90,EDT,Women,Floral,"Sandalwood, Patchouli, Vanilla, Amber, Cedar, Oakmoss, Musk","Ylang-ylang, Seductive Tuberose, Gardenia, Jasmine, Rose, Orchid",5,Faces,3.9,61,0,0,61
+60,Guerlain,Idylle,430,256,100,EDP,Women,Floral,"Amber Accord, Sandalwood","Magnolia, Jasmine, Ylang Ylang",4.3,MOON LIGHT,3.9,33,174,40.47,33
+62,Jean Paul GAULTIER,Scandal,400,288,50,EDP,Women,Floral,"Patchouli, Beeswax, Caramel, Licorice","Honey, Gardenia, Jasmine, Orange Blossom, Peach",5,Shopping life,4.2,20,112,28,20
+63,BURBERRY,Mr. Burberry,515,179.95,100,EDP,Men,Woody,"Patchouli, Amber, Sandalwood, Vetiver, Benzoin, Cinnamon","Lavender, Cedar, Nutmeg",4.5,noon,4.2,98.1K,335.05,65.06,98100
+64,Ajmal,Raindrops,97,47.95,50,EDP,Women,Fruity,Floral Ambery Woody,Animalistic Floral,4.7,noon,4.2,98.1K,49.05,50.57,98100
+65,GUCCI,Guilty Absolute,552,332.3,90,EDP,Women,Spicy,"Patchouli, Amber","Vetiver, Cypress, Bulgarian Rose, Woody Notes",4.2,Star.perfume,3.9,537,219.7,39.8,537
+66,BURBERRY,Mr. Burberry,295,200,100,EDP,Men,Woody,"Patchouli, Amber, Sandalwood, Vetiver, Benzoin Cinnamon","Lavender, Cedar, Nutmeg",5,Star.perfume,3.9,537,95,32.2,537
+67,VERSACE,Dylan Blue,85,20.5,5,EDT,Men,Citrus,"Frankincense, Musk, Saffron, Tonka Beans","Ambroxan, Black Pepper, Papyrus, Patchouli, Violet Leaves",4.4,Princess of beauty,3.5,467,64.5,75.88,467
+68,J.CASANOVA,ICQ,76.3,76.3,100,EDT,Men,Fresh,"Wood, Cedar Wood, Patchouli, Animal, Sandalwood","Floral, Ylang-Ylang, Jasmin, Cyclamen, Rosewood",5,Parisian Store,3.9,425,0,0,425
+69,UNITED COLORS OF BENETTON,Cold,51,27.95,100,EDT,Women,Spicy,"Amber, Frankincense, Musk, Patchouli, Vanilla, Vetiver","Coriander, Cumin, Pimiento",4,top langri,4.2,347,23.05,45.2,347
+71,TOMMY HILFIGER,Tommy,340,129,100,EDT,Men,Spicy,"Amber, Cactus, Cotton","Cranberry, Rose, Apple",4.4,AMLAQ,3.9,135,211,62.06,135
+73,EMPORIO ARMANI,Stronger With You,415,175.85,100,EDT,Men,Floral,"Amberwood, Cedar, Chestnut, Vanilla","Melon, Pineapple, Sage",4.5,flower,3.8,66,239.15,57.63,66
+74,TED LAPIDUS,Rumba Passion Ted Lapidus,140,95,100,EDT,Women,Floral,"Patchouli, Vanilla, Honey","Jasmine, Rose",5,Beauty Gallery,3.7,59,45,32.14,59
+75,HUGO BOSS,Dark Blue,159,129,75,EDT,Men,Citrus,"Benzoin, Olibanum, Patchouli, Suede","Pelargonium, Cypress, Sage",4.5,Diorworld,3.6,30,30,18.87,30
+76,VERSACE,Dylan Blue,425,217.85,100,EDT,Men,Fresh,"Incense, Musk, Tonka Bean, Saffron","Ambroxan, Patchouli, Black Pepper, Violet Leaf, Papyrus",4.6,noon,4.2,98.1K,207.15,48.74,98100
+77,BOUCHERON,Quatre,462,169.75,100,EDP,Women,Floral,"Caramel, Cashmere, Vanilla, White Musk","Apple, Jasmine, Fishing, Rose",4.9,noon,4.2,98.1K,292.25,63.26,98100
+78,DORALL COLLECTION,Molto Carina,27,8.55,100,EDT,Women,Woody,"Musk, Lactone, Woody Amber","Tropical Fruits, Peach, Jasmin, Water",4,B.A.G,3.7,14.1K,18.45,68.33,14100
+79,armani,Stronger With You Intensely,457,336,100,EDP,Men,Sweet Aromatic,Ambery Woods,Vanilla,4.8,flower,3.9,537,121,26.48,537
+80,PACO RABANNE,1 Million,395,173,100,EDT,Men,Woody,"Indian Patchouli, amber, woody notes, leather","Rose absolute, musk, cinnamon bark",3.8,Al-Najm,3.7,347,222,56.2,347
+81,VALENTINO,Valentina,500,241,80,EDP,Women,Floral,"Virginia Cedar, Vanilla, Amber","Strawberry, Tuberose, African Orange Flower, Jasmine",5,top langri,3.7,347,259,51.8,347
+82,Ard Al Zaafaran,Oud 24 Hours,47,47,100,EDP,Unisex,Fresh,"Amber, Incense, Sandalwood, Patchouli, Agarwood (oud)","Spicy Notes, Fruity Notes, Jasmine, Gardenia, Ylang-ylang",4,Attractive perfume,3.5,244,0,0,244
+83,DKNY,Be Delicious,185,148.35,100,EDP,Women,Floral,"White Amber, Woods","Apple, Tuberose, White Muguet, Rose, Violet",4.8,AMLAQ,3.9,135,36.65,19.81,135
+84,Estee Lauder,Modern Muse,584,239.7,100,EDP,Women,Floral,"Patchouli, Amber, Musk, Vanilla, Woodsy Note","Tuberose, Lily, Flower Petals, Honeysuckles, Jasmine Sambac, Chinee Jasmine",4.5,AMLAQ,3.9,135,344.3,58.96,135
+85,CAROLINA HERRERA,Good Girl,565,213.15,80,EDP,Women,Arabian,"Tonka Bean, Cocoa, Sandalwood, Praline, Cinnamon, Cedar, Cashmere Wood","Jasmine Sambac, Tuberose, Orris, Bulgarian Rose, Orange Blossom",4.8,hadayiq baris,3.8,122,351.85,62.27,122
+86,BURBERRY,Mr.Burberry,515,199.9,100,EDP,Men,Woody,"Sandalwood, Vetiver , Guaiac Wood","Birch Leaf, Nutmeg Oil , Cedar",4.6,Faces,3.9,61,315.1,61.18,61
+87,Guerlain,Ideal,560,223,100,EDP,Men,Fruity,"Leather, Sandalwood, Tonka Beans","Bulgarian Rose, Cherry, Incense, Vanilla",4.8,Majestueuse,4.8,21,337,60.18,21
+89,ELIE SAAB,Girl of Now Shine,504,192,90,EDP,Women,Arabian,"Iris, Jasmine, Sweet Vanilla, Patchouli","Roasted Almonds, Ylang-ylang",5,flower,4.2,98,312,61.9,98
+90,NARCISO RODRIGUEZ,Narciso Rodriguez,436,215.75,50,EDP,Women,Spicy,"Patchouli, Sandalwood","Amber, Musk",4.3,noon,4.2,98.1K,220.25,50.52,98100
+91,Ajmal,Raindrops,97,47.95,50,EDP,Women,Fruity,Floral Ambery Woody,Animalistic Floral,4.7,noon,4.2,98.1K,49.05,50.57,98100
+92,Roberto Cavalli,Uomo,349,126,100,EDT,Men,Floral,Cedar,"Honey, Lavender",5,noon,4.2,98.1K,223,63.9,98100
+93,MONTBLANC,Emblem Absolu,395,116,100,EDT,Men,Spicy,"Patchouli, Vetiver, Moss","Pink Pepper, Lavender, Fruits, Honey",4.7,Modon,3.9,537,279,70.63,537
+94,LACOSTE,Eau de Lacoste L. 12.12 Noir,330,85,100,EDT,Men,Spicy,"Dark Chocolate, Cashmeran, Coumarin, Patchouli","Basil, Verbena, Lavender",4.8,Al-Najm,3.7,347,245,74.24,347
+95,Calvin Klein,CKIN2U,148,82.9,100,EDT,Men,Citrus,"Vetiver, Cedar, White Musk",Cacao Pod,5,AMLAQ,3.9,135,65.1,43.99,135
+96,Roberto Cavalli,Florence,230,166.8,75,EDP,Women,Floral,"Patchouli, Musk, Amber","Orange Blossom, Grapefruit Blossom, Hibiscus Seed",4.6,AMLAQ,3.9,135,63.2,27.48,135
+97,TOMMY HILFIGER,Tommy Hilfiger,221,124.9,100,EDT,Men,Spicy,"Amber, Cactus, Cotton Flower","Cranberry, Rose, Granny Smith Apple",4.1,AMLAQ,3.9,135,96.1,43.48,135
+98,LE CHAMEAU,Atelier Intense,88,71.25,80,EDT,Men,Arabian,"Vetiver, Amber, Musk, Oakmoss","Spicy, Sandalwood, Ceadarwood, Tonka",5,Emper Perfumes,3.5,88,16.75,19.03,88
+100,AVON,Tomorrow,130,70,50,EDP,Women,Floral,"Powdery, Floral, Woody, Balsamic, Rose",Musk,4.5,Tiffany,3.7,54,60,46.15,54
+101,PACO RABANNE,Invictus,395,210,100,EDT,Men,Citrus,"Guaiac Wood, Patchouli Heart","Ambregris Accord, Grapefruit Zests",4.8,Boutique Wareef,3.8,98,185,46.84,98
+102,Salvatore Ferragamo,Signorina Eleganza,326,153.3,100,EDP,Women,Fruity,"Patchouli, White Leather","Almond Powder, Golden Osmanthus Petals",5,noon,4.2,98.1K,172.7,52.98,98100
+103,Carrera,Pour Homme,59,43.5,100,EDT,Men,Woody,"Cedar, Tonka Bean, Musk, Leather, Sandalwood, Oakmoss","Anise, Ginger, Cloves, Jasmine",5,KAYA,4.3,4K,15.5,26.27,4000
+104,DORALL COLLECTION,Nashwa,43,14.2,100,EDT,Women,Woody,"Amber, patchouli, vanilla, musk, sandalwood","Magnolia, gardenia, lily of the valley, freesia, jasmine",5,B.A.G,3.7,14.1K,28.8,66.98,14100
+105,Calvin Klein,Euphoria,289,94.55,100,EDT,Men,Woody,"Amber, Patchouli, Brazilian Redwood, Suede","Black Basil, Sage, Cedar",4.7,Star.perfume,4.2,537,194.45,67.28,537
+106,HUGO BOSS,XX,295,158.65,100,EDT,Women,Fruity,"Amber, Musk, Sandalwood","Jasmine, Rice, Rose",4.5,Star.perfume,3.9,537,136.35,46.22,537
+107,Sedr Al-Khaleej Perfumes,Moon Light,55,34.3,100,EDP,Women,Citrus,"Tonka Bean, Cocoa, Sandalwood, Praline, Cinnamon, Cedar, Cashmere Wood","Jasmine Sambac, Tuberose, Orris, Bulgarian Rose, Orange Blossom",5,SEDR,4.2,288,20.7,37.64,288
+108,Dunhill,Desire,230,84.95,100,EDT,Men,Fresh,"Vanilla, Musk, Labdanum","Rose, Teakwood, Patchouli",4.2,hadayiq baris,3.8,122,145.05,63.07,122
+110,TRUSSARDI,My Land,300,164,100,EDT,Men,Woody,"Leather, Vetiver, Tonka Bean","Lavender, Violet, Calone",4.5,Beautiful Live,4.1,7,136,45.33,7
+111,Dupont,Passenger,95,95,100,EDT,Men,Woody,"Guaiac Wood, Benzoin","Ginger, Cardamom, Pink Pepper, Lavender",4.5,Beautiful Live,4.1,7,0,0,7
+112,ANGEL SCHLESSER,Essential,287,103.95,100,EDP,Women,Oriental,"sandalwood, Musk, Vetiver","Peony, Violet, Freesia, Bulgarian Rose",4.6,noon,4.2,98.1K,183.05,63.78,98100
+113,Calvin Klein,Euphoria,220,91.95,100,EDT,Men,Woody,"Amber, Patchouli, Brazilian Redwood, Suede","Black Basil, Sage, Cedar",5,noon,4.2,98.1K,128.05,58.2,98100
+114,PACO RABANNE,Pour Homme,226,136.05,100,EDT,Men,Woody,"Honey, Amber, Musk, Oakmoss","Tonka Bean, Lavender, Geranium",4.5,noon,4.2,98.1K,89.95,39.8,98100
+115,MONTBLANC,Starwalker,240,125.55,75,EDT,Men,Woody,"Ginger, Fir Resin, Nutmeg, Amber","Sandalwood, White Musk, Cedar",5,noon,4.2,98.1K,114.45,47.69,98100
+116,DORALL COLLECTION,Classic Black,9,8.8,100,EDT,Men,Fresh,"Chocolate, cashmere Wood, Patchouli, Tonka Bean","Basil, Verbena , Lavender",4,the beauty,3.9,538,0.2,2.22,538
+117,S.T.Dupont,Essence Pure,215,84.6,100,EDT,Women,Citrus,"Amber, Patchouli, Vanilla, Cedar","Jasmine, Rose",4.4,the beauty,4.1,538,130.4,60.65,538
+118,S.T.Dupont,Passenger Spray,220,124.7,100,EDP,Women,Fruity,"Sandalwood, Musk","Redolent with Cyclamen, Gardenia, Rose, Iris",5,AMLAQ,3.9,135,95.3,43.32,135
+120,Ajmal,Evoke,150.05,150.05,75,EDP,Women,Floral,"Patchouli, Vanilla, Moss","Jasmine, Rose, Orris",5,BOUTIQUE PERFUMES,4.3,118,0,0,118
+121,Guerlain,Idylle,725,259.7,100,EDP,Women,Floral,"Musk, Patchouli","Jasmine, Lilac, Lily, Lily Of The Valley, Peony",5,The Wealth of Beauty,3.8,76,465.3,64.18,76
+122,CHOPARD,Wish,182,96,75,EDP,Women,Oriental,"Patchouli, Caramel, Amber, Sandalwood, Vanilla","Honey, Milk, Lily Of The Valley, Orchid, Violet, Jasmine, Heliotrope, Osmanthus, Magnolia",4.8,Dior Fragrances,3.9,69,86,47.25,69
+123,PACO RABANNE,Olympêa,455,150,80,EDP,Women,Floral,"Sandalwood, Cashmere, Ambergris",Vanilla,4.5,Asrar Aljamal,3.8,61,305,67.03,61
+124,CHOPARD,Happy Spirit,230,152.15,75,EDP,Women,Floral,"Amber, Cashmere Wood, Musk","Honeysuckle, Osmanthus",4.4,noon,4.2,98.1K,77.85,33.85,98100
+125,CARTIER,Pasha de Cartier,290,185.25,100,EDT,Men,Aromatic,"Oakmoss, Sandalwood, Patchouli, Labdanum","Coriander, Brazilian Rosewood",4.3,noon,4.2,98.1K,104.75,36.12,98100
+126,PACO RABANNE,Olympea,458,134,80,EDP,Women,Floral,"Cashmere, Sandalwood, Ambergris",Salted Vanilla,4,Number One,4.2,1.3K,324,70.74,1300
+127,jennifer lopez,Live,161,104,100,EDP,Women,Fruity,"Tonka Bean, Sensual, Rich, Creamy Buttery Lactonic Caramel","Uity Red Currant Blossoms, Violet",5,Star.perfume,3.9,537,57,35.4,537
+128,Yves Saint Laurent,Black Opium Nuit Blanche,620,266.9,90,EDP,Women,Spicy,"Vanilla Absolute, Sandalwood, White Musk","Orange Blossom Absolute, Black Opium Coffee",4.5,Al-Najm,3.7,347,353.1,56.95,347
+129,LACOSTE,Eau de Lacoste L. 12.12 Noir,330,85,100,EDT,Men,Spicy,"Dark Chocolate, Cashmeran, Coumarin, Patchouli","Basil, Verbena, Lavender",4.8,Al-Najm,3.7,347,245,74.24,347
+130,Calvin Klein,Euphoria Intense,440,99,100,EDT,Men,Spicy,"Cashmere Woods, Madagascar Vanilla, Burnt Amber, Australian Sandalwood","Black Basil, Sage, Cedar, Vetiver",4.2,Al-Najm,3.7,347,341,77.5,347
+131,PACO RABANNE,Paco Rabanne,250,133.7,100,EDT,Men,Woody,"Tobacco, Oakmoss, Musk","Lavender, Thyme, Tarragon",4.4,AMLAQ,3.9,135,116.3,46.52,135
+132,Ajmal,Sacrifice,75.9,75.9,50,EDP,Women,Floral,"Woody, Oriental, Musky","Floral, Musky",4.5,neo lek,3.5,88,0,0,88
+133,BVLGARI,Petits Et Mamans,327,197.75,100,EDT,Women,Floral,"Iris, Vanilla",White Peach,4.8,Tiffany,4.2,75,129.25,39.53,75
+134,Ferrari,Scuderia Black,163,98.5,125,EDT,Men,Fruity,"Cedar, Amber, Musk, Vanilla","Cardamom, Cinnamon, Rose, Jasmine",4,Beauty Gallery,3.7,59,64.5,39.57,59
+135,TRUSSARDI,My Name,308,228,50,EDP,Women,Floral,"Dry Amber, Vanilla","Lilac, Musk",4.6,Beautiful Live,4.2,7,80,25.97,7
+136,VERSACE,Crystal Noir,342,183.45,50,EDT,Women,Arabian,"Sandalwood, Musk, Amber","Orange Blossom, Peony, Gardenia, Coconut",3.9,noon,4.2,98.1K,158.55,46.36,98100
+137,Calvin Klein,Intense Euphoria,290,109.95,100,EDT,Men,Spicy,"Labdanum, Amber, Patchouli, Agarwood, Myrrh","Black Basil, Sage, Cedar, Vetiver",4.4,noon,4.2,98.1K,180.05,62.09,98100
+138,PACO RABANNE,One Million Lucky,435,257.15,100,EDT,Men,Woody,"White cedar, patchouli, amber wood, vanilla","Hazelnut, Cedar, Jasmine",4.7,noon,4.2,98.1K,177.85,40.89,98100
+139,HERMES,Terre D' Hermes,474,173,100,EDT,Men,Citrus,"woody notes, patchouli, cedar",geranium,3.9,Boutique Wareef,4.2,98.1K,301,63.5,98100
+140,Alrehab,Anfas Aloud,215,85.5,60,EDP,Unisex,Arabian,oud,bergamot,5,Parisian Store,4.1,425,129.5,60.23,425
+141,EMPORIO ARMANI,Because It's You,483,154.7,100,EDP,Women,Floral,"Musk, Vanilla, Amberwood",Rose,4.9,Al-Najm,3.7,347,328.3,67.97,347
+142,Genie,London Burberry,29,14.95,25,EDP,Women,Floral,"Wood, Musk","Jasmine, Tiare Flower, Soft Peony",4.7,moon perfume,3.7,199,14.05,48.45,199
+143,Roberto Cavalli,Women,430,103,75,EDP,Women,Arabian,"Benzoin, Tonka Beans, Vanilla",Orange Tree Blossom,5,rich&light,3.8,69,327,76.05,69
+144,LALIQUE,Lalique,541,249,100,EDP,Women,Woody,"White Musk, Sandalwood, Vanilla","Blackberry, Cassis, Pear",4.4,Faces,3.9,61,292,53.97,61
+145,Franck Olivier,Oud Touch,93,93,100,EDP,Men,Woody,"Amber, Musk, Vanilla","Violet, Patchouli, Rose, Jasmine, Olibanum",5,Faces,3.9,61,0,0,61
+146,TOMMY HILFIGER,Tommy,340,130,100,EDT,Men,Spicy,"Amber, Cactus, Cotton Plant Blossom","Apple, Cranberries, Rose",5,Faces,3.9,61,210,61.76,61
+147,Elizabeth Arden,5th Avenue,155,93,75,EDP,Women,Floral,"Amber, Tibetan Musk, Sandalwood, Iris, Vanilla","Bulgarian Pink Violet, Ylang-ylang, Jasmine, Indian Tuberose, Peach, Carnation, Nutmeg",4,Ryhana Perfume,4.2,25,62,40,25
+148,ELIE SAAB,Girl Of Now,561,250,90,EDP,Women,Floral,"Patchouli, Cashmeran, Tonka bean, Almond milk","Orange Blossom, Magnoli, Almond",4.5,Beuatyone1,3.5,98,311,55.44,98
+149,PACO RABANNE,One Million,426,287.95,200,EDT,Men,Woody,"Blonde, Leather, Patchouli, white wood, Amber","Rose Absolute, Cinnamon Spices",5,noon,4.2,98.1K,138.05,32.41,98100
+150,Calvin Klein,Euphoria,289,94.55,100,EDT,Men,Woody,"Amber, Patchouli, Brazilian Redwood, Suede","Black Basil, Sage, Cedar",4.7,Star.perfume,3.9,537,194.45,67.28,537
+151,cacharel,Noa,299,154.75,100,EDT,Women,Fresh,"Woodsy transparent with coffee, incense touches","White flowers, ylang-ylang, rose",4.5,Star.perfume,3.9,537,144.25,48.24,537
+152,GUESS,Seductive Homme,134,91.75,100,EDT,Men,Spicy,"Musk, Sandalwood, Patchouli, Amber","Vetiver, Violet Leaf, Orchid",4.5,Star.perfume,3.9,537,42.25,31.53,537
+153,Al Fakhr,Ameer Al Oud Khususi,28,12,100,EDP,Unisex,"Woody, Sweet","Sandalwood, Cedarwood","Black Pepper, Cardamom",4.1,kikup,3.9,425,16,57.14,425
+154,Alrehab,Anfas Aloud,215,85.5,60,EDP,Unisex,Arabian,oud,bergamot,5,Parisian Store,3.7,425,129.5,60.23,425
+155,Givenchy,Pour Homme,219,117,100,EDT,Men,Spicy,"Labdanum, Ceder","Vetiver, Lavender",4.4,Al-Najm,3.7,347,102,46.58,347
+156,Rasasi,Blue,36.95,36.95,100,EDT,Men,Spicy,"Amber, Woody","Geranium, Rose, Coriander, Pepper, Jasmine",5,hadayiq baris,3.8,122,0,0,122
+157,GIORGIO ARMANI,Eau Pour Homme Reno 2013,361,186,50,EDT,Men,Citrus,"Patchouli, Oakmoss, Sandalwood","Cloves, Lily, Nutmeg",4.7,MOON LIGHT,3.8,76,175,48.48,76
+158,LACOSTE,Touch Of Pink,238,95,50,EDT,Women,Floral,"Woodsy-Musk Base, Vanilla","Jasmine, Unexpected Carrot, Spicy Coriander",4.6,Cute Shop,4.4,59,143,60.08,59
+159,GUESS,Gold,341,119,75,EDP,Women,Floral,"Sandalwood, Patchouli, Amber, Vetiver, Sensual Musk","Jasmine, Lotus, Intoxicating Seductress Rose",4.9,Beautiful Live,4.2,7,222,65.1,7
+160,BVLGARI,Goldea The Roman Night,530,229.25,75,EDP,Women,Floral,"Patchouli, Black Musk, Vetiver, Moss","Black Peony, Night-Blooming Jasmine, Rose, Tuberose",4.7,noon,4.2,98.1K,300.75,56.75,98100
+161,LACOSTE,Lacoste,368,115,100,EDT,Men,Citrus,"Cedar, Woody Notes, Amber, Vanilla, Musk","Black Pepper, Ginger, Jasmine, Almond",4.6,noon,4.2,98.1K,253,68.75,98100
+162,Guerlain,Samsara,400,221.45,100,EDP,Women,Arabian,"sandalwood, Vanilla, Tonka Bean, Amber, Musk","Jasmine, Cold Woodsy Iris, Luscious Narcissus, Violet, Rose",4.7,noon,4.2,98.1K,178.55,44.64,98100
+163,HUGO BOSS,The Scent,535,155,100,EDP,Women,Fruity,Cacao,Osmanthus,4.5,noon,4.2,98.1K,380,71.03,98100
+164,JAGUAR,Classic Gold,118,79.95,100,EDT,Men,Woody,"Patchouli, Vanilla, Musk","Orange Blossom, Teak Wood",4.7,Star.perfume,3.9,537,38.05,32.25,537
+165,Franck Olivier,Frank Olivier,139,87,75,EDP,Women,Musk,"Musk, Sandalwood, Vanilla","Jasmine, Ylang-Ylang, Heliotrope, Rose",4.7,AMLAQ,3.9,135,52,37.41,135
+166,CHOPARD,Happy Spirit Forever,440,98.1,75,EDP,Women,Oriental,"Patchouli, Amber","Rosemary, Jasmine, Orange Blossom",4.9,AMLAQ,3.9,135,341.9,77.7,135
+167,PACO RABANNE,Million,295,166.5,50,EDP,Women,Fresh,"Honey, Patchouli","Orange Flower Absolute, Jasmine Absolute",5,Number One,4.3,118,128.5,43.56,118
+168,Pino Silvestre,Pino Silvester Original,72.5,72.5,125,EDT,Men,Woody,"Amber, Cedar, Musk, Tonka Beans, Moss","Spicy Notes Of Carnation, Nutmeg, Geranium, Thyme, Fir Tree",5,neo lek,3.5,88,0,0,88
+169,MONTALE,Roses Musk,375,237.9,100,EDP,Women,Floral,Musk,Jasmine,5,Lolita ShopNo Exchange or Return,3.5,75,137.1,36.56,75
+170,Kenneth Cole,Black,315,177.9,100,EDT,Men,Floral,"Amber, Musk, Violet Leaf, Suede","Nutmeg, Incense, Cedar, Lotus, Exotic Woods",4.5,Alabeer,3.9,33,137.1,43.52,33
+171,Calvin Klein,Intense Euphoria,290,109.95,100,EDT,Men,Spicy,"Labdanum, Amber, Patchouli, Agarwood, Myrrh","Black Basil, Sage, Cedar, Vetiver",4.4,noon,4.2,98.1K,180.05,62.09,98100
+172,MONTBLANC,Legend,445,214.55,200,EDT,Men,Spicy,"Sandalwood, Tonka Bean","Coumarin, Oak moss, Geranium, Rose, Red Apple, Dried Fruits",4.5,noon,4.2,98.1K,230.45,51.79,98100
+174,Lattafa,Sheikh Al Shuyukh,63,32.75,50,EDP,Unisex,Aromatic,"Vetiver, Patchouli","Lavender Sage, Rosemary",4.8,noon,4.2,98.1K,30.25,48.02,98100
+175,Dolce & Gabbana,The One,100,100,75,EDP,Women,Fruity,"Tobacco, Amber, Cedar","Orange Blossom, Ginger, Cardamom",5,Asrar Aljamal,3.9,537,0,0,537
+176,Kenzo,World Intense,500,149.75,75,EDP,Women,Spicy,Vanilla,"Jasmine, Peony",4,Star.perfume,3.9,537,350.25,70.05,537
+177,Dolce & Gabbana,L' Imperatrice 3,370,157.7,100,EDT,Women,Fruity,"Lemon Tree, Musk, Sandalwood","Watermelon, Cyclamen, Jasmine",4.7,AMLAQ,3.9,135,212.3,57.38,135
+178,JAGUAR,Vision II,141,73.8,100,EDT,Men,Fruity,"Cedar, Musk, Patchouli, Wood","Geranium, Pepper, Sea Notes",5,Parvant Store,3.5,76,67.2,47.66,76
+179,Mariah Carey,Forever,197,126,100,EDP,Women,Floral,"Musk, Wood","Gardenia, Tuberose",4,perfumes--addresses,4.4,59,71,36.04,59
+180,BURBERRY,Brit Splash,278,194,100,EDT,Men,Fresh,"Moss, Musk, Vetiver","Cyclamen, Violet, Water Notes",4.6,Chansles,3.9,33,84,30.22,33
+181,PRADA,Amber Intense,324,321.95,100,EDP,Men,Spicy,Creamy Amber,Vanilla,4.4,Ryhana Perfume,4.2,25,2.05,0.63,25
+182,Milton Lloyd,Hawaii London,51,23,55,EDT,Women,Floral,"Woody Notes, Musk","Jasmine, Rose",4,hawas,4.2,9,28,54.9,9
+183,Lattafa,Khalis Pure Oudi,68,37,100,EDP,Unisex,Woody,"Amber, Cedar, Guaiac Wood, Musk, Vanilla","Jasmine, Sandalwood",4.3,noon,4.2,98.1K,31,45.59,98100
+184,GUESS,Marciano,111,83.3,100,EDP,Women,Citrus,"Vanilla, Musk, Woody Accords","Floral Rhythm Of Peony, Pink Honeysuckle, Intensively Clean, Sweet Jasmine",4.4,Star.perfume,3.9,537,27.7,24.95,537
+185,DORALL COLLECTION,Oud Arabi,11.35,11.35,100,PDT,Unisex,Woody,"Patchouli, sandalwood, musk, amber","Oud, rose, guaiac wood, jasmine",3.9,Princess of beauty,3.8,467,0,0,467
+186,COACH,Coach,36,8.7,2,EDP,Women,Floral,"Cashmeran, Suede, Musk","Turkish Rose, Gardenia",4.8,top langri,3.7,347,27.3,75.83,347
+187,Mancera,Coco Vanille,446,285,120,EDP,Women,Vanilla,"White Musk, Woody Notes, Madagascar Vanilla","Jasmine, Ylang-Ylang, Tiare Flower",5,AMLAQ,3.9,135,161,36.1,135
+188,BURBERRY,Weekend,197,160,100,EDP,Women,Oriental,"Violet Root, Iris, Nectarine, Peach Blossom, Rose Hip Red Cyclamen, Blue Hyacinth","Violet Root, Iris, Nectarine, Peach Blossom, Rose Hip Red Cyclamen, Blue Hyacinth",4.6,AMLAQ,3.9,135,37,18.78,135
+189,Estee Lauder,Private Collection,461,199.35,50,EDP,Women,Floral,"Sandalwood, Heliotrope, Amber, Musk","Bulgarian Rose, Chrysanthemum, Reseda, Ylang-Ylang, Coriander",4.6,Rose Gallary,3.9,118,261.65,56.76,118
+190,Marbert,Man Pure,114,54.7,125,EDT,Men,Citrus,"Oak Moss, Cedar, Sandalwood, Amber, Musk","Geranium, Jasmine, Lily Of The Valley, Majorjam, Coriander, Nutmeg",4.9,Rayhanti,3.8,88,59.3,52.02,88
+192,Givenchy,Gentlemen Only,627,260,100,EDT,Men,Woody,"Skin Accord, Tonka Bean","Cedar Wood, Patchouli Heart, Leather",4,Faces,3.9,61,367,58.53,61
+193,JAGUAR,Classic Amber,87,85,100,EDT,Men,Arabian,"Cedar Wood, Patchouli, Vanilla, Leather, Vetiver, Labdanum, Musk","Cinnamon, Black Pepper, Apple, Orange Blossoms, Elemi Resin",4.3,Abu Al Tayyeb Perfumes,3.9,33,2,2.3,33
+194,AIGNER,Debut,220,143.75,100,EDP,Women,Citrus,"Patchouli, Cedar, Vanilla, White Musk, Oak Moss","Luminous Orange Blossom, Water Lily, Jasmine, Sunflower Seed",4.5,noon,4.2,98.1K,76.25,34.66,98100
+195,J.CASANOVA,Pandora,142,88.95,100,EDP,Women,Floral,"Cedar, Moss, Musk, Amber, Sandalwood","Lily-of-the-valley, Rose, Jasmine, Narcissus, Orchid",5,noon,4.2,98.1K,53.05,37.36,98100
+196,Roberto Cavalli,Serpentine,286,162.85,100,EDP,Women,Arabian,"Tolu Balsam, Sandalwood, Amber","Violet Leaf, Tiare Flower, Pepper, Frangipani",4.4,noon,4.2,98.1K,123.15,43.06,98100
+197,BVLGARI,Man in Black,483,200.95,100,EDP,Men,Woody,"Benzoin, Guaiac Wood, Tonka Beans","Iris, Leather, Tuberose",4.7,Star.perfume,3.9,537,282.05,58.4,537
+198,MONTBLANC,Lady Emblem,8.5,8.5,2,EDT,Men,Floral,"Vanilla, Amber, Musk, Patchouli","Jasmine, Geranium, Neroli, Ylang-Ylang",5,Queen Beauty,3.8,467,0,0,467
+199,Al Fakhr,Ameer Al Oud Khususi,28,12,100,EDP,Unisex,"Woody, Sweet","Sandalwood, Cedarwood","Black Pepper, Cardamom",4.1,kikup,3.6,425,16,57.14,425
+200,LACOSTE,Touch Of Pink,249,90,90,EDT,Women,Floral,"Sandalwood, Musk, Vanilla","Carrot Seeds, Coriander, Jasmine, Violet Leaf, Cardamom",5,Cute Shop,3.7,347,159,63.86,347
+201,Dior,Addict,715,333.8,100,EDP,Women,Floral,"Amber, Caramel, Vanilla, Sandalwood, Pralines","Honeysuckle, Gardenia, Jasmine",5,AMLAQ,3.9,135,381.2,53.31,135
+202,BURBERRY,My Burberry Bl,699,255.85,90,EDT,Women,Floral,"Amber, Patchouli","Candied Rose, Peach Nectar",5,AMLAQ,3.9,135,443.15,63.4,135
+203,joop,Homme,170,52.15,75,EDT,Men,Citrus,"Sandalwood, Tonka Bean, Patchouli, Vanilla","Jasmine, Heliotrope, Lily-Of-The-Valley, Cardamom, Cinnamon",4.7,hadayiq baris,3.8,122,117.85,69.32,122
+204,TED LAPIDUS,Creation,101,50,100,EDT,Women,Floral,"Jasmine, Rose, Tuberose, Carnation","Jasmine, Rose, Tuberose, Carnation",4.7,alkhalijiah  perfume,3.5,88,51,50.5,88
+205,LOEWE,Esencia,230,219.9,150,EDT,Men,Woody,"Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax","Clary Sage, Nutmeg, Basil, Jasmine, Neroli, Lily Of The Valley, Rose, Pine Tree Needles, Geranium, Black Currant",5,Y,3.5,75,10.1,4.39,75
+206,Benetton,Hot,124,29.85,100,EDT,Women,Fruity,"Sandalwood, Amber, Musk, Vanilla, Oak Moss, Cedar","Apricot, Iris, Water Jasmine, Lily Of The Valley",5,Beauty Gallery,3.7,59,94.15,75.93,59
+207,KORLOFF,In White,100.15,100.15,88,EDT,Men,Citrus,"Cashmeran, Virginia Cedar, Musk, Tonka Bean","Lavender, African Orange Flower, Clary Sage",4.8,noon,4.2,98.1K,0,0,98100
+208,LACOSTE,Lacoste,310,98.95,50,EDP,Women,Floral,"Himalayan Cedar, Warm Woman Skin Accord, Sandal, Incense","Heliotrope, Jasmine In An Alliance with Hibiscus Blossom, Bulgarian Rose",4.6,noon,4.2,98.1K,211.05,68.08,98100
+209,LACOSTE,Lacoste,368,115,100,EDT,Men,Citrus,"Cedar, Woody Notes, Amber, Vanilla, Musk","Black Pepper, Ginger, Jasmine, Almond",4.6,noon,4.2,98.1K,253,68.75,98100
+210,Sedr Al-Khaleej Perfumes,Love Touch,111,49.85,100,EDP,Women,Fresh,"Woody Leather, Musk","Tiare Flower, Rose",5,noon,4.2,98.1K,61.15,55.09,98100
+211,BURBERRY,My Burberry Blush,699,199.9,90,EDP,Women,Arabian,"Jasmine, Wisteria","Rose petals, Green apple, Geranium",4.5,noon,4.2,98.1K,499.1,71.4,98100
+212,Lattafa,Rouat Al Oud,144,44.25,100,EDP,Unisex,Spicy,"Cedarwood, Patchouli, Vetiver, Musk","Cardamom, Spicy Notes",4.3,noon,4.2,98.1K,99.75,69.27,98100
+213,LANVIN,Rumeur,154,71,100,EDP,Women,Floral,"Amber, Patchouli, Musk","Orange Blossom, Plum, Rose, Jasmine, Lily Of The Valley",5,top langri,3.7,347,83,53.9,347
+215,CHLOE,Love Story,383,237,50,EDP,Men,Floral,"Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood","Coriander, Lily, Orange Blossom, Juniper Berries, Basil, Jasmine, Sage, Lily-of-the-Valley, Geranium",4,hadayiq baris,3.8,122,146,38.12,122
+218,Jimmy Choo,jimmy,441,188.95,100,EDP,Women,Floral,"Coffee, patchouli",Orchid,5,Faces,3.9,61,252.05,57.15,61
+219,Rasasi,Blue,53,35,100,EDT,Men,Spicy,"Amber, Woody","Coriander, Geranium, Jasmine, Rose, Pepper",4.3,hawas,4.2,9,18,33.96,9
+220,Dunhill,Desire Silver,192,118.95,100,EDT,Men,Floral,"Birch, Vetiver, Amber","Water Notes, Violet Leaf, Cardamom",5,noon,4.2,98.1K,73.05,38.05,98100
+221,Calvin Klein,Euphoria Amber Gold,327,166,100,EDP,Unisex,Arabian,"Lemon, Mint, Wood Moss","Sandalwood, Cedar",5,noon,4.2,98.1K,161,49.24,98100
+222,Britney Spears,Fantasy,189,89.95,100,EDP,Women,Floral,"Creamy Musk, Orris Root, Sensual Woods","Cupcakes, White Chocolate Orchid, Jasmine Petals",5,noon,4.2,98.1K,99.05,52.41,98100
+223,GUCCI,Guilty Absolute,515,299.85,90,EDP,Men,Woody,"Woody Notes, Vetiver","Patchouli, Cypress",4.3,noon,4.2,98.1K,215.15,41.78,98100
+224,joop,Homme,170,57,125,EDT,Men,Citrus,"Patchouli, sandalwood, tonka beans, vanilla","Cardamom, cinnamon, heliotrope, jasmine, lily of the valley",4.2,Cute Shop,4.2,98,113,66.47,98
+226,GUESS,Guess Pink,105,92.7,75,EDP,Women,Fruity,"Amber, Oakmoss, Cedar","Peony, Magnolia, Freesia, Peach, Jasmine, Ylang Ylang, Lily Of The Valley",5,the beauty,4.1,538,12.3,11.71,538
+227,Calvin Klein,One Shock,383,104.7,200,EDT,Men,Spicy,"Vetiver, Sandalwood, Amber","Osmanthus, Black Pepper, Cardamom, Black Basil",5,AMLAQ,3.9,135,278.3,72.66,135
+228,Lancome,Idol,739,299,50,EDP,Women,Floral,"White Musk, Vanilla","Turkish Rose, Rose De Mai Indian, Jasmine",5,hadayiq baris,3.8,122,440,59.54,122
+229,Dolce & Gabbana,The Only One 2,614,137.9,100,EDP,Women,Floral,"Tonka, Patchouli, Ambergris, Amber Woods","Red Rose, Violet, Coffee",4.3,hadayiq baris,3.8,122,476.1,77.54,122
+230,CARTIER,Declaration,390,240,100,EDP,Men,Fruity,"Cedar, Leather, Amberwood, BenzoinTolu,  Balsam Vetiver","Cardamom, Spices, Cumin",5,PARFUM.1990,3.6,111,150,38.46,111
+231,Marbert,Man,51.95,51.95,125,EDT,Men,Woody,"Musk, Sandalwood, Patchouli, Oak Moss, Virginia Cedar, Amber, Leather","Geranium, Jasmine, Lily Of The Valley, Majorjam, Coriander, Nutmeg",5,neo lek,3.5,88,0,0,88
+232,Calvin Klein,One Shock,176,106,200,EDT,Men,Spicy,"Musk, Patchouli, Amber, Tobacco","Black Pepper, Lively Black Basil, Resinous Cardamom",5,Dior Fragrances,3.9,69,70,39.77,69
+233,BURBERRY,Brit Rhythm Intense,370,136.65,90,EDT,Men,Spicy,"Cashmere Wood, Coumarin, Guaiac Wood, Leather, Sandalwood, Tonka Beans, Vanilla","Amber, Basil, Lavender, Mint, Patchouli",4.6,noon,4.2,98.1K,233.35,63.07,98100
+234,UNITED COLORS OF BENETTON,Cold Silver,72,29.35,100,EDT,Men,Fresh,"Silver Moss, Mineral Amber, Musk","Cardamom, Silver Sage, Driftwood",4.8,noon,4.2,98.1K,42.65,59.24,98100
+235,Lancome,Miracle,514,242,100,EDP,Women,Arabian,"Amber, Musk, Jasmine","Magnolia, Ginger, Mandarin Orange, Pepper, Jasmine",5,Parfume-Stor,4.2,98,272,52.92,98
+236,CHOPARD,Rose Malaki,520,189.95,80,EDP,Women,Spicy,"Cedarwood, Patchouli, Vanilla","Rose Absolu, Rose Petal Accord, Smoky Leather",4.3,noon,4.2,98.1K,330.05,63.47,98100
+237,LACOSTE,Blanc Pour Homme,356,95,100,EDT,Men,Woody,"Leather, Suede, Cedar","Mexican Tuberose, Ylang-Ylang",5,Cute Shop,3.9,537,261,73.31,537
+238,JAGUAR,Classic Red,64.95,64.95,100,EDT,Men,Fruity,"Patchouli, Cedar, Amber, Tonka, Vanilla","Jasmine, Pepper, Ozonic Notes",4.4,Star.perfume,3.9,537,0,0,537
+239,Lancome,La Vie Est Belle,465,233.95,50,EDP,Women,Floral,"Patchouli, Tonka Bean, Vanilla, Praline","Iris, jasmine, Orange Blossom",5,Grass gulf,3.9,537,231.05,49.69,537
+240,Givenchy,Dahlia Divin Nude,549,300,75,EDP,Women,Fresh,"Rose, Vanilla, Ginger","Pine, Cardamom, Lavender, Rosemary",4.5,Beautify,3.6,531,249,45.36,531
+241,Dolce & Gabbana,The One,299,190,100,EDT,Men,Spicy,"Ambery, Cedar wood","Cardamom, Ginger",4.7,hadayiq baris,3.8,122,109,36.45,122
+242,Estee Lauder,Private Collection,461,199.35,50,EDP,Women,Floral,"Sandalwood, Heliotrope, Amber, Musk","Bulgarian Rose, Chrysanthemum, Reseda, Ylang-Ylang, Coriander",4.6,Rose Gallary,3.5,118,261.65,56.76,118
+243,UNITED COLORS OF BENETTON,United Colors Of Benetton Hot,111,28,100,EDT,Men,Woody,"Sandalwood, Amber, Musk, Vanilla, Oakmoss, Cedar","Apricot, Iris, Water Jasmine, Lily-Of-The-Valley",4,Dior Fragrances,3.7,59,83,74.77,59
+244,UNITED COLORS OF BENETTON,Cold,70,27.2,100,EDT,Men,Spicy,"Patchouli, Vetiver, White Musk","Coriander, Lavender, Geranium",4.4,Perfume World Store,3.6,27,42.8,61.14,27
+245,CAROLINA HERRERA,Ch Men Sports,285,115,50,EDT,Men,Woody,"Sandalwood, Oak Moss, Vetiver","Sea Notes Mixed With Spices, Aromatic Accords – Sichuan Pepper, Juniper Berries",4.3,Pink Box,4.2,7,170,59.65,7
+246,CHLOE,Nomade,557,290.1,75,EDP,Women,Floral,"Oakmoss, Amberwood, Patchoulli, Sandalwood, White Musk","Freesia, Jasmine, Rose, Peach",4.6,noon,4.2,98.1K,266.9,47.92,98100
+248,Mancera,Cedrat Boise,413,253,120,EDP,Unisex,"Aromatic,Citrus","Leather, Oakmoss, Vanilla, Woody Notes",Patchouli Leaves,5,Star.perfume,3.7,537,160,38.74,537
+249,Dunhill,Edition,287,108.45,100,EDT,Men,Spicy,"Vetiver, Sandalwood, Cedar, Tonka Bean","Carnation, Geranium, Jasmine, Clary Sage",4.6,AMLAQ,3.9,135,178.55,62.21,135
+250,CARTIER,Pasha Edition Noir,478,198.55,100,EDT,Men,Oriental,"Woody Amber, Cedar Accords","Warm, Cuddly Aromas",4.6,AMLAQ,3.9,135,279.45,58.46,135
+251,Givenchy,Blue Label,380,143.85,100,EDT,Men,Spicy,"Cedar, Olibanum, Vetiver","Cardamom, Lavender, Pepper",4.8,hadayiq baris,3.8,122,236.15,62.14,122
+252,Dior,Joy,500,360,90,EDP,Women,Woody,"Sandalwood, Cedar Wood, Vanilla, Caramel Musk, Woody Accords","Jasmine, Rose, Muget, Freesia, Cinnamon",4,Golden Perfumes,3.6,113,140,28,113
+253,LALIQUE,Encre Noire,140,136,100,EDT,Men,Woody,"Musk, Cashmere Wood","Haitian, Bourbon Vetiver",4.5,Abu Al Tayyeb Perfumes,3.6,76,4,2.86,76
+254,Calvin Klein,CK One,220,98,100,EDT,Unisex,Citrus,"Sandalwood, Amber, Musk, Cedar, Oakmoss, Green Tea, Green Accord","Nutmeg, Violet, Orris Root, Lily-of-the-valley, Rose, Freesia, Jasmine",4.5,Spicebomb,3.8,66,122,55.45,66
+255,PACO RABANNE,Black XS,429,310,100,EDT,Men,Woody,"Black Amber, Patchouli","Praline, Cinnamon",4.3,Parfume-Stor,3.9,61,119,27.74,61
+256,AZZARO,Pour Homme,225,133,100,EDT,Men,Woody,"Leather, tonka bean, amber, musk, oakmoss","Sandalwood, juniper berries, patchouli, vetiver, cedar, cardamom",5,Instant,3.7,44,92,40.89,44
+258,Rasasi,Relation,126,55,50,EDP,Women,Fresh,"Musk, Vanilla","Bulgarian Rose, Lilac, Jasmine",5,Willow flower,4.3,5,71,56.35,5
+259,ESCADA,Magnetism,395,138.95,75,EDP,Women,Arabian,"Sandalwood, Amber, Patchouli, Musk, Benzoin, Caramel, Vetiver, Vanilla","Magnolia, Iris, Green Leaves, Freesia, Basil, Jasmine, Caraway, Heliotrope, Lily-Of-The-Valley, Rose, Almond Blossom",5,noon,4.2,98.1K,256.05,64.82,98100
+260,BOUCHERON,Pour Homme,340,165.7,100,EDP,Men,Woody,"Patchouli, Sandalwood","Coriander, Basil",4.5,noon,4.2,98.1K,174.3,51.26,98100
+261,DORALL COLLECTION,Eventful,29,8.3,100,EDT,Women,Woody,Musk,"Rose, Ylang - Ylang",4.5,B.A.G,3.7,14.1K,20.7,71.38,14100
+262,Yves Saint Laurent,Body Kouros,510,229.35,100,EDT,Men,Woody,Benzoin,"Cedar, Sage",5,Star.perfume,3.9,537,280.65,55.03,537
+263,VERSACE,L'Homme,185,145,100,EDT,Men,Citrus,"Amber, Labdanum, Leather, Musk, Tonka Beans, Vanilla","Carnation, Cedar, Cinnamon, Jasmine, Patchouli, Rose, Sandalwood",4.2,AMLAQ,3.9,135,40,21.62,135
+264,ESCADA,Magnetism,394,139.4,75,EDP,Women,Arabian,"Sandalwood, Amber, Patchouli, Musk, Benzoin, Caramel, Vetiver, Vanilla","Magnolia, Iris, Green Leaves, Freesia, Basil, Jasmine, Caraway, Heliotrope, Lily-of-the-valley, Rose",4.9,AMLAQ,3.9,135,254.6,64.62,135
+265,BURBERRY,My Burberry Bl,699,255.85,90,EDT,Women,Floral,"Amber, Patchouli","Candied Rose, Peach Nectar",5,AMLAQ,3.9,135,443.15,63.4,135
+266,DAVIDOFF,Cool Water,360,76.95,125,EDT,Men,Woody,"Amber, Cedar, Musk, Oakmoss, Tobacco","Geranium, Jasmine, Neroli, Sandalwood",4.5,hadayiq baris,3.8,122,283.05,78.63,122
+267,joop,Go,175,103.95,100,EDT,Men,Fresh,"Musk, Balsam Fir","Cypress, Violet, Bourbon Geranium",4.4,Abu Al Tayyeb Perfumes,3.6,111,71.05,40.6,111
+268,Jacques Bogart,Silver Scent,140,55,100,EDT,Men,Arabian,"Vetiver, Litchi, Tonka Bean, Teak Wood","Cardamom, Rosemary, Nutmeg, Lavender, Coriander, Geranium",4.5,Lady Style,4.3,88,85,60.71,88
+269,Paris Hilton,Fairy Dust,94,94,100,EDP,Women,Floral,"Vanilla, Musk, Pacsuli","Peach, gardenia, lotus",3.7,fajr-perfume,3.8,23,0,0,23
+271,NARCISO RODRIGUEZ,Narciso,591,284.95,90,EDP,Women,Floral,"Vetiver, White Cedar Extract, Cedar","Musk, Gardenia, White Rose",5,noon,4.2,98.1K,306.05,51.79,98100
+272,Lattafa,Rouat Al Oud,144,44.25,100,EDP,Unisex,Spicy,"Cedarwood, Patchouli, Vetiver, Musk","Cardamom, Spicy Notes",4.3,noon,4.2,98.1K,99.75,69.27,98100
+273,Jimmy Choo,jimmy,329,185,100,EDT,Men,Fruity,"Amber, Patchouli, Suede","Geranium, Pineapple Leaf, Pink Pepper",4.4,Star.perfume,3.9,537,144,43.77,537
+274,MONTBLANC,Explorer,12,9.5,2,EDP,Men,Woody,"Vetiver, Leather, Cedarwood","Patchouli, Mahonial, Ambrofix",4.8,Princess of beauty,3.8,467,2.5,20.83,467
+275,Calvin Klein,Euphoria,268,127.25,100,EDP,Men,Woody,"Black Violet, Liquid Amber, Mahogany, Cream Accords","Black Orchid, Champaca Flower",4.8,King-Perfume,3.6,450,140.75,52.52,450
+276,Ferrari,Man In Red,235,119.9,100,EDT,Men,Fruity,"Cedar, Tonka Bean, Labdanum","Lavender, Yellow Plum, Orange Blossom",5,top langri,4.4,347,115.1,48.98,347
+278,Ferrari,Scuderia Red,218,96.65,125,EDT,Men,Fruity,"Cedar, Sandalwood, Moss, Vanilla","Jasmine, Geranium, Orris, Nutmeg",5,AMLAQ,3.9,135,121.35,55.67,135
+279,Jacomo,Silences,158,143.95,100,EDP,Women,Floral,"Woody, musky","Danmask Rose, iris, narcissus",5,AMLAQ,3.9,135,14.05,8.89,135
+280,jil sander,Jil Sander,310,175,125,EDT,Men,Spicy,"Oakmoss, Cedar, Nutmeg, Woody Notes","Carnation, Geranium, Cinnamon, Patchouli",5,hadayiq baris,3.8,122,135,43.55,122
+282,GUESS,Marciano,108.95,108.95,100,EDP,Women,Floral,"Powdery Vanilla, Musk, Woody Accord","Floral Rhythm Of Peony, Pink Honeysuckle, Intensively Clean, Sweet Jasmine",5,Luxury,4.1,7,0,0,7
+283,joop,Homme,170,57,125,EDT,Men,Citrus,"Patchouli, sandalwood, tonka beans, vanilla","Cardamom, cinnamon, heliotrope, jasmine, lily of the valley",4.2,Cute Shop,3.7,98,113,66.47,98
+284,Alina Corel,Nice Girl,72,28.45,90,EDP,Women,Fruity,"Amber, Vanilla, Musk","Jasmine, Tuberose",4,noon,4.2,98.1K,43.55,60.49,98100
+285,HUGO BOSS,Hugo Boss,214,95,125,EDT,Men,Fresh,"Patchouli, Fir, Cedar","Carnation, Sage, Geranium, Jasmine",4.5,Cute Shop,4.2,425,119,55.61,425
+286,MINI COLLECTION,Mini Collection No.1075,10,10,25,EDP,Unisex,Musk,wood,vanilla,5,Nuna,3.9,266,0,0,266
+287,Ajmal,Rain Drops,234,49.9,50,EDP,Women,Floral,Ambery Woody,Animalistic Floral,5,Dary.Dar,3.9,178,184.1,78.68,178
+288,HUGO BOSS,Hugo,395,115,125,EDT,Men,Aromatic,"Cedar Wood, Fir, Patchouli","Carnation, Geranium, Jasmine, Sage",4.2,Grass gulf,3.5,135,280,70.89,135
+289,Calvin Klein,One Shock,177,102,200,EDT,Men,Spicy,"Amber, Patchouli, Woodsy Notes, Musk","Cardamom, Pepper, Basil, Osmanthus",4.7,AMLAQ,3.9,135,75,42.37,135
+292,Mancera,Red Tobacco,590,340,120,EDP,Men,Woody,"Precious Tobacco, Amber, Woody Notes, Vetiver, Vanilla Pods, White Musk","Patchouli Leaves, Jasmine",4.7,Faces,4.2,61,250,42.37,61
+293,Jean Paul GAULTIER,Scandal,622,350,80,EDP,Women,Floral,"Sandalwood, Caramel, Beeswax, Patchouli","Honey, Peach, Orange Blossom, Jasmine, Gardenia",5,Faces,3.9,61,272,43.73,61
+294,Jimmy Choo,Man Ice,496,204.9,100,EDT,Men,Woody,"Musk, moss, ambroxan","Vetiver, patchouli, cedar, apple",4.4,Abu Al Tayyeb Perfumes,4.1,7,291.1,58.69,7
+296,Calvin Klein,Escape,184,94.95,100,EDP,Women,Oriental,"Vanilla, Musk, Cedar, Sandalwood, Oakmoss, Amber, Vetiver","Carnation, Rose, Peach, Lily of the Valley, Jasmine, Cloves",5,noon,4.2,98.1K,89.05,48.4,98100
+298,Genie,1029 Collection,43,17.8,40,EDP,Women,Fruity,"Vegetal Amber, Musk, Mahogany","Magnolia, Lotus, Peony",4.8,Parisian Store,3.9,425,25.2,58.6,425
+299,Lancome,La Vie Est Belle,560,217,75,EDP,Women,Vanilla,"Patchouli, Praline, Tonka Beans, Vanilla","Iris, Jasmine, Orange Tree Blossom",4.4,Al-Najm,3.7,347,343,61.25,347
+300,ANGEL SCHLESSER,Essential,219,83.7,50,EDP,Women,Clean,"Sandalwood, Musk, Vetiver, Cedar","Peony, Violet, Freesia, Bulgarian Rose",4.3,AMLAQ,3.9,135,135.3,61.78,135
+301,VERSACE,Oud Noir,500,260,100,EDP,Men,Woody,"Agarwood, Patchouli, Leatherwood","Cardamom, Saffron, Olibanum",4.5,Lady Style,4.2,124,240,48,124
+302,Roberto Cavalli,cavalli,110,110,75,EDP,Women,Arabian,"Benzoin, Tonka Bean, Vanilla",African Orange Flower,5,hadayiq baris,3.8,122,0,0,122
+303,CAROLINA HERRERA,212 VIP,566,258.7,200,EDT,Men,Vanilla,"King Wood, Salty Amber, Tonka Beans","Chilled Vodka, Hot Ginger, Slice Of Apple",4.4,Parvant Store,3.8,76,307.3,54.29,76
+304,CAROLINA HERRERA,Prive,425,140,100,EDT,Men,Aromatic,"Leather, Benzoin, Tonka",Luxurious Notes of Whiskey,4.3,Perfume Ms,3.8,66,285,67.06,66
+306,Fendi,Furiosa,550,184.5,100,EDP,Women,Floral,"Incense, Gaïac Wood, Amber","Jasmine Absolute, Violaciocca Flower, Gardenia",4.2,noon,4.2,98.1K,365.5,66.45,98100
+307,jennifer lopez,Live,275,99.35,100,EDP,Women,Fruity,"Caramel, Sandalwood, Tonka Beans, Vanilla","Peony, Red Currant Blossom, Violet",4.5,noon,4.2,98.1K,175.65,63.87,98100
+308,Lattafa,Velvet Oud,85,56.75,100,EDP,Unisex,Floral,"Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Cedar, Tobacco.","Pine Tree, Honey, Orris Root, Jasmine, Caraway, Petitgrain, Lily-Of-The-Valley, Rose, Brazilian Rosewood, Incense",4,noon,4.2,98.1K,28.25,33.24,98100
+309,Guerlain,Habit Rouge,435,218.45,100,EDP,Men,Woody,"Labdanum, Leather, Amber, Benzoin, Oakmoss, Vanilla","Carnation, Sandalwood, Patchouli, Cinnamon, Jasmine, Cedar, Rose",4.5,Star.perfume,3.5,537,216.55,49.78,537
+312,jennifer lopez,Live Luxe,168,95,100,EDP,Women,Fresh,"diamond musk, soft musk","muguet petals, exotic amethyst freesia",5,neo lek,3.5,88,73,43.45,88
+313,Guerlain,Mon Florale,635,319,100,EDP,Women,Floral,"Vanilla, Iris, Sandalwood","Floral Notes, Peony, Jasmine Sambac, Ylang-Ylang, Neroli, Peach, Lily-Of-The-Valley",4.8,Faces,3.9,61,316,49.76,61
+314,GUCCI,Guilty Intense,330,224,90,EDT,Men,Floral,"Patchouli, Virginia Cedar, Amber","African Orange Flower, Neroli",4.4,flower,3.9,33,106,32.12,33
+315,PRADA,Milano Infusion D'iris,500,338,100,EDP,Women,Woody,"Incense, Benzoin","Iris, Cedar, Vetiver",5,Shopping life,4.2,20,162,32.4,20
+316,Michael Kors,kors,419,273,100,EDP,Women,Floral,"Musk, Cashmere Wood, Vetiver","Tuberose, Iris, Peony, Orris Root, Arum Lily",5,Beautiful Live,4.2,7,146,34.84,7
+317,Yves Saint Laurent,L'Homme,583,338.3,100,EDP,Men,Woody,"Cedar, Benzoin, Suede Accord","Violet Leaf, Orange Blossom",5,noon,4.2,98.1K,244.7,41.97,98100
+318,Ajmal,Teenz,134,74.85,50,EDP,Women,Floral,"Floral, Fruity, Musky","Fruity, Musky",4.5,noon,4.2,98.1K,59.15,44.14,98100
+319,TED LAPIDUS,Creation,162,162,100,EDT,Women,Fruity,"Amber, Musk, Sandalwood, veti","Gardenia, Jasmine, Tuberose, Daffodil, Rose, Ylang-ylang",4.3,KAYA,4.3,4K,0,0,4000
+320,BVLGARI,Goldea,615,200,90,EDP,Women,Arabian,"Musk, Amber, Patchouli, Papyrus","Ylang-Ylang, Jasmine, Musk",4.5,Beuatyone1,3.9,347,415,67.48,347
+321,Revlon,Charlie Blue,44,34,100,EDT,Women,Woody,"A Mix Of Sandalwood, Oakmoss","Jasmine, Muguet, Rose, Ylang-Ylang",4.2,Attractive perfume,3.5,244,10,22.73,244
+322,AZZARO,Chrome,203,143.7,100,EDT,Men,Citrus,"Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom","Cyclamen, Coriander, Jasmine, Oakmoss",5,AMLAQ,3.9,135,59.3,29.21,135
+323,Calvin Klein,CK IN2U,267,82.2,100,EDT,Men,Citrus,"Amber, Red Cader, Vanilla",Cacao Pod,5,AMLAQ,3.9,135,184.8,69.21,135
+326,BVLGARI,Aqva Marine Pour Homme,331,163.95,100,EDT,Men,Citrus,"Virginia Cedar, Amber","Seaweed, Rosemary, Water Notes",4.8,hadayiq baris,3.8,122,167.05,50.47,122
+327,VERSACE,Dylan Blue,77,38,5,EDT,Men,Arabian,"Musk, Tonka Bean, Incense, Saffron","Violet Leaves, Papyrus Wood , Patchouli, Black Pepper, Ambergris",4.2,neo lek,3.5,88,39,50.65,88
+328,Jacques Bogart,Silver Scent,140,55,100,EDT,Men,Arabian,"Vetiver, Litchi, Tonka Bean, Teak Wood","Cardamom, Rosemary, Nutmeg, Lavender, Coriander, Geranium",4.5,Lady Style,3.6,88,85,60.71,88
+329,GIORGIO ARMANI,Si,620,232.9,100,EDP,Women,Floral,"Patchouli, Woods, Amber, Orcanox, Vanilla","Rose de Mai, Neroli, Egyptian Jasmine, Freesia",5,Number One,4.2,98.1K,387.1,62.44,98100
+330,AIGNER,Debut Night,433,172.8,100,EDP,Women,Floral,"Cedar , Vanilla , Raspberry","Orange Blossom , Rose, Water Lily",5,Lolita Shop,4.3,4K,260.2,60.09,4000
+331,BVLGARI,Omnia Crystalline,504,279,65,EDT,Women,Woody,"White Sandalwood, Benzoin From Siam, Musks","Lotus Flower, Orris Concrete, Heliotrope",5,KAYA,4.3,4K,225,44.64,4000
+332,Lancome,Idôle ED,14.95,14.95,2,EDT,Women,Floral,"Vanilla, Amber, Musk, Patchouli","Jasmine, Geranium, Neroli, Ylang-Ylang",5,Princess of beauty,3.8,467,0,0,467
+333,Ard Al Zaafaran,Oud Sharqia,65,18.4,80,EDP,Unisex,Arabian,Sweet Wood,Citric,4.4,King-Perfume,4.2,450,46.6,71.69,450
+334,PACO RABANNE,1 Million Lucky,514,267.15,100,EDT,Men,Woody,"Oakmoss, Patchouli, Vetiver","Cashmere Wood, Cedar Wood, Hazelnut, Honey, Jasmine",4.5,AMLAQ,3.9,135,246.85,48.03,135
+335,VERSACE,Eros,645,369.7,200,EDT,Men,Arabian,"Cedar, Oakmoss, Vanilla, Vetiver","Ambroxan, Geranium, Tonka Beans",4.9,AMLAQ,3.9,135,275.3,42.68,135
+336,Calvin Klein,Reveal,427,169,100,EDP,Women,Floral,"Vetiver, Sandalwood, Cashmere, Musk","Powdery Iris, Ambergris",4.4,Faces,3.6,61,258,60.42,61
+337,GUCCI,Bloom Nettare Di Fiori,516,318.8,100,EDP,Women,Floral,"Patchouli, Musks, Osmanthus","Tuberose, Honeysuckle, Jasmine",5,perfumes--addresses,4.4,59,197.2,38.22,59
+338,LANVIN,Lanvin,139,113,100,EDT,Men,Woody,"Sandalwood, Amber, Musk, Vanilla","Pepper, Mint, Sage, Cardamom",5,Chansles,3.9,33,26,18.71,33
+339,HUGO BOSS,Femme,415,139.35,75,EDP,Women,Floral,"Apricot, Amber, Lemon Tree","Lily, Jasmine, Bulgarian Rose",4.8,Lolita Shop,3.7,23,275.65,66.42,23
+340,Britney Spears,Fantasy,314,99,100,EDP,Women,Floral,"Creamy Musk, Orris Root, Sensual Woods","Cupcake, Jasmine, White Chocolate Orchid",4.5,noon,4.2,98.1K,215,68.47,98100
+341,ELIE SAAB,Royal,711,239.75,90,EDP,Women,Floral,"Indonesian Patchouli Essence, Indian Sandalwood, Amber, Vanilla","Turkish Rose Absolute, Bulgarian Rose Absolute, Lebanese Neroli",5,noon,4.2,98.1K,471.25,66.28,98100
+342,GIORGIO ARMANI,Si Fiori,855,323.05,100,EDP,Women,Floral,"Vanilla, White Musk","Neroli, Rose",5,Number One,4.2,98.1K,531.95,62.22,98100
+343,CAROLINA HERRERA,212 Men Nyc,385,163.9,100,EDT,Men,Woody,"Labdanum, Sandalwood, Musk, Guaiac Wood, Vetiver, Incense","Ginger, Gardenia, Violet, Sage",4.3,Beuatyone1,3.9,1.9K,221.1,57.43,1900
+344,Kenzo,Jeu D'Amour L'elixir,447,195.45,75,EDP,Women,Fruity,"Caramel, Patchouli, Rum, Sandalwood, Vanilla","Jasmine, Tuberose",4.6,Star.perfume,3.9,537,251.55,56.28,537
+345,HUGO BOSS,Hugo,395,115,125,EDT,Men,Aromatic,"Cedar Wood, Fir, Patchouli","Carnation, Geranium, Jasmine, Sage",4.2,Grass gulf,3.7,135,280,70.89,135
+346,Calvin Klein,Euphoria Intense,99.95,99.95,100,EDT,Men,Spicy,"Amber, Patchouli, Agarwood, Myrrh, Labdanun","Black Basil, Sage, Cedar, Vetiver",5,hadayiq baris,3.8,122,0,0,122
+347,MONTBLANC,Legend Spirit,342,140,100,EDT,Men,Citrus,"White Musk, white wood, Cashmere Wood, Oakmoss","Water Notes, Lavender, Cardamom",4.7,hadayiq baris,3.8,122,202,59.06,122
+349,PACO RABANNE,Invictus,601,279.1,150,EDT,Men,Citrus,"Guaiac Wood, Patchouli Heart","Ambregris Accord, Grapefruit Zests",5,Perfume Ports,3.6,111,321.9,53.56,111
+350,TRUSSARDI,Uomo,260,143.75,100,EDT,Men,Floral,"Patchouli, Oak Moss, Leather","Geranium, Violet, Clary Sage",4.1,Parvant Store,3.8,76,116.25,44.71,76
+351,LOEWE,Esencia Pour Homme,514,177,150,EDT,Men,Woody,"Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax","Clary Sage, Nutmeg, Basil, Jasmine, Neroli, Lily-of-the-valley, Rose, Pine Tree Needles, Geranium, Black Currant",5,Pinch Of Perfum,4.2,32,337,65.56,32
+352,Calvin Klein,Escape,184,94.95,100,EDP,Women,Oriental,"Vanilla, Musk, Cedar, Sandalwood, Oakmoss, Amber, Vetiver","Carnation, Rose, Peach, Lily of the Valley, Jasmine, Cloves",5,noon,4.2,98.1K,89.05,48.4,98100
+353,MONTBLANC,Explorer,310,187.9,100,EDP,Men,Woody,"Ambroxan, Akigalawood, Indonesian Patchouli Leaf, Cacao Pod","Haitian Vetiver, Leather",5,noon,4.2,98.1K,122.1,39.39,98100
+354,Fendi,Furiosa,207,101.85,50,EDP,Women,Floral,"Amber, Incense, Guaiac Wood","Jasmine, Violaciocca Flower, Gardenia",4.6,noon,4.2,98.1K,105.15,50.8,98100
+355,GUCCI,Guilty Pour Homme,340,200.2,90,EDT,Men,Floral,"Patchouli, Virginia Cedar",African Orange Flower,4.5,noon,4.2,98.1K,139.8,41.12,98100
+356,MONTBLANC,Legend,342,108.5,100,EDT,Men,Spicy,"Sandalwood, Tonka Bean","Coumarin, Oak Moss, Geranium, Rose, Apple, Dried Fruit",4.7,Perfume Ms,3.5,98,233.5,68.27,98
+357,Miu Miu,miu miu,515,249.95,100,EDP,Women,Floral,Akigalawood,"Green Notes, Jasmine, Rose",5,noon,4.2,98.1K,265.05,51.47,98100
+358,Givenchy,L'Interdit,446,228,50,EDP,Women,Floral,"Vetiver, Patchouli, Ambroxan, Vanilla","Orange Blossom, Jasmine, Tuberose",5,Brand Land,4.3,4K,218,48.88,4000
+359,Estee Lauder,White Linen,354,197.5,60,EDP,Women,Oriental,"Vetiver, Sandalwood, Cedar, Amber, Benzoin, Tonka Bean, Honey, Oakmoss","Carnation, Iris, Jasmine, Hyacinth, Ylang-Ylang, Rose, Lily-Of-The-Valley, Violet, Lilac, Orchid, Orris",4.6,Precious Store,4.1,319,156.5,44.21,319
+360,Estee Lauder,White Linen,214,214,60,EDP,Women,Arabian,"Vetiver, Sandalwood, Amber, Benzoin, Tonka Bean, Honey, Oakmoss","Carnation, Iris, Jasmine, Hyacinth, Ylang-Ylang, Rose, Lily-of-the-Valley, Violet, Lilac, Orchid, Orris",5,Precious Store,4.1,319,0,0,319
+362,PACO RABANNE,Ultraviolet,281,148.65,80,EDP,Women,Floral,"Madagascar Vanilla Absolute, Ambergris","Chinese Osmanthus, Indian Sambac Jasmine",4.8,AMLAQ,3.9,135,132.35,47.1,135
+363,Givenchy,Play Intense,438,259.9,50,EDT,Men,Spicy,"Vetyver, French Labdanum, Patchouli, Tonka Bean","Amyris, Pink Pepper, Coffee",4.4,Y,3.5,75,178.1,40.66,75
+364,BURBERRY,Brit Sheer,232,123.95,100,EDT,Women,Fruity,"White Musk, Blond Wood","Pink Peony, Peach Blossom, Nashi, Floral Accent",4.8,noon,4.2,98.1K,108.05,46.57,98100
+365,ELIE SAAB,Girl Of Now,583,264.9,90,EDP,Women,Floral,"Patchouli, Cashmeran, Tonka Bean, Almond Milk","Range Blossom, Magnolia, Almond",4,noon,4.2,98.1K,318.1,54.56,98100
+366,JAGUAR,Jaguar,179,59.7,100,EDT,Men,Aromatic,"Leather, Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Vanilla, Cedar, Tobacco, Fern","Cyclamen, Nutmeg, Carnation, Gardenia, Cinnamon, Jasmine, Caraway, Sage, Rose, Geranium, Fir",4.5,noon,4.2,98.1K,119.3,66.65,98100
+367,DORALL COLLECTION,Eternally Hot,29,8,100,EDT,Women,Woody,"Vanilla, Musk","Gardenia, Jasmine",4.5,B.A.G,4.2,14.1K,21,72.41,14100
+368,BOUCHERON,Place Vendome,187,187,100,EDP,Women,Floral,"Cedar, White Musk","Iris, Rose, Jasmine",4.5,the beauty,4.1,538,0,0,538
+369,Guerlain,Habit Rouge,435,218.45,100,EDP,Men,Woody,"Labdanum, Leather, Amber, Benzoin, Oakmoss, Vanilla","Carnation, Sandalwood, Patchouli, Cinnamon, Jasmine, Cedar, Rose",4.5,Star.perfume,3.9,537,216.55,49.78,537
+371,HUGO BOSS,Ma Vie,185,125,75,EDP,Women,Floral,"Cedar, Woody Notes","Pink Freesia, Jasmine, Rose",5,Rose Gallary,4.2,347,60,32.43,347
+372,Roberto Cavalli,Paradisio Azzuro,499,168,75,EDP,Women,Floral,"Amberwood, Cashmere Wood, Cypress, Sandalwood, Vanilla","Apple, Jasmine, Peach, Rose, Tuberose, Water Notes",4.8,AMLAQ,3.9,135,331,66.33,135
+373,Dolce & Gabbana,The One,441,130.95,100,EDT,Men,Spicy,"Amber, Moss, Musk, Vanilla, Vetiver","Genisteae, Jasmine, Lily, Lily Of The Valley, Orange Tree Blossom, Ylang-Ylang",4.5,Perfume Ms,3.6,111,310.05,70.31,111
+374,BENTLEY,Momentum Intense,226,144,100,EDP,Men,Woody,"Amber Wood, Sandalwood, White Musk","Geranium, Tonka Bean, Marine Ambergris",5,MOON LIGHT,3.9,61,82,36.28,61
+375,Guerlain,Mon Bloom Of Rose,586,272,100,EDT,Women,Floral,"Neroli, Rose",Sambac Jasmine,4,Faces,3.9,61,314,53.58,61
+376,KORLOFF,In White,562,116,88,EDT,Men,Citrus,"Cashmeran, Virginia Cedar, Musk, Tonka Bean","Lavender, African Orange Flower, Clary Sage",5,noon,4.2,98.1K,446,79.36,98100
+377,TESORI D´ORIENTE,Orchidea della Cina,60,38.95,100,EDT,Women,Floral,"Myrrh, Praline, Musk, Vanilla, Sandalwood","Orange Blossom, Tiare Flower, Jasmine, Orchid",4.3,noon,4.2,98.1K,21.05,35.08,98100
+378,S.T.Dupont,Passenger,310,106.15,100,EDP,Women,Fruity,"Iris, Vanilla, White Musk, Sandalwood","Cyclamen, Rose, Gardenia, White Peach",4.9,noon,4.2,98.1K,203.85,65.76,98100
+379,TRUSSARDI,Uomo,230,138.85,100,EDT,Men,Spicy,"Leather, Moss, Patchouli","Clary Sage, Violet",5,noon,4.2,98.1K,91.15,39.63,98100
+381,BURBERRY,Body,283,142,85,EDP,Women,Woody,"Cashmere Wood, Musk, Amber, Vanille","Iris, Rose, Sandalwood",5,King-Perfume,4.2,450,141,49.82,450
+382,GUCCI,Bamboo,575,189,75,EDP,Women,Floral,Sandalwood,"Casablanca Lily, Ylang Ylang Extra-Comoros",4.8,Al-Najm,3.7,347,386,67.13,347
+383,Revlon,Charli Blue,44,44,100,EDT,Women,Woody,"Sandalwood, Oakmoss, Musk","Jasmine, Muguet, Rose, Ylang-ylang",5,Attractive perfume,3.5,244,0,0,244
+384,HUGO BOSS,Hugo Man,269,99.5,75,EDT,Men,Fresh,"Patchouli, Fir, Cedar","Carnation, Sage, Geranium, Jasmine",4.3,AMLAQ,3.9,135,169.5,63.01,135
+385,BENTLEY,Absolute,200,154,100,EDP,Men,Woody,"Moss, Agarwood, Amber, Atlas Cedar","Olibanum, Papyrus, Sandalwood",5,Nawaem_perfumes,3.9,69,46,23,69
+386,BURBERRY,Burberry Body,499,164.35,85,EDP,Women,Fruity,"Woody Cashmeran, Creamy Vanilla, Amber, Musk.","Natural Rose Absolute, Iris, Warm Sandalwood.",4.8,perfumes--addresses,3.9,59,334.65,67.06,59
+387,Calvin Klein,Reveal,264,149.4,100,EDT,Men,Vanilla,"Haitian Vetiver, Vintage Vanilla, Golden Amber","Agave Nectar, Kiwano",5,Alabeer,3.6,30,114.6,43.41,30
+388,AZZARO,Chrome,269,135,100,EDT,Men,Citrus,"Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom","Rosemary, Pineapple, Neroli, Bergamot, Lemon",4,noon,4.2,98.1K,134,49.81,98100
+389,Dunhill,Custom,330,89.85,100,EDT,Men,Floral,"Virginia Cedar, Incense",Pepper,4.3,noon,4.2,98.1K,240.15,72.77,98100
+390,DORALL COLLECTION,Super Cobra,29,8.8,100,EDT,Women,Floral,"Amber Milk, Mousse Australian, Sandalwood, Vanilla","Orange, Blossom Peach, Raspberry Leaf",5,B.A.G,3.7,14.1K,20.2,69.66,14100
+391,Lolita Lempicka,lolita,430,222.6,100,EDP,Women,Vanilla,"Musk, Praline, Tonka Beans, Vanilla, Vetiver","Amaryllis, Cherry, Iris, Licorice, Orris Root",4.4,Star.perfume,3.9,537,207.4,48.23,537
+392,RALPH LAUREN,Polo Blue,465,327,125,EDP,Men,Woody,Vetiver,Blue Orris Accord,4.7,top langri,3.9,347,138,29.68,347
+393,NARCISO RODRIGUEZ,Narciso Rodriguez For Her,442,108.75,100,EDT,Women,Woody,"Vetiver, Vanilla","Egyptian Musk, Amber",4.7,Creativity star,3.5,319,333.25,75.4,319
+394,MINI COLLECTION,Eaudemoiselle No.1154,16,16,25,EDP,Unisex,Oriental,rose,cinnamon,4.9,original,3.9,235,0,0,235
+395,CHOPARD,Happy Spirit,269,148.95,75,EDP,Women,Fruity,"Amber, Musk, Cashmere Wood","Honeysuckle, Osmanthus",5,AMLAQ,3.9,135,120.05,44.63,135
+396,Guerlain,Ideal,516,228.2,100,EDT,Men,Woody,"Leather, Cedar, Vetiver","Almond, Tonka Bean",4,AMLAQ,3.9,135,287.8,55.78,135
+397,CHLOE,Chloe,428,188.85,50,EDP,Women,Floral,"Amber, Virginia Cedar","Rose, Lily-Of-The-Valley, Caribbean Magnolia",5,hadayiq baris,3.8,122,239.15,55.88,122
+398,TED LAPIDUS,Lapidus Pour Homme,122,66,100,EDT,Men,Woody,"Sandalwood, tonka bean, amber, patchouli, musk, oakmoss, cedar, tobacco.","pine tree, honey, orris root, jasmine, caraway, petitgrain, lily-of-the-valley, rose, brazilian rosewood, incense",5,Diorworld,3.5,75,56,45.9,75
+399,CAROLINA HERRERA,Bad Boy,652,204,100,EDT,Men,Spicy,"Tonka Bean, Amberwood, Cacao","Cedar, Sage",5,The first fragrance,4.1,5,448,68.71,5
+400,VERSACE,Blue Jeans,170,109.25,75,EDT,Men,Arabian,"Vanilla, Tonka Bean, Iris, Sandalwood, Musk, Amber, Vetiver, Cedar, Patchouli","Lavender, Rose, Carnation, Heliotrope, Jasmine, Geranium, Sage, Fir, Lily-Of-The-Valley",4.4,noon,4.2,98.1K,60.75,35.74,98100
+401,BVLGARI,Extreme,441,203.8,100,EDT,Men,Citrus,"Balsa Wood, Haitian Vetiver, Laotian Benzoin","White Freesia, Guatemalan Cardamom, Vegetal Amber",5,noon,4.2,98.1K,237.2,53.79,98100
+402,LACOSTE,Pour Femme,322,123.05,90,EDP,Women,Floral,"Cedar, Vetiver, Sandalwood, Musk","Jasmine Petals, White Heliotrope, Hibiscus",4.5,noon,4.2,98.1K,198.95,61.79,98100
+403,S.T.Dupont,Dupont,221,83.9,100,EDT,Men,Spicy,"Heliotrope, Musk, Lignum Vitae, Amber","Essence Of Birch, Iris, Cedar Wood",4.4,noon,4.2,98.1K,137.1,62.04,98100
+404,DORALL COLLECTION,Simple,15,8.5,100,EDT,Women,Floral,"Amber, patchouli, vanilla, musk, sandalwood","Magnolia, gardenia, lily of the valley, freesia, jasmine",4.3,B.A.G,3.7,14.1K,6.5,43.33,14100
+405,CHOPARD,Happy Spirit,185,155,75,EDP,Women,Fruity,"Amber, Musk, Cashmere Wood","Honeysuckle, Osmanthus",5,Star.perfume,3.9,537,30,16.22,537
+406,COACH,New York,501,183.95,90,EDP,Women,Fruity,Suede Musk Sandalwood Cashmeran,Turkish Rose Gardenia Cyclamen,4.7,Star.perfume,3.9,537,317.05,63.28,537
+407,BOUCHERON,Place Vendome,201,177.9,100,EDP,Women,Floral,"Cedar, Sensual Benzoin","Jasmine Petals, Peony, Creamy Honey",4.5,Lolita Shop,3.7,347,23.1,11.49,347
+408,CARTIER,Declaration D'Un Soir,365,213,100,EDT,Men,Spicy,Sandalwood,"Rose, Nutmeg",4.8,AMLAQ,3.9,135,152,41.64,135
+410,DAVIDOFF,Leather Blend,420,224.85,100,EDP,Unisex,Spicy,"Leather, Papyrus","Rose, Amber",5,Y,3.5,75,195.15,46.46,75
+411,Al Fakhr,Shiyoukh Al Oud,8.9,8.9,100,EDP,Unisex,"Woody, Musky","Sandalwood, Cedarwood","Black Pepper, Cardamom",4.5,Bismat Eatar,3.7,66,0,0,66
+412,Dolce & Gabbana,Intenso,496,200.35,125,EDP,Men,Spicy,"Labdanum, Sandalwood, Cypress, Musk, Amber","Tobacco, Hay, Moepel Accord, Clary Sage, Bran",4.5,noon,4.2,98.1K,295.65,59.61,98100
+413,Dolce & Gabbana,L'imperatrice 3,245,148.3,100,EDT,Women,Floral,"Citrus Wood, Musks, Sandalwood","Watermelon, Cyclamen, Jasmine",4.3,noon,4.2,98.1K,96.7,39.47,98100
+414,Lattafa,Oud Mood Gold Elixir,147,50.6,100,EDP,Unisex,Arabian,"Vanilla, Ambra","Lemd De Santal, Agar, Oud wood, Leather notes",3.8,noon,4.2,98.1K,96.4,65.58,98100
+415,DORALL COLLECTION,Courageous,22,9.95,100,EDT,Women,Floral,"Orris Root, Musk, Vanilla","Roses, Iris",4.7,B.A.G,3.7,14.1K,12.05,54.77,14100
+416,Nikos,Sculpture Homme,75,58.5,100,EDT,Men,Floral,"Tonka bean, amber, benzoin, cedar","Jasmine, lily-of-the-valley, rose, geranium",4.7,Star.perfume,4.2,537,16.5,22,537
+417,ROGER & GALLET,Open,143,51.5,100,EDT,Men,Spicy,"Tobacco, Patchouli, Vetiver","Sage, Thyme",4.8,Diorworld,3.9,135,91.5,63.99,135
+419,LACOSTE,L.12.12 Rouge,113,113,100,EDT,Men,Spicy,Acacia Wood,Rooibos Tea Extract (red Bush Tea),4,hadayiq baris,3.8,122,0,0,122
+420,Ajmal,Sacrifice,79,75.9,50,EDP,Women,Floral,"Ambergris, Musk","Orange Blossom, Vanilla",4.2,neo lek,4.3,88,3.1,3.92,88
+421,Franck Olivier,Oud Vanille,167,90,100,EDP,Men,Arabian,"Woody Notes, Spices, Musk, Vanilla","Rose, Violet, Jasmine, Patchouli, Incense",5,Nawaem_perfumes,3.9,69,77,46.11,69
+422,BURBERRY,The Beat,280,150,75,EDP,Women,Floral,"White Musk, Vetiver, Cedar Wood","Ceylon Tea, Iris, Bluebell",4.3,Faces,3.7,61,130,46.43,61
+423,Ajmal,Sacrifice,153,70,50,EDP,Women,Floral,"Woody, Oriental, Musky","Floral, Musky",4.6,Rayhanti,4.2,27,83,54.25,27
+424,Givenchy,Eau De Moiselle,550,183,100,EDT,Women,Floral,"Ambrette Seeds, Tonka Beans, Musk","Rose, Ylang Ylang",5,Asrar Aljamal,4.2,98,367,66.73,98
+425,AZZARO,Chrome Legend,266,123.3,125,EDT,Men,Woody,"Cedar, Vetiver","Moss, Musk",5,noon,4.2,98.1K,142.7,53.65,98100
+426,DORALL COLLECTION,DC,29,9.3,100,EDT,Men,Floral,"Vetiver, Patchouli, Oakmoss, Musk, Sandalwood","Galbanum, Rosemary, Jasmine, Coumarin",4,B.A.G,4.2,14.1K,19.7,67.93,14100
+427,Juicy Couture,play around,355,126.25,100,EDP,Women,Floral,"Caramel, Vanilla, Patchouli","Princess lily, Tuberose, Wild Rose",4,Star.perfume,3.9,537,228.75,64.44,537
+428,COACH,New York Platinum,11,7.9,2,EDP,Men,Oriental,"Patchouli, Vanilla Leather",Aromatic Accords,4.5,Princess of beauty,3.8,467,3.1,28.18,467
+429,CAROLINA HERRERA,212 Vip,363,160,100,EDT,Men,Vanilla,"King Wood, Salty Amber, Tonka Beans","Chilled Vodka, Hot Ginger, Slice Of Apple",5,Al-Najm,3.7,347,203,55.92,347
+430,Mercedes-Benz,Club Black,295,185,100,EDT,Women,Vanilla,"Ambroxan, Benzoin, Woodsy Notes, Vanilla","Jasmine, Incense",5,Parvant Store,3.8,76,110,37.29,76
+431,TOMMY HILFIGER,Tommy Girl,380,122.95,100,EDT,Women,Citrus,"Desert Jasmin, Cherokee Rose, Magnolia Petals, Dakota Lilies, Cedar, Sandalwood, Wild Heather","Grapefruit, Citrus Orchards, Crisp Green Notes, Honeysuckle, Butterfly Violets",4.4,Parvant Store,4.2,76,257.05,67.64,76
+432,Guerlain,Vetiver,426,174,100,EDT,Men,Aromatic,"Vetiver, Oakmoss, Leather, Myrrh, Civet, Tonka Bean, Amber","Vetiver, Pepper, Carnation, Sage, Orris Root, Sandalwood",5,Nawaem_perfumes,3.9,69,252,59.15,69
+433,Dior,Sauvage,430,208.25,100,EDT,Men,Spicy,"Cedar, Ambroxan","Geranium, Lavender, Elemi, Pink Pepper, Patchouli, Vetiver",5,Parfume-Stor,3.8,66,221.75,51.57,66
+435,PACO RABANNE,Lady Million,420,158,80,EDP,Women,Floral,"Patchouli, White Honey, Amber","Jasmine, African Orange Flower, Gardenia",4.7,Show Biz,4.2,7,262,62.38,7
+436,CARTIER,La Panthere,695,235.85,75,EDP,Women,Fruity,"Oakmoss, Musk, Patchouli, Leather","Gardenia, Rose, Ylang-Ylang, Orange Blossom, Pear",4.7,noon,4.2,98.1K,459.15,66.06,98100
+437,DAVIDOFF,The Game,147,77,100,EDT,Men,Woody,Ebony Wood,"Iris, Woody Notes",5,Cute Shop,4.2,98.1K,70,47.62,98100
+438,PACO RABANNE,Ultraviolet,353,165,100,EDT,Men,Woody,"Indonesian Patchouli, Oakmoss","Tanzanian Black Pepper, Ambergris",4.4,Star.perfume,3.9,537,188,53.26,537
+439,Shirley May,Black Car,21,9.95,100,EDT,Men,Citrus,"Amber, palisander rosewood","Cedar, spicy notes",4.5,Beautify,3.6,528,11.05,52.62,528
+440,Ard Al Zaafaran,Oud Sharqia,65,18.4,80,EDP,Unisex,Arabian,Sweet Wood,Citric,4.4,King-Perfume,3.6,450,46.6,71.69,450
+442,GUESS,Marciano,150,80.7,100,EDT,Men,Spicy,"Woody, Spicy","Spicy, Lavenday, Sage",4.7,AMLAQ,3.9,135,69.3,46.2,135
+443,Estee Lauder,Modern Muse Nuit,615,284.8,100,EDP,Women,Floral,"Vanilla, Amber, Patchouli, Sandalwood","Heliotrope, Chamomile, Chinese Jasmine",5,AMLAQ,3.9,135,330.2,53.69,135
+444,BURBERRY,My Burberry,699,226.65,90,EDP,Women,Floral,"Oined with Damascus, Centifolia Rose","Freesia Flowers, Golden Quince",5,AMLAQ,3.9,135,472.35,67.58,135
+445,Rasasi,Hatem,129,69.25,75,EDP,Unisex,Spicy,"Woody, Aandal, Cedar Wood, Musk","Jasmine, Rose",5,Instant,3.7,44,59.75,46.32,44
+446,LACOSTE,Joy Of Pink,427,113.95,90,EDT,Women,Floral,"Musk, vanilla","Jasmine, carrot, spicy coriander",4.4,Kado Store,4.3,23,313.05,73.31,23
+447,LALIQUE,Le'Parfum,143,143,100,EDP,Women,Oriental,"Sandalwood, Tonka Bean, Patchouli, Vanilla","Jasmine, Heliotrope",4.4,Beautiful Live,4.1,7,0,0,7
+448,GUCCI,Memoire  D'une Odeur EDP For Uni,530,349.95,100,EDP,Unisex,Fresh,"Sandalwood, Cedar, Vanilla","Coral Jasmine, Jasmine Petals, Musks",5,noon,4.2,98.1K,180.05,33.97,98100
+449,VERSACE,Versace,216,137.45,100,EDP,Women,Fruity,"Musk, Grey Amber, Inoki Wood","Lotus, Plum, Raspberry, Lebanese Blue Cedar",4.4,noon,4.2,98.1K,78.55,36.37,98100
+450,DORALL COLLECTION,Oud Wood,19,9.9,100,PDT,Unisex,Citrus,"Cedar, tobacco, patchouli, sandalwood, musk","Geranium, marigold, rose, bay leaves",4.3,B.A.G,4.2,14.1K,9.1,47.89,14100
+451,HUGO BOSS,The Scent,426,135,100,EDT,Men,Spicy,"Leather, Woody Notes","Lavender, Maninka",3.6,Perfume Ms,3.7,537,291,68.31,537
+452,CHOPARD,Casmir,292,94.9,100,EDP,Women,Vanilla,"Amber, Woods, Musk, Patchouli, Sandalwood, Vanilla","Geranium, Jasmine, Lily-Of-The-valley",4.5,King-Perfume,3.9,450,197.1,67.5,450
+453,CAROLINA HERRERA,212 Sexy,420,151,100,EDP,Women,Floral,"Cotton Candy, Musk, Sandalwood, Vanilla","Gardenia, Geranium",4.7,Al-Najm,3.7,347,269,64.05,347
+454,Guerlain,L'instant,722,262.9,100,EDP,Women,Vanilla,"Vanilla, Benzoin, Musk, Amber","Magnolia, Sambac Jasmine, Ylang-Ylang, Iris",4.2,Abu Al Tayyeb Perfumes,3.7,347,459.1,63.59,347
+455,BVLGARI,Rose Essentielle,533,274.9,100,EDP,Women,Floral,"Sandalwood, Patchouli","Blackberry Are Softened With Delicate Violet, Jasmine Trace",5,Perfume Ports,3.9,135,258.1,48.42,135
+456,Parfums Gres,Cabotine De Gres,110,78,100,EDP,Women,Floral,"Patchouli, Sandalwood, Musk","Ginger, Lily, Tubereuse, Wild Hyacinth",4.5,Nawaem_perfumes,3.9,69,32,29.09,69
+458,LOEWE,Esencia Pour Homme,514,177,150,EDT,Men,Woody,"Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax","Clary Sage, Nutmeg, Basil, Jasmine, Neroli, Lily-of-the-valley, Rose, Pine Tree Needles, Geranium, Black Currant",5,Pinch Of Perfum,3.5,32,337,65.56,32
+459,Calvin Klein,CK Be,125,110,200,EDT,Unisex,Spicy,"Sandalwood, Amber, Cedar, Oakmoss","Green Grass, Magnolia, Orchid, Freesia, Peach, Jasmine",5,Abu Al Tayyeb Perfumes,4.2,7,15,12,7
+460,HUGO BOSS,Boss,375,105,100,EDT,Men,Woody,"Sandalwood, Vetiver, Cedarwood, Vanilla","Geranium, Cinnamon, Cloves",4.7,Acacia Rose,4.8,77,270,72,77
+461,Marc Jacobs,Daisy Eau So Fresh,330,179.4,125,EDT,Women,Fruity,"Musk, Plum, Cedarwood","Violet, Wild Rose, Apple Blossom, Lychee, Jasmine Petals",5,noon,4.2,98.1K,150.6,45.64,98100
+462,MONTBLANC,Legend,342,108.5,100,EDT,Men,Spicy,"Sandalwood, Tonka Bean","Coumarin, Oak Moss, Geranium, Rose, Apple, Dried Fruit",4.7,Perfume Ms,4.1,98,233.5,68.27,98
+463,COACH,New York Coach Dreams,310,201.75,90,EDP,Women,Floral,"Joshua Tree, Ambroxan","Gardenias, Cactus Flowers",4,noon,4.2,98.1K,108.25,34.92,98100
+464,Dolce & Gabbana,Intenso,310,194.5,125,EDP,Men,Spicy,"Labdanum, Sandalwood, Cypress, Musk, Amber","Hay, Moepel Accord, Bran, Clary Sage",4.5,Abu Al Tayyeb Perfumes,3.9,537,115.5,37.26,537
+465,GUESS,Marciano,171,76.8,100,EDP,Women,Citrus,"Musk, Vanilla, Woody Notes","Peony, Jasmine, Honeysuckle",4.4,Lolita Shop,3.5,244,94.2,55.09,244
+466,Remy Marquis,Shalis,50.35,50.35,100,EDP,Men,Fruity,"Nutmeg, Oakmoss, Sandalwood","Lavender, Basil",5,VIP.PARFUME,3.5,244,0,0,244
+467,LANVIN PARIS,Rumeur 2 Rose,126,106.85,100,EDP,Women,Floral,"Patchouli, Amber, Musk","Lily Of The Valley, Jasmine, False Jasmine, Rose, Magnolia, Honeysuckle",4.3,goldiaa,4.1,135,19.15,15.2,135
+468,Roberto Cavalli,cavali,499,115,75,EDP,Men,Arabian,"Roasted Tonka Grain, Laos Benzoin","Orange Blossom Extract, Mirabelle Plum",4.3,hadayiq baris,3.8,122,384,76.95,122
+469,Roberto Cavalli,Florence Amber,499,209.9,75,EDP,Women,Floral,"Honey, Patchouli","Quince, Gardenia, Cashmirwood",4.5,Parvant Store,3.8,78,289.1,57.94,78
+470,CARON,De Caron,388,178,200,EDT,Men,Fresh,Musk,Vanille,4.3,The Wealth of Beauty,3.7,59,210,54.12,59
+471,Paris Hilton,Heiress,224,151,100,EDP,Women,Fruity,"Violet Leaf, Tahiti Tonka, Light Wood","Jasmine, Tiare Lily, Delightfully Sweet Ylang-Ylang, Honeysuckle, Grenadine",4.4,Abu Al Tayyeb Perfumes,3.6,30,73,32.59,30
+472,CAROLINA HERRERA,212 VIP,445,190,80,EDP,Women,Arabian,"Vanille, Tonka Bean","Musk, Gardenia",4.4,Number One,4.2,98,255,57.3,98
+473,S.T.Dupont,Essence Pure,215,84.6,100,EDT,Women,Citrus,"Amber, Patchouli, Vanilla, Cedar","Jasmine, Rose",4.4,noon,4.2,98.1K,130.4,60.65,98100
+474,JAGUAR,Jaguar,179,59.7,100,EDT,Men,Aromatic,"Leather, Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Vanilla, Cedar, Tobacco, Fern","Cyclamen, Nutmeg, Carnation, Gardenia, Cinnamon, Jasmine, Caraway, Sage, Rose, Geranium, Fir",4.5,noon,4.2,98.1K,119.3,66.65,98100
+475,LACOSTE,L.12.12 Blanc,108,89.95,100,EDT,Men,Woody,"Virginia Cedar, Leather, Suede, Vetiver",Ylang,5,noon,4.2,98.1K,18.05,16.71,98100
+476,BURBERRY,My Burberry,494,179,50,EDP,Women,Floral,"Amber, Patchouli","Peach, Rose",5,noon,4.2,98.1K,315,63.77,98100
+477,DORALL COLLECTION,Love You Like Crazy,25,7.25,100,EDT,Women,Woody,"Patchouli, musk, vanilla, amber","Peony, jasmine, lily",4.5,B.A.G,3.7,14.1K,17.75,71,14100
+478,TRUSSARDI,Extreme,462,127.95,100,EDT,Men,Woody,"Vetiver, Patchouli","Fruity-Gourmand, Dark Plum, Powdery Iris",5,Perfumes-shop,3.9,537,334.05,72.31,537
+479,VERSACE,Versace Pour Homme,405,163.55,100,EDT,Men,Fresh,"Amber, Tonka Beans, Musk","Geranium, Clary Sage, Blue Hyacinth",4.7,King-Perfume,3.8,450,241.45,59.62,450
+481,Roberto Cavalli,Paradiso,500,165,75,EDP,Women,Woody,"Pine Tree, Cypress, Laurels",Jasmine,4.6,hadayiq baris,3.8,122,335,67,122
+482,LALIQUE,Encre Noire,165,140,100,EDT,Men,Woody,Sandalwood,Lemongrass,4.4,kikup,3.9,23,25,15.15,23
+483,AZZARO,Visit,156,106,100,EDT,Men,Woody,"Gray Amber, Musk","Lebanese Cedar, Guaiac Tree, Incense",4.3,Beautiful Live,4.1,7,50,32.05,7
+484,Calvin Klein,Escape,235,96.25,100,EDT,Men,Woody,"Sandalwood, Amber, Patchouli, Oakmoss, Vetiver","Rosemary, Cypress, Fir, Sage, Birch, Sea notes",4.5,noon,4.2,98.1K,138.75,59.04,98100
+485,TRUSSARDI,My Name,308,228,50,EDP,Women,Floral,"Dry Amber, Vanilla","Lilac, Musk",4.6,noon,4.2,98.1K,80,25.97,98100
+486,S.T.Dupont,Passenger,310,106.15,100,EDP,Women,Fruity,"Iris, Vanilla, White Musk, Sandalwood","Cyclamen, Rose, Gardenia, White Peach",4.9,noon,4.2,98.1K,203.85,65.76,98100
+487,Calvin Klein,Beauty,150,106.45,100,EDP,Women,Floral,Cedarwood,Jasmine,4.8,Star.perfume,3.9,537,43.55,29.03,537
+488,GUESS,Guess,113,103.6,100,EDT,Women,Woody,"Australian Sandalwood, Musk, Vanilla","Peony, Violet, Jasmine",5,Star.perfume,3.9,537,9.4,8.32,537
+489,HUGO BOSS,Bottled Intense,426,157.85,100,EDP,Men,Spicy,"Sandalwood, Cedar, Vetiver, Vanilla","Geranium, Cloves, Cinnamon",4.5,AMLAQ,3.9,135,268.15,62.95,135
+490,Rasasi,Royale,43.25,43.25,75,EDT,Men,Spicy,Aromatic Scents,Delicate Musk Fragrance,4,neo lek,3.5,88,0,0,88
+491,Estee Lauder,Private Collection,505,197,50,EDP,Women,Floral,"Sandalwood, Heliotrope, Amber, Musk","Bulgarian Rose, Chrysanthemum, Reseda, Ylang-ylang, Coriander",5,Royal Scent,3.9,69,308,60.99,69
+492,armani,Because It's You by Emporio,427,154.7,100,EDP,Women,Floral,"Vanilla, Musk",Rose Absolute,5,Asrar Aljamal,3.8,66,272.3,63.77,66
+493,BURBERRY,The Beat,280,150,75,EDP,Women,Floral,"White Musk, Vetiver, Cedar Wood","Ceylon Tea, Iris, Bluebell",4.3,Faces,4.2,61,130,46.43,61
+494,Lattafa,Rouat Al Oud,99,45,100,EDP,Women,Spicy,"Cedarwood, Patchouli, Vetiver, Musk","Cardamom, Spicy Notes",5,Rihanna World Store,4.4,8,54,54.55,8
+495,Yves Saint Laurent,La Nuit De L`Homme,536,314,100,EDT,Men,Woody,"Vetiver, Caraway","Bergamot, Virginia Cedar, Lavender",5,The first fragrance,4.1,7,222,41.42,7
+496,Ajmal,Blu,177,139.95,90,EDP,Men,Fresh,"Sandalwood, Musk, Amber","Lotus, Jasmine",4,noon,4.2,98.1K,37.05,20.93,98100
+497,Mont Blanc,Legend,220,141.95,100,EDT,Men,Spicy,"Sandalwood, Tonka, Evernyl","Dried Fruit, Oakmoss Fused With Geranium, Rose, Apple",5,noon,4.2,98.1K,78.05,35.48,98100
+498,HERMES,Terre D' Hermes,474,173,100,EDT,Men,Citrus,"woody notes, patchouli, cedar",geranium,3.9,noon,4.2,98.1K,301,63.5,98100
+499,HUGO BOSS,Bottled Tonic,376,124.9,100,EDT,Men,Citrus,"Woodsy Notes, Vetiver","Ginger, Cinnamon, Cloves, Geranium",4.1,Star.perfume,3.9,537,251.1,66.78,537
+500,Roberto Cavalli,Dupont,360,120,75,EDP,Women,Arabian,"Benzoin, Tonka Bean, Vanille",African Orange Flower,4.6,Star.perfume,3.9,537,240,66.67,537
+501,BURBERRY,Burberry Body,13,8.5,2,EDT,Women,Woody,"Absolute Vanilla Orchid Tahitensis, Praline, Patchouli, Papyrus","Rose Damascena Essence, Incense",4,Princess of beauty,3.8,467,4.5,34.62,467
+502,BENTLEY,Intense,169,128,100,EDP,Men,Spicy,"Leather, Benzoin, Incense, Cedar, Patchouli","Clary Sage, African Geranium, Cinnamon, Rum, Wood",4.3,Parisian Store,3.9,425,41,24.26,425
+503,BURBERRY,My Burberry,700,197.95,90,EDP,Women,Floral and Oriental,"Damascus, Centifolia Rose","Geranium, Freesia Flowers, Golden Quince",4.7,Grass gulf,3.9,135,502.05,71.72,135
+504,Estee Lauder,Private Collection,330,219.4,50,EDP,Women,Floral,"Sandalwood, Heliotrope, Amber, Musk","Bulgarian Rose, Chrysanthemum, Reseda, Ylang-Ylang, Coriander",5,Golden Perfumes,3.6,111,110.6,33.52,111
+505,LALIQUE,Encre Noire,485,136.95,100,EDT,Men,Woody,"Cashmere Wood, Musk",Haitian Vetiver,4.5,Parvant Store,3.7,76,348.05,71.76,76
+507,LANVIN PARIS,Modern Princess,356,174,90,EDP,Women,Floral,"White Musk, white wood, Vanilla orchid","Jasmine, Freesia",5,Ryhana Perfume,4.2,25,182,51.12,25
+508,GIORGIO ARMANI,Eau Pour Homme Reno 2013,361,186,50,EDT,Men,Citrus,"Patchouli, Oakmoss, Sandalwood","Cloves, Lily, Nutmeg",4.7,noon,4.2,98.1K,175,48.48,98100
+509,Nikos,Sculpture Homme,220,52.95,100,EDT,Men,Floral,"Amber, Benzoin, Cedar, Tonka Beans","Geranium, Jasmine, Lily Of The Valley, Rose",4.5,noon,4.2,98.1K,167.05,75.93,98100
+510,DAVIDOFF,The Brilliant Game,215,93.75,100,EDT,Men,Arabian,Sensual Addiction Of The Tonka Bean Note,Charismatic Virility Of A Cedarwood,4.2,noon,4.2,98.1K,121.25,56.4,98100
+511,BURBERRY,London,370,172.5,100,EDP,Women,Floral,"Musk, Patchouli, Sandalwood","Jasmine, Tiare Flower, Peony, Clementine",4.7,Star.perfume,3.9,537,197.5,53.38,537
+512,NARCISO RODRIGUEZ,Narciso Rodriguez For Her,442,108.75,100,EDT,Women,Woody,"Vetiver, Vanilla","Egyptian Musk, Amber",4.7,Creativity star,3.7,319,333.25,75.4,319
+513,Parfums Gres,Cabotine,135,75,100,EDT,Women,Floral,"Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber","Rose, Tuberose, Ylang-Ylang, Ginger Lily, Hyacinth, Heliotrope, Freesia, Violet, Iris",4.8,AMLAQ,3.9,135,60,44.44,135
+514,Elizabeth Arden,Green Tea,77,72.95,100,EDP,Women,Citrus,"Caraway, Amber, Musk, By Green Tea , Jasmine, Cloves, Oakmoss, Celery Seeds","Carnation, Musk, jasmine, Oakmoss, Amber, white Fennel",5,Golden Perfumes,3.6,111,4.05,5.26,111
+516,LANVIN PARIS,L'Homme Sport,170,149.45,100,EDT,Men,Aromatic,"Cedar, Sandalwood, Musk, Amber, Iris, Vetiver, Benzoin, Moss, Spices","Jasmine, Violet, Iris, Ylang-Ylang, Gardenia, Carnation, Rosemary, Orchid, Cloves",4,Parvant Store,3.8,76,20.55,12.09,76
+517,J.CASANOVA,Pandora,79.95,79.95,50,EDP,Women,Fruity,"Cedar, Moss, Musk, Amber, Sandalwood","Lily-of-the-valley, Rose, Jasmine, Narcissus, Orchid",5,VIP.PARFUME,3.5,75,0,0,75
+518,HUGO BOSS,Femme,316,139.95,75,EDP,Women,Floral,"Apricot, Lemon Wood.","Jasmine, Fleur De Lys, Bulgarian Rose",4.8,Grass gulf,3.9,69,176.05,55.71,69
+519,Calvin Klein,Secret Obsession,202,163.95,100,EDP,Women,Woody,"Burnt Amber, Cashere Woods, Vanilla, Sandalwood","Jasmine, Orange Flower, Tuberose",5,Chansles,3.9,33,38.05,18.84,33
+520,AZZARO,Wanted,365,196.2,100,EDT,Men,Woody,"Haitian vetiver, tonka bean, amberwood","Guatemalan cardamom, juniper, apple, geranium",5,noon,4.2,98.4K,168.8,46.25,98400
+521,Kenneth Cole,Black,315,177.9,100,EDT,Men,Floral,"Amber, Musk, Violet Leaf, Suede","Nutmeg, Incense, Cedar, Lotus, Exotic Woods",4.5,noon,4.2,98.1K,137.1,43.52,98100
+522,CARTIER,La Panthere,693,249.25,75,EDP,Women,Fruity,"Oakmoss, Musk, Leather, Patchouli","Gardenia, Rose, Ylang-Ylang, Orange Blossom, Pear",4.3,noon,4.2,98.1K,443.75,64.03,98100
+523,adidas,Victory League,77,30.55,100,EDT,Men,Vanilla,"Cedarwood, Vanilla, Musk","Lavender, Pear, Cinnamon",4.6,noon,4.2,98.1K,46.45,60.32,98100
+524,S.T.Dupont,Dupont,221,83.9,100,EDT,Men,Spicy,"Heliotrope, Musk, Lignum Vitae, Amber","Essence Of Birch, Iris, Cedar Wood",4.4,noon,4.2,98.1K,137.1,62.04,98100
+526,BURBERRY,London,241,140,50,EDP,Women,Floral,"Sandalwood, Musk, Patchouli","Tiare Flower, Jasmine, Peony, a Hint of Fresh Clementine Zest",4.6,Star.perfume,3.9,537,101,41.91,537
+527,HUGO BOSS,Bottled Unlimited,373,126,100,EDT,Men,Vanilla,"Sandalwood, Musk","Pineapple, Rose",4.4,Al-Najm,3.7,347,247,66.22,347
+529,Laura Biagiotti,Roma Uomo,289,173.8,125,EDT,Men,Citrus,"Cedarwood, Patchouli, Sandalwood, Benzoin","Jasmine, Heliotrope, Juniperberry, Balsam Fir",4.5,AMLAQ,3.9,135,115.2,39.86,135
+530,Juicy Couture,Viva La Juicy,151.8,151.8,100,EDP,Women,Floral,"Amber, Caramel, Praline, Sandalwood, Vanilla","Honeysuckle, Gardenia, Jasmine",4.8,AMLAQ,3.9,135,0,0,135
+532,NARCISO RODRIGUEZ,Narciso Rodriguez,436,207,50,EDP,Women,Floral,"Patchouli, Sandalwood","Amber, Musk",5,Ahmed Mohamed Abbas Abbas Trading Est,4.2,98,229,52.52,98
+533,Dolce & Gabbana,3 L'Imperatrice,640,157.65,100,EDT,Women,Floral,"Musk, Sandalwood, Lemon Tree","Watermelon, Cyclamen, Jasmine",4,noon,4.2,98.1K,482.35,75.37,98100
+534,PRADA,Amber Intense,324,321.95,100,EDP,Men,Spicy,Creamy Amber,Vanilla,4.4,noon,4.2,98.1K,2.05,0.63,98100
+535,CHOPARD,Wish,210,83.9,75,EDP,Women,Arabian,"Voluptuous Sensuality, Living Temple Incense, Amber, Vanilla Bean, Toffee, Tonka Bean","Floral Bouquet, Living Patchouli Flower, Magnolia, Jasmine, Living Osmanthus Flower",4.8,noon,4.2,98.1K,126.1,60.05,98100
+537,Rasasi,Blue Lady,59,27,40,EDP,Women,Floral,"Sandalwood, Vetiver, Vanilla, Amber, Musk","Peach, Plum, Narcissus, Jasmine",4.5,Kathya,3.8,116,32,54.24,116
+539,MINI COLLECTION,2.2 s..y  No.1139 Eau De Par,16.9,16.9,25,EDP,Women,Jasmine,balsamic,bakhoor,5,warddah,3.7,56,0,0,56
+540,GUESS,Dare,92,79.9,100,EDT,Men,Spicy,"Musk, Patchouli, Cedar Wood","Flowers Herb Shepherd, Cashmere, Jasmine",4.3,Noor,3.6,27,12.1,13.15,27
+541,Mancera,Musky Garden,396,297.65,120,EDP,Women,Floral,"White Musk, Blackberry, Raspberry, Amber","Iris, Bulgarian Rose, Indian Jasmine, Patchouli Leaf",5,Tiffany,4.3,22,98.35,24.84,22
+542,LACOSTE,Eau De Lacoste,420,139,90,EDP,Women,Floral,"Sandalwood, Vetiver, Vanilla, Peru Balsam","Pineapple Flower, Sambac Jasmine, Rose, Orange Flower",4.6,Beautiful Live,3.8,7,281,66.9,7
+543,Geoffrey Beene,Grey Flannel,105,82.9,120,EDT,Men,Woody,"Tonka Bean, Almond, Oakmoss, Vetiver, Cedar","mimosa, iris, violet, sage, rose, geranium, Narcissus",5,Beautiful Live,3.9,7,22.1,21.05,7
+544,BURBERRY,Burberry Body,499,148.3,85,EDP,Women,Fruity,"Sandalwood, Cashmerean, Musk, Amber, Vanilla","Roses, Iris",5,noon,4.2,98.1K,350.7,70.28,98100
+545,JAGUAR,Classic,120,63.75,100,EDT,Men,Arabian,"Sandalwood, Benzoin, White Musk","Ginger, Orange Blossom, Lotus",4.4,noon,4.2,98.1K,56.25,46.88,98100
+546,DAVIDOFF,Cool Water,150,71.75,75,EDT,Men,Aromatic,"Musk, Oakmoss, Cedar, Amber","Sandalwood, Geranium, Neroli, Jasmine",4.1,noon,4.2,98.1K,78.25,52.17,98100
+547,GUESS,Marciano,111,83.3,100,EDP,Women,Citrus,"Vanilla, Musk, Woody Accords","Floral Rhythm Of Peony, Pink Honeysuckle, Intensively Clean, Sweet Jasmine",4.4,noon,4.2,98.1K,27.7,24.95,98100
+548,jennifer lopez,Still,330,108.3,100,EDP,Women,Floral,"Lily Of The Valley, Woody, Musky","Freesia, Rose, Jasmine, Orange Blossom",4,Star.perfume,3.9,537,221.7,67.18,537
+549,Armaf,Club De Nuit Intense,210,190,200,EDP,Men,Jasmine,"Vanilla, Ambergris, Musk, Patchouli","Rose, Jasmine, Birch",5,Attractive perfume,3.5,244,20,9.52,244
+550,Genie,1029 Collection,36,14.4,25,EDP,Women,Fruity,"Vegetal Amber, Musk, Mahogany","Magnolia, Lotus, Peony",4,moon perfume,3.7,199,21.6,60,199
+551,cacharel,Anais Anais Loriginal,157.1,157.1,50,EDT,Women,Fruity,"Vetiver, Moss, Sandalwood, Musk, Black Currant","Lily, Lily-Of-The-Valley, Rose, Jasmine, Ylang-Ylang",4.5,AMLAQ,3.9,135,0,0,135
+552,HOUBIGANT,Quelques Fleurs L'Original,599,285,100,EDP,Women,Floral,"Amber, Civet, Honey, Lichen, Musk, Sandalwood, Tonka Beans, Vanilla","Carnation, Heliotrope, Iris Root, Jasmine, Lilac, Lily Of The Valley, Orchid, Tuberose, Violet, Ylang-ylang",5,AMLAQ,3.9,135,314,52.42,135
+553,Dolce & Gabbana,The One Royal Night,630,290.75,100,EDP,Men,Woody,"Sandalwood, Cedar, Amber, Labdanum","Pear Wood, Nutmeg",5,AMLAQ,3.9,135,339.25,53.85,135
+554,Givenchy,Xeryus Rouge,259,199,100,EDT,Men,Woody,"Leather, amber, musk, oakmoss, balsam fir, vetiver, incense, cedar","Cyclamen, coriander, carnation, cypress, sandalwood, juniper berries, cinnamon, tarragon, petitgrain, geranium",4.4,Brides Palace,3.5,32,60,23.17,32
+555,Ajmal,Sacrifice,153,70,50,EDP,Women,Floral,"Woody, Oriental, Musky","Floral, Musky",4.6,Rayhanti,3.5,27,83,54.25,27
+556,Estee Lauder,Beautiful,570,181.2,75,EDP,Women,Floral,"Sandalwood, Vetiver, Amber","Orange Flower, Muguet, Jasmine, Ylang-Ylang",4.6,noon,4.2,98.1K,388.8,68.21,98100
+557,Armaf,Club De Nuit Intense Man,162,124.3,105,EDT,Men,Citrus,"Amber, Agarwood, Vanilla, Patchouli","Caraway, Nutmeg, Violet, Pepper",5,noon,4.2,98.1K,37.7,23.27,98100
+558,Mancera,Roses Vanille,485,248.85,120,EDP,Women,Vanilla,"Vanilla, Sugar, White Musk, Cedar","Rose, Sugar",5,noon,4.2,98.1K,236.15,48.69,98100
+559,DORALL COLLECTION,DC,29,9.3,100,EDT,Men,Floral,"Vetiver, Patchouli, Oakmoss, Musk, Sandalwood","Galbanum, Rosemary, Jasmine, Coumarin",4,B.A.G,3.7,14.1K,19.7,67.93,14100
+560,COACH,New York,5.6,5.6,2,EDT,Men,Citrus,"Vetiver, Suede, Ambergris","Cardamom, Coriander, Geranium",4.7,Princess of beauty,3.8,467,0,0,467
+561,GIORGIO ARMANI,Code,513,265,75,EDT,Men,Citrus,"Tobacco, Leather, Tonka Bean",Olive Flower Spiced With Star Anise,5,goldiaa,4.1,135,248,48.34,135
+562,Van Cleef & Arpels,First,300,171.5,100,EDT,Women,Floral,"Honey, Sandalwood, Tonka, Bean, Amber, Musk, Civet, Vanilla, Oakmoss","Carnation, Tuberose, Orchid, Orris, Root, Jasmine, Hyacinth, Turkish, Rose, Ylang-Ylang, Lily-Of-The-Valley, Narcissus",5,AMLAQ,3.9,135,128.5,42.83,135
+563,LOEWE,Esencia,529,200,100,EDT,Men,Woody,"Cedar, Musk, Sandalwood","Cardamom, Pepper",4.5,Parfume-Stor,4.3,118,329,62.19,118
+565,ESCADA,Especially Elixir,283,198.5,75,EDP,Women,Woody,"Dry Amber, Madagascar Vanilla, Patchouli, Cashmere, Dry Amber","Ylang Ylang, Turkish Rose, Plums",4.3,The Wealth of Beauty,3.8,78,84.5,29.86,78
+566,JAGUAR,Classic Blue,290,67,100,EDT,Men,Spicy,"Sandalwood, Benzoin, White Musk","Ginger, Orange Blossom, Lotus",4.7,Beauty Gallery,4.2,59,223,76.9,59
+568,COACH,Floral,357,173.6,90,EDP,Women,Floral,"Musk, Patchouli, Sandalwood, Vanilla, Woody Notes","Gardenia, Hedione, Jasmine Sambac, Tea Rose",4.6,noon,4.2,98.1K,183.4,51.37,98100
+569,VERSACE,The Dreamer,499,135.7,100,EDT,Men,Arabian,"Cedar, Tonka Bean","Geranium, Rose, Tobacco",4,noon,4.2,98.1K,363.3,72.81,98100
+570,Aramis,900 Herbal Spray,179,100,100,EDC,Men,Woody,"Sandalwood, Amber, Patchouli, Civet, Oakmoss Vetiver","Carnation, Orris Root, Jasmine, Lily-of-the-Valley, Rose Geranium",4,Star.perfume,3.9,537,79,44.13,537
+571,Fendi,L'Acquarossa,430,238.5,75,EDP,Women,Musk,"Red Cedar White Musk, Patchouli","Lantana Flower,  Rose Orange Blossom, Magnolia",5,top langri,3.7,347,191.5,44.53,347
+572,Roberto Cavalli,Florence,405,139.5,50,EDP,Women,Floral,"Amber, Musk, Patchouli","Grapefruit Blossom, Hibiscus Seeds, Orange Blossom",4.4,AMLAQ,3.9,135,265.5,65.56,135
+573,Dolce & Gabbana,Light Blue,476,220.25,100,EDT,Women,Floral,"Musk Wood, Incense, Oakmoss","Jasmine, White Rose",4.5,AMLAQ,3.9,135,255.75,53.73,135
+574,Estee Lauder,Pleasures Intense,410,259.9,100,EDP,Women,Floral,"Maple, Vanilla, Styrax, Benzoin","Lily, Tiare Flower, Jasmine, Moroccan Rose",4.6,Y,3.5,75,150.1,36.61,75
+575,Ajmal,Wisal,58,58,50,EDP,Women,Floral,"Rose, Sensual Musk",Sandalwood,5,alkhalijiah  perfume,3.5,75,0,0,75
+576,Dior,Sauvage,770,337.9,100,EDP,Men,Arabian,"Ambroxan, Vanilla","Sichaun Pepper, Lavender, Star Anise, Nutmeg",4,The Wealth of Beauty,3.7,66,432.1,56.12,66
+577,S.T.Dupont,Passenger,294,99,100,EDT,Men,Spicy,"Paraguayan Lignum Vitae, Indonesian Patchouli, Laotian Benzoin, Copper Accords","Indian Ginger,  Guatemalan Cardamom, Mauritanian Red Pepper, Lavender",5,London store,3.7,23,195,66.33,23
+578,BVLGARI,Goldea The Roman Night Absolute,536,261.5,75,EDP,Women,Floral,"Black Musk, Moss, Patchouli","Jasmin Sambac, Madagascar Vanilla",4,noon,4.2,98.1K,274.5,51.21,98100
+579,HUGO BOSS,Hugo,395,99,125,EDT,Men,Fresh,"Patchouli, Fir, Cedar","Carnation, Sage, Geranium, Jasmine",4.5,Cute Shop,4.2,98,296,74.94,98
+580,BVLGARI,Petits Et Mamans,254,193.95,100,EDT,Women,Floral,"Iris, Vanilla, White Peach, Powdery Notes","Sunflower, Chamomile, Rose",4.8,noon,4.2,98.1K,60.05,23.64,98100
+581,DORALL COLLECTION,Eternally Hot,29,8,100,EDT,Women,Woody,"Vanilla, Musk","Gardenia, Jasmine",4.5,B.A.G,3.7,14.1K,21,72.41,14100
+582,Dunhill,Desire,111,54.95,30,EDT,Men,Fresh,"Vanilla, Musk, Labdanum","Rose, Teakwood, Patchouli",4.8,Star.perfume,3.9,537,56.05,50.5,537
+584,AVON,Always,84,84,50,EDP,Women,Floral,Cashmere Woods,Orange Blossoms,5,neo lek,3.5,88,0,0,88
+585,Aramis,Brown,161,94.15,110,EDT,Men,Woody,"Leather, Oakmoss, Amber","Pelargonium, Patchouli, Vetiver, Sandalwood",5,VIP.PARFUME,3.8,76,66.85,41.52,76
+586,GUESS,By Marciano,128,109.95,100,EDP,Women,Floral,"Musk, Vanilla, Woody Notes","Peony, Jasmine, Honeysuckle",5,Parvant Store,3.8,76,18.05,14.1,76
+587,LALIQUE,Encre Noire,485,134.95,100,EDT,Men,Woody,"Cashmere Wood, Musk","Haiti Vetiver, Bourbon Vetiver",4.5,Abu Al Tayyeb Perfumes,4.2,59,350.05,72.18,59
+588,GIORGIO ARMANI,Si Passione,630,246.5,100,EDP,Women,Floral,"Cedar, Vanilla, Amberwood, Patchouli","Heliotrope, Pine Apple, Jasmine, Rose",4.8,Parfume-Stor,3.9,33,383.5,60.87,33
+589,CARTIER,Declaration Essence,478,173.6,100,EDT,Men,Citrus,"Vetiver, Sandalwood, Musk, Amber","Geranium, Lemon, Sicilian Lemon",4.5,noon,4.2,98.1K,304.4,63.68,98100
+590,Sedr Al-Khaleej Perfumes,For Ever,34.85,34.85,100,EDP,Men,Fresh,"Woody, Musk, Amber","Praline, Cardamom, Cinnamon",4,noon,4.2,98.1K,0,0,98100
+591,Givenchy,Organza,550,251.65,100,EDP,Women,Arabian,"Guaiac Wood, Woodsy Notes, Virginia Cedar, Amber, Vanilla","Peony, Walnut, Iris, Jasmine, Tuberose, Honeysuckle",4.8,noon,4.2,98.1K,298.35,54.25,98100
+592,Roberto Cavalli,Uomo,452,126,100,EDT,Men,Floral,"Cedar, Tonka Bean, Patchouli","Honey, Lavender",4.6,noon,4.2,98.1K,326,72.12,98100
+593,DKNY,Be Delicious Red,375,314.9,100,EDP,Women,Floral,"Leather, Vanilla Pod, Amber","Patchouli, Apple, Rose",4.6,the beauty,4.1,538,60.1,16.03,538
+594,MONTBLANC,Mont Blanc Legend,220,140,100,EDT,Men,Floral,"Vanilla, Amber","Jasmine, Geranium, Neroli, Ylang-Ylan",4.8,Al-Najm,3.7,347,80,36.36,347
+595,ANGEL SCHLESSER,Schlesser Essential,320,165.4,100,EDT,Men,Fruity,"Leather, Tonka Bean, Musk, Cedar","Cinnamon, Coffee, Violet Leaf",4.3,top langri,3.7,347,154.6,48.31,347
+596,Dunhill,Desire Extreme,230,114.75,100,EDT,Men,Spicy,"Amber, Musk",Evergreen Cypress,4.9,AMLAQ,3.9,135,115.25,50.11,135
+597,GUCCI,Flora,275,179.8,50,EDT,Women,Citrus,Patchouli,"Gardenia, Plumeria",4.5,AMLAQ,3.9,135,95.2,34.62,135
+598,HUGO BOSS,Just Different,352,144.25,125,EDT,Men,Spicy,"Cashmeran, Fir","Freesia, Basil",5,Perfume Ports,3.6,113,207.75,59.02,113
+599,Ajmal,Alf Laila O Laila,222,153.3,60,EDP,Unisex,Woody,Musky Woody,Floral Spicy,5,noon,4.2,98.1K,68.7,30.95,98100
+600,PRADA,Amber,399,252.05,100,EDT,Men,Arabian,"Neroli, Orange Blossom, Earthy Vetiver, Saffron","Patchouli, Tonka Bean, Lovely Vanilla",5,noon,4.2,98.1K,146.95,36.83,98100
+601,COACH,Floral,337,165.75,90,EDP,Women,Floral,"Patchouli, Woody Notes, Musk","Tea Rose, Jasmine Sambac, Gardenia",5,noon,4.2,98.1K,171.25,50.82,98100
+602,Roberto Cavalli,Uomo,452,134.95,100,EDT,Men,Floral,"Cedar, Patchouli, Tonka Bean","Honey, Lavender",4.6,noon,3.6,98.1K,317.05,70.14,98100
+603,DIESEL,Plus Plus Feminine,99,41,75,EDT,Women,Oriental,"Musk, Sandalwood, Virginia Cedar, Amber, Nutmeg, Vanille, Orris Root","Jasmine, Coconut, Magnolia, Orchid, Lily, Cherry, Big Strawberry, Red Apple, Milk",4.4,KAYA,4.3,4K,58,58.59,4000
+604,DORALL COLLECTION,Classic Black,9,8.8,100,EDT,Men,Fresh,"Chocolate, cashmere Wood, Patchouli, Tonka Bean","Basil, Verbena , Lavender",4,the beauty,3.6,538,0.2,2.22,538
+605,Calvin Klein,Beauty,380,115,100,EDP,Women,Floral,"Vanilla, Musk, Sandalwood, Guaiac Wood, Amber","Cardamom, Pepper, Flowers",5,Star.perfume,3.9,537,265,69.74,537
+606,MONTBLANC,Emblem ED,22.4,22.4,5,EDT,Men,Spicy,"Woodsy, Tonka Bean","Violet Leaf, Cinnamon",4.8,Star.perfume,3.9,537,0,0,537
+607,CAROLINA HERRERA,212 Sexy,420,151,100,EDP,Women,Floral,"Cotton Candy, Musk, Sandalwood, Vanilla","Gardenia, Geranium",4.7,Al-Najm,3.7,347,269,64.05,347
+608,BURBERRY,Brit Rhythm,360,119.95,90,EDT,Men,Woody,"Cedarwood, Tonka Bean","Black Leather, Patchouli, Styrax",4,hadayiq baris,3.8,122,240.05,66.68,122
+609,LANVIN,Oxygene,206,116,75,EDP,Women,Floral,"White Musk, Sandalwood","Rose, Milk, Gardenia",4.3,Dior Fragrances,3.9,69,90,43.69,69
+610,HUGO BOSS,Boss,375,105,100,EDT,Men,Woody,"Sandalwood, Vetiver, Cedarwood, Vanilla","Geranium, Cinnamon, Cloves",4.7,Acacia Rose,4.4,77,270,72,77
+611,Sedr Al-Khaleej Perfumes,Love Touch Body Sp,12.9,12.9,125,EDT,Women,Floral,"Leather, Musk","Tiare Flower, Rose",5,noon,4.2,98.1K,0,0,98100
+612,S.T.Dupont,Essence Pure,202,86.2,100,EDT,Men,Citrus,"cypress, amber, musk, cedar","iris, lavender, bamboo",5,Perfume Ports,3.9,537,115.8,57.33,537
+613,Genie,London Burberry,18,16,25,EDP,Women,Floral,"Wood, Musk","Jasmine, Tiare Flower, Soft Peony",4.9,Parisian Store,3.9,425,2,11.11,425
+614,CAROLINA HERRERA,212 Vip,363,160,100,EDT,Men,Vanilla,"King Wood, Salty Amber, Tonka Beans","Chilled Vodka, Hot Ginger, Slice Of Apple",5,Al-Najm,3.7,347,203,55.92,347
+615,HUGO BOSS,Bottled Night,375,170.45,100,EDT,Men,Woody,"Louro Amarelo Wood, Sandalwood, Musky Notes","Cardamom, African Violet, Jasmine",4.5,top langri,3.7,347,204.55,54.55,347
+616,Emper,Tool Box,88,54.95,100,EDT,Men,Oriental,"Geranium, Amber, White Musks","Patchouli, Vetiver, Lavender",5,Golen Dream,3.8,88,33.05,37.56,88
+617,Shiseido,Zen,597,260,100,EDP,Women,Floral,"Patchouli, Cedarwood, Skin Musk, White Musk, Marine, Amber, Incense","Freesia, Gardenia, Red Apple, Violet, Lily Of The Valley, Hyacinth, Chinese Rose, Lotus Flower",5,Faces,3.9,61,337,56.45,61
+618,Juicy Couture,Viva La Juicy,355,144,100,EDP,Women,Floral,"Amber, Caramel, Praline, Sandalwood, Vanilla","Honeysuckle, Gardenia, Jasmine",4.7,aRt Ti Ci,3.9,41,211,59.44,41
+619,CAROLINA HERRERA,212 S**Y,420,183.25,100,EDP,Women,Floral,"Bergamot, Gardenia, Pelargonium, Cotton Candy, Flowers","Pelargonium, Cotton Candy, Flowers",5,noon,4.2,98.1K,236.75,56.37,98100
+620,Sedr Al-Khaleej Perfumes,Eghra Perfume,42.8,42.8,9,Oil,Women,Jasmine,"Jasmine, Amber, Balsamic","Fruity, Incense, Woody",4,noon,4.2,98.1K,0,0,98100
+621,COACH,Floral,357,173.6,90,EDP,Women,Floral,"Musk, Patchouli, Sandalwood, Vanilla, Woody Notes","Gardenia, Hedione, Jasmine Sambac, Tea Rose",4.6,noon,4.2,98.1K,183.4,51.37,98100
+622,MONTBLANC,Lady Emblem,410,155,75,EDP,Women,Floral,"Musk, Raspberry","Sandalwood, Patchouli, Rosewood",5,noon,4.2,98.1K,255,62.2,98100
+623,jennifer lopez,Still,330,107.8,100,EDP,Women,Floral,"Amber, Orris, Sandalwood","Honeysuckle, Orange Tree Blossom, Pink Freesia",4.8,noon,4.2,98.1K,222.2,67.33,98100
+624,TOM FORD,Black Orchid,495,211,50,EDP,Women,Spicy,"Incense, Lotus, Patchouli, Sandalwood, Vanilla, Vetiver","Black Orchid, Fruity Notes, Tuberose",5,Number One,3.7,347,284,57.37,347
+625,Dolce & Gabbana,Pour Femme,356,165,100,EDP,Women,Floral,"Marshmallow, Sandalwood, Vanilla","Jasmine, Orange Blossom",5,hadayiq baris,3.8,122,191,53.65,122
+626,NARCISO RODRIGUEZ,Pure Musc,494,307.25,100,EDP,Women,Floral,Cashmeran,Flower,5,Grass gulf,4.2,20,186.75,37.8,20
+627,HUGO BOSS,Boss Bottled Man Of Today,487,177,100,EDT,Men,Woody,"Vanilla, Sandalwood, Vetiver, Cedarwood, Olivewood, Amber-like-notes, Musk-like-notes","Geranium, Cinnamon, Cloves",4.1,Acacia Rose,4.4,5,310,63.66,5
+628,GUCCI,Flora,505,196.2,75,EDT,Women,Citrus,"Patchouli, Sandalwood","Rose, Osmanthus",5,noon,4.2,98.1K,308.8,61.15,98100
+629,Dolce & Gabbana,The One,350,189.6,100,EDT,Men,Spicy,"Amber, Cedar, Toacco","Ginger, Orange Blossom, Cardamom",4.3,noon,4.2,98.1K,160.4,45.83,98100
+630,Calvin Klein,Beauty,145,110,100,EDP,Women,Floral,Virginia Cedar,Jasmine,5,Star.perfume,4.2,537,35,24.14,537
+631,CAROLINA HERRERA,Good Girl,480,242.5,50,EDP,Women,Arabian,"Tonka Bean, Cacao, Vanilla, Praline, Sandalwood, Amber, Cashmere Wood, Musk, Patchouli, Cinnamon, Cedar","Tuberose, Jasmine Sambac, Orris, Orange Blossom, Bulgarian Rose",4.6,Star.perfume,3.9,537,237.5,49.48,537
+632,VERSACE,Versace Pour Homme,405,163.55,100,EDT,Men,Fresh,"Amber, Tonka Beans, Musk","Geranium, Clary Sage, Blue Hyacinth",4.7,King-Perfume,3.6,450,241.45,59.62,450
+634,Ajmal,Wisal,79,60,50,EDP,Unisex,Floral,"Floral, Musky","Spicy, Floral",5,alkhalijiah  perfume,3.5,88,19,24.05,88
+635,CAROLINA HERRERA,212 Wild Party,232.95,232.95,80,EDP,Women,Floral,"Musk, Woody Accord","Orange Blossom, Sun Rose, Orchid",4.5,Number One,3.8,66,0,0,66
+636,Estee Lauder,Modern Muse Chic,472,275,100,EDP,Women,Woody,"Cashmere Wood, Agarwood (Oud), Labdanum, Patchouli, Ebony Tree, Musk, Madagascar Vanilla, Suede","Jasmine Sambac, Tuberose, Lily",4.5,Faces,3.9,61,197,41.74,61
+637,HUGO BOSS,Boss Orange,339,112.7,75,EDT,Women,Woody,"Sandalwood, Olive Tree, Vanilla","White Flowers, African Orange Flower",5,noon,4.2,98.1K,226.3,66.76,98100
+638,Dolce & Gabbana,K,338,269,100,EDT,Men,Woody,"Blood Orange, Pressed Sicilian Lemon, Juniper Berries","Pimento, Clary Sage, Geranium, Lavandin",4.1,Grass gulf,3.7,98,69,20.41,98
+639,Mancera,Roses Vanille,390,229,120,EDP,Women,Oriental,"Sugar, Vanilla, Cedar, White Musk","Rose, Sugar",4,noon,4.2,98.1K,161,41.28,98100
+640,DORALL COLLECTION,Lady Dorall,14.75,14.75,100,EDT,Women,Spicy,"Apricot, amber, lemon tree","Lily, jasmine, rose",4,Princess of beauty,3.8,467,0,0,467
+641,Aramis,Brown,161,104,110,EDT,Men,Floral,"Leather, Oakmoss, Amber","Pelargonium, Patchouli, Vetiver, Sandalwood",4,top langri,3.7,347,57,35.4,347
+642,Mancera,Red,711,365,120,EDP,Unisex,Woody And Spicy,"Tobacco, Amber, Guaiac Wood, Sandalwood, Haitian Vetiver, Madagascar Vanilla, White Musk","Patchouli, Jasmine",4.9,top langri,3.7,347,346,48.66,347
+643,GIORGIO ARMANI,Acqua Di Gio,480,195.6,100,EDT,Men,Citrus,"Musk, Sandalwood","Hyacinth, Jasmine, Rose, Lily",4.2,hadayiq baris,3.8,122,284.4,59.25,122
+644,MOSCHINO,Cheap And Chic,203,184.7,100,EDT,Women,Floral,"Tonka Bean, Orchid, Sandalwood Vetiver, Iris Ambergris","Cyclamen, Rose Water, Lily Peony, Violet Jasmine",5,Parvant Store,3.8,76,18.3,9.01,76
+645,CARTIER,Declaration,460,101.6,100,EDT,Men,Spicy,"Leather, Amber, Tea, Tahitian Vetiver, Oak Moss, Cedar","Iris, Ginger, Cinnamon, Pepper, Juniper, Orris Root, Jasmine, Guatemalan Cardamom",4.5,Number One,3.5,98,358.4,77.91,98
+646,BURBERRY,My Burberry,700,197.95,90,EDP,Women,Floral and Oriental,"Damascus, Centifolia Rose","Geranium, Freesia Flowers, Golden Quince",4.7,Grass gulf,3.7,135,502.05,71.72,135
+647,joop,Homme,223,55,125,EDT,Men,Citrus,"Vanilla, tonka bean, patchouli, sandalwood","Jasmine, lily of the valley, heliotrope, cinnamon",4.4,hadayiq baris,3.8,122,168,75.34,122
+648,Jacques Bogart,One Man Show,40.55,40.55,100,EDT,Men,Woody,"Sandalwood, Tonka Bean, Amber, Coconut, Vanilla, Oak Moss, Cedar, Styrax","Labdanum, Nutmeg, Spices, Carnation, Patchouli, Jasmine, Vetiver, Rose, Pine Tree Needles, Geranium",4.5,Golden Perfumes,3.6,111,0,0,111
+649,Emper,Lady Presidente,118,60.15,80,EDP,Women,Fruity,"Coconut, Musk, Sandalwood","Lotus, Water Lily, Raspberry, Star Apple",5,Golen Dream,3.5,88,57.85,49.03,88
+650,NINA RICCI,Mademoiselle Ricci,295,166.2,80,EDP,Women,Spicy,"Violetwhite Wood, Musk, Amber, Cedar, Violet","Nerium Oleander, Rose Hip, Laurels",4,neo lek,3.5,88,128.8,43.66,88
+651,CAROLINA HERRERA,212 VIP Rose,445,135,80,EDP,Women,Floral,"Woody Notes, White Musk, Amber",Peach Blossom,5,Show Biz,3.8,66,310,69.66,66
+654,Rasasi,Oud Al-Mubakhar,40,30.85,100,EDP,Men,Arabian,"Sandalwood, Tonka Bean, Musk, Patchouli","Turkish Rose, Violet, Geranium",4,noon,4.2,98.1K,9.15,22.88,98100
+655,GUCCI,Rush,489,219.85,75,EDT,Women,Floral,"Vetiver, Patchouli, Vanilla","Jasmine, Damask Rose, Coriander",5,noon,4.2,98.1K,269.15,55.04,98100
+656,Rasasi,Shuhrah,144,69.7,90,EDP,Women,Floral,"Oud, Patchouli, Grey Amber, Musk","Iris, Jasmine, Lily of the Valley",5,noon,4.2,98.1K,74.3,51.6,98100
+657,BURBERRY,Touch,314,154.95,100,EDP,Women,Floral,"Almonds, Cedar, Oakmoss, Tonka Beans, Vanilla","Jasmine, Lily, Lily Of The Valley, Peach, Peony, Raspberry, Tuberose",4,noon,4.2,98.1K,159.05,50.65,98100
+658,Marbert,Man Pure,114,54.7,125,EDT,Men,Citrus,"Oak Moss, Cedar, Sandalwood, Amber, Musk","Geranium, Jasmine, Lily Of The Valley, Majorjam, Coriander, Nutmeg",4.9,Rayhanti,3.5,88,59.3,52.02,88
+659,J.CASANOVA,Plaisir,145,75,100,EDP,Women,Fresh,"Sandalwood, Musk, Vanilla Orchid, Cedar","Clove, Damascus Plum, Pear, Ylang -ylang",4.5,Tiffany,3.8,75,70,48.28,75
+661,VERSACE,Eau Fraiche,363,178.1,100,EDT,Men,Woody,"Amber, Musk, Platanus, Saffron, Woody Notes","Cedar, Pepper, Sage",4.4,noon,4.2,98.1K,184.9,50.94,98100
+662,S.T.Dupont,Essence Pure,215,74.35,100,EDT,Men,Woody,"Cypress, Amber, Musk, Cedar","Iris, Lavender, Bamboo",4.6,noon,4.2,98.1K,140.65,65.42,98100
+663,Mont Blanc,Legend,220,141.95,100,EDT,Men,Spicy,"Sandalwood, Tonka, Evernyl","Dried Fruit, Oakmoss Fused With Geranium, Rose, Apple",5,noon,4.2,98.1K,78.05,35.48,98100
+664,Calvin Klein,CK One,448,107,200,EDT,Men,Citrus,"Sandalwood, Amber, Musk, Cedar, Oak moss","Nutmeg, Violet, Orris Root, Jasmine, Lily-Of-The-Valley Rose",4.5,AMLAQ,3.9,135,341,76.12,135
+665,LA PERLA,Divina,107,62,50,EDT,Women,Fruity,"Musk, Amber, Vanilla, Woody notes","Jasmine, African orange, Pink",4.5,GOLDEN,3.5,63,45,42.06,63
+666,CARTIER,Santos D Concentree,240.5,240.5,100,EDT,Men,Spicy,"Sandalwood, Amber, Coconut, Patchouli, Vanilla, Cedar","Pepper, Nutmeg, Vetiver, Geranium, Rosemary, Cloves, Clary Sage",4.5,alryhanaksa,3.6,33,0,0,33
+668,DORALL COLLECTION,Lancy,27,11.85,100,EDT,Women,Spicy,"Tonka, Praline, Patchouli, Vanilla","Iris, Orange Blossom, Jasmine",4.5,the beauty,3.5,538,15.15,56.11,538
+669,Lancome,Miracle,426,200,100,EDP,Women,Arabian,"Amber, Musk, Jasmine","Magnolia, Ginger, Mandarin Orange, Pepper, Jasmine",4.5,Beuatyone1,4.4,537,226,53.05,537
+670,armani,Code Absolu ED,8.5,8.5,2,EDP,Men,Floral,"Vanilla, Amber, Musk, Patchouli","Jasmine, Geranium, Neroli, Ylang-Ylang",5,Princess of beauty,3.8,467,0,0,467
+671,DAVIDOFF,Cool Water,360,76.95,125,EDT,Men,Woody,"Amber, Cedar, Musk, Oakmoss, Tobacco","Geranium, Jasmine, Neroli, Sandalwood",4.5,hadayiq baris,3.8,122,283.05,78.63,122
+672,LACOSTE,L.12.12 Blanc,244,88,100,EDT,Men,Woody,"Leather, Suede, Cedar","Mexican Tuberose, Ylang-Ylang",3.7,hadayiq baris,3.8,122,156,63.93,122
+673,MONTBLANC,Lady Emblem Elixir,372,176.3,50,EDP,Women,Woody,"Patchouli, Sandalwood, Vanilla","Iris, Orange Blossom, Damask Rose, Jasmine",5,Beautiful Live,4.1,7,195.7,52.61,7
+674,BURBERRY,Body,240,141.35,85,EDP,Women,Woody,"Cashmere Wood, Musk, Amber, Vanille","Iris, Rose, Sandalwood",4.8,noon,4.2,98.1K,98.65,41.1,98100
+675,CARTIER,Declaration Essence,478,173.6,100,EDT,Men,Citrus,"Vetiver, Sandalwood, Musk, Amber","Geranium, Lemon, Sicilian Lemon",4.5,noon,4.2,98.1K,304.4,63.68,98100
+676,DORALL COLLECTION,Pink Hearts,29,8.15,100,EDT,Women,Floral,"Caramel, Musk, Tonka, Sandalwood, Vanilla","Red Berries, Lily Of The Valley, Licorice, Cotton Candy, Strawberry",4.4,B.A.G,3.9,14.1K,20.85,71.9,14100
+677,HUGO BOSS,Natural Spray,595,140,75,EDP,Women,Oriental,"Apricot, Amber, Lemon Tree","Bulgarian Rose, Jasmine, Lily",4,Parisian Store,3.9,425,455,76.47,425
+678,Remy Marquis,Remy,57.3,57.3,100,EDT,Men,Spicy,"Cedar, Sandalwood, Musk, Amber","Geranium, Cinnamon, Nutmeg",4.5,moon perfume,3.7,199,0,0,199
+679,GUCCI,Flora Gardenia,510,234.5,100,EDT,Women,Citrus,"Patchouli, Brown Sugar Accord","White Gardenia, Frangipani Flower",4.5,AMLAQ,3.9,135,275.5,54.02,135
+680,GUCCI,Flora Gorgeous Gardenia,510,226.8,100,EDT,Women,Citrus,Patchouli,"Gardenia, Plumeria",4.4,AMLAQ,3.9,135,283.2,55.53,135
+681,Calvin Klein,Sheer Beauty Essence,415,167.95,100,EDT,Women,Floral,"Musk, Vanilla, Cedar","Lilac, Magnolia, Turkish Rose, Peony",4.5,noon,4.2,98.1K,247.05,59.53,98100
+682,DAVIDOFF,The Game,215,83.95,100,EDT,Men,Woody,Ebony Wood,"Iris, Woody Notes",4.9,noon,4.2,98.1K,131.05,60.95,98100
+683,DORALL COLLECTION,Oud Wood,19,9.9,100,PDT,Unisex,Citrus,"Cedar, tobacco, patchouli, sandalwood, musk","Geranium, marigold, rose, bay leaves",4.3,B.A.G,3.7,14.1K,9.1,47.89,14100
+684,Mancera,Rose Greedy,446,269,120,EDP,Unisex,"Rose, Floral","White Musk, Amber, Vanilla, Sugar","Rose, Jasmine, Flowers",4.5,AMLAQ,3.9,135,177,39.69,135
+685,ROGER & GALLET,Open,43.4,43.4,100,EDT,Men,Spicy,"Lamon, Woody","Sage, Thyme",5,Acacia Rose,3.5,88,0,0,88
+686,LACOSTE,Challenge,300,144.95,90,EDT,Men,Citrus,"Ginger, Jasmine, Juniper, Nutmeg, Pepper, Violet, Whisky","Amber, Musk, Wood",4.8,Beautiful Live,3.9,7,155.05,51.68,7
+687,VERSACE,The Dreamer,499,135.7,100,EDT,Men,Arabian,"Cedar, Tonka Bean","Geranium, Rose, Tobacco",4,noon,4.2,98.1K,363.3,72.81,98100
+688,Justcavalli,Just Cavalli,385,131.4,75,EDT,Women,Floral,"Cuddly, Creamy Rosewood",Tahitian Tiare Flowers,4.6,Star.perfume,3.7,537,253.6,65.87,537
+689,Genie,8839 Collection,43,24.85,25,EDP,Women,Floral,"Liquid Amber, Black Violet, Cream, Mahogany","Lotus Blossom, Champaca Flower, Black Orchid",4.2,Parisian Store,3.9,425,18.15,42.21,425
+690,GIORGIO ARMANI,Si Possione,705,246.5,100,EDP,Women,Floral,"Cedar, Vanilla, Amberwood, Patchouli","Rose, Jasmine, Heliotrope, Pineapple",4.7,Al-Najm,3.7,347,458.5,65.04,347
+691,Calvin Klein,Beauty,378,109.55,100,EDP,Women,Floral,Virginia Cedar,Jasmine,4.6,AMLAQ,3.9,135,268.45,71.02,135
+693,Calvin Klein,Beauty,380,118,100,EDP,Women,Floral,Virginia Cedar,Jasmine,4.6,AMLAQ,3.9,135,262,68.95,135
+695,Rasasi,Al Wisam Day,213,84.8,100,EDP,Men,Oriental,"Amber, Musk, Oakmoss, Agarwood (Oud)","Rose, Clary Sage, Sandalwood, Cedar",5,hadayiq baris,3.8,122,128.2,60.19,122
+696,Rasasi,Shuhrah,77.95,77.95,90,EDP,Men,Floral,"Amber, Musk, Oakmoss, Agarwood, Leathery","Rose, Sandalwood, Cedar, Jasmine",5,VIP.PARFUME,3.7,23,0,0,23
+698,GUCCI,Guilty Black,425,218.05,90,EDT,Men,Spicy,Patchouli,Orange Flower,5,noon,4.2,98.1K,206.95,48.69,98100
+700,Dolce & Gabbana,Pour Femme,566,195,100,EDP,Women,Floral,"Guimave, Vanilla, Heliotrope, Sandalwood","Jasmine, Orange Blossom",5,Parfume-Stor,3.9,66,371,65.55,66
+701,Arabian Oud,Sheikh Al Shuyukh,54,54,100,EDP,Men,Woody,"Vetiver, Patchouli","Lavender, Sage, Rosemary",5,VIP.PARFUME,4.4,8,0,0,8
+702,S.T.Dupont,Essence Pure,117,91.1,100,EDT,Women,Citrus,"Amber, Patchouli, Vanilla, Cedar","Jasmine, Rose",4.4,noon,4.2,98.1K,25.9,22.14,98100
+703,ISSEY MIYAKE,L'eau D'issey Pour Homme,220,155.75,125,EDT,Men,Floral,Coriander,Nutmeg,5,noon,4.2,98.1K,64.25,29.2,98100
+705,Lattafa,Musk Mood,48,48,100,EDP,Unisex,Woody,"Musk, Incense, Amber, Resins, Woody Note","Patchouli, Caramel, Agarwood (Oud), Floral Notes",5,Rihanna World Store,4.4,8,0,0,8
+706,Yves Saint Laurent,Black Opium,620,364.65,90,EDP,Women,Vanilla,"Musk, White Wood","Jasmine Tea, Orrange Blossom, Coffee",4.8,noon,4.2,98.1K,255.35,41.19,98100
+707,CARTIER,Baiser Vole,640,227.6,100,EDP,Women,Floral,Green leaves of lily,"Essences of rare, elegant lily flower",4.4,AMLAQ,3.9,135,412.4,64.44,135
+708,Elizabeth Arden,Red Door,128.95,128.95,100,EDT,Women,Floral,"Honey, Sandalwood, Vetiver","Orchid, Jasmine, Lily-of-the valley, Orange blossom, Wild violet, Freesia",5,Golden Perfumes,3.6,111,0,0,111
+709,GUESS,Seductive,177,86.75,75,EDT,Women,Spicy,"Vanille, Olibanum, Cashmere Wood","Jasmine, African Orange Flower, Orris Root",5,noon,4.2,98.1K,90.25,50.99,98100
+710,Dolce & Gabbana,The One,350,189.6,100,EDT,Men,Spicy,"Amber, Cedar, Toacco","Ginger, Orange Blossom, Cardamom",4.3,noon,4.2,98.1K,160.4,45.83,98100
+711,NINA RICCI,Mademoiselle Ricci,206,117,50,EDP,Women,Floral,"White Wood, Musk, Amber, Cedar, Violet","Nerium Oleander, Rose Hip, Laurels",4.5,AMLAQ,3.9,135,89,43.2,135
+712,JAGUAR,Classic Black,60,60,100,EDT,Men,Aromatic,"Sandalwood, Oakmoss, Tonka Beans, Virginia Cedar, Vetiver, Musk","Cardamom With Black Tea Leaves, Geranium, Nutmeg",4.3,perfumes--addresses,4.4,59,0,0,59
+713,Creation Lamis,Above The Law,28.5,28.5,100,EDT,Men,Woody,"Haitian Vetiver, Tonka Bean, Amberwood","Guatemalan Cardamom, Juniper, Apple, Geranium",4,Princess of beauty,3.8,467,0,0,467
+714,GIORGIO ARMANI,Si,620,261.8,100,EDP,Women,Floral,"Patchouli, Vanilla, Ambroxan, Woody Notes","May rose, Neroli Absolute, Davana, Osmanthus",4.7,Al-Najm,3.7,347,358.2,57.77,347
+715,DIESEL,Plus Plus Masculine,50,30,75,EDT,Men,Spicy,"Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise","Jasmine, Birch, Sage, Cardamom, Coriander, Lily-of-The-Valley, Violet, Green Notes",4.5,Attractive perfume,3.8,244,20,40,244
+716,JAGUAR,Classic Blue,290,67,100,EDT,Men,Spicy,"Sandalwood, Benzoin, White Musk","Ginger, Orange Blossom, Lotus",4.7,Beauty Gallery,4.3,59,223,76.9,59
+717,Van Cleef & Arpels,First,181.1,181.1,100,EDP,Women,Floral,"Honey, Tonka Beans, Amber, Sandalwood, Musk, Civet, Vanilla, Oakmoss, Vetiver","Carnation, Tuber Rose, Orchid, Orris Root, Jasmine, Hiacynth, Rose, Ylang Ylang, narcissus, Lily",5,noon,4.2,98.1K,0,0,98100
+718,BURBERRY,Body Tender,373,114,85,EDT,Women,Floral,"Cashmeran, Amber, Musk","Dewy English Roses, White Jasmine, Sandalwood",5,Number One,4.2,537,259,69.44,537
+719,Calvin Klein,Eternity,463,95,100,EDT,Men,Floral,"Sandalwood, Vetiver, Rosewood, Ambergris","Jasmine, Geranium, Sage",4.5,hadayiq baris,3.8,122,368,79.48,122
+720,Ferrari,Scuderia Red,245,97.6,125,EDT,Men,Fruity,"Cedar, Sandalwood, Moss, Vanilla","Jasmine, Geranium, Orris, Nutmeg",4.6,noon,4.2,98.1K,147.4,60.16,98100
+721,GUESS,Marciano,95,83.5,100,EDP,Women,Citrus,"Powdery Vanilla, Musk, Woody Accords","Peony, Pink Honeysuckle, Intensively Clean, Sweet Jasmine",4.6,top langri,3.6,347,11.5,12.11,347
+722,TOMMY HILFIGER,Tommy Girl,380,122.95,100,EDT,Women,Citrus,"Desert Jasmin, Cherokee Rose, Magnolia Petals, Dakota Lilies, Cedar, Sandalwood, Wild Heather","Grapefruit, Citrus Orchards, Crisp Green Notes, Honeysuckle, Butterfly Violets",4.4,Parvant Store,4.1,76,257.05,67.64,76
+725,Estee Lauder,Pleasures,285,169.9,100,EDP,Women,Fruity,"Cedar, Musk, Patchouli, Sandalwood","Jasmine, Lilac, Lily, Lily Of The Valley, Peony, Rose",4.6,noon,4.2,98.1K,115.1,40.39,98100
+726,Rasasi,Romance,79,37,45,EDP,Women,Floral,Powdery,"Fruity, Woody",5,B.A.G,3.5,14.1K,42,53.16,14100
+727,LALIQUE,Encre Noire,485,134.95,100,EDT,Men,Woody,"Cashmere Wood, Musk","Haiti Vetiver, Bourbon Vetiver",4.5,Abu Al Tayyeb Perfumes,3.6,59,350.05,72.18,59
+728,TESORI D´ORIENTE,Lotus Flower Aromatic Par,55,33.6,100,EDT,Unisex,Floral,"Vanilla, Woodsy Notes, Sandalwood, Musk","Jasmine, Lotus, Tuberose, Lily Of The Valley",4.6,B.A.G,3.9,14.1K,21.4,38.91,14100
+729,LALIQUE,Encre Noire,485,136.95,100,EDT,Men,Woody,"Cashmere Wood, Musk",Haitian Vetiver,4.5,Parvant Store,4.1,76,348.05,71.76,76
+730,LALIQUE,Amethyst Exquise,202.25,202.25,100,EDP,Women,Floral,Woody Notes,Orchid,4.4,Abu Al Tayyeb Perfumes,4.1,7,0,0,7
+731,Franck Olivier,Oud Touch,163,85,100,EDP,Men,Woody,"Amber, Musk, Vanilla","Violet, Patchouli, Rose, Jasmine, Olibanum",4.7,Beautiful Live,3.9,7,78,47.85,7
+732,MONTBLANC,Explorer,310,187.9,100,EDP,Men,Woody,"Ambroxan, Akigalawood, Indonesian Patchouli Leaf, Cacao Pod","Haitian Vetiver, Leather",5,noon,4.2,98.1K,122.1,39.39,98100
+733,VERSACE,Yellow Diamond,425,173.45,90,EDT,Women,Floral,"Amber, Precious Musk, Guaiac Wood","Creamy, Jasmine, Osmanthus",5,noon,4.2,98.1K,251.55,59.19,98100
+734,Yves Saint Laurent,Black Opium,178.5,178.5,90,EDP,Women,Fresh,"Vanilla, Patchouli, Cedar, Cashmere Wood","Coffee, Jasmine, Bitter Almond, Licorice",5,Al-Najm,3.7,347,0,0,347
+736,Calvin Klein,One Shock,159,86.3,200,EDT,Women,Floral,"Musk, Patchouli, Amber, Vanille","Jasmine, Narcissus, Mexican chocolate, Blackberry",4.2,noon,4.2,98.1K,72.7,45.72,98100
+737,Roberto Cavalli,Uomo,452,126,100,EDT,Men,Floral,"Cedar, Tonka Bean, Patchouli","Honey, Lavender",4.6,noon,4.2,98.1K,326,72.12,98100
+738,BOUCHERON,Quatre Absolue De Nuit,125.95,125.95,100,EDP,Women,Arabian,"Sandalwood, Vanilla, Amberwood","Jasmine, Tonka Bean, Pear",4.8,King-Perfume,3.9,450,0,0,450
+739,Calvin Klein,Eternity,263,104.8,100,EDT,Men,Floral,"Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood","Coriander, Lily, Orange Blossom, Juniper Berries, Basil, Jasmine, Sage, Lily-Of-The-Valley, Geranium",4.5,Perfume Ports,3.7,425,158.2,60.15,425
+740,BURBERRY,London,380,167.1,100,EDP,Women,Floral,"Sandalwood, Patchouli, Musk","Clementine, Peony Tiare, Jasmine",5,noon,4.2,98.1K,212.9,56.03,98100
+741,Roberto Cavalli,Uomo,452,134.95,100,EDT,Men,Floral,"Cedar, Patchouli, Tonka Bean","Honey, Lavender",4.6,noon,4.2,98.1K,317.05,70.14,98100
+742,Guerlain,L'Homme Ideal,6.5,6.5,1,EDT,Men,Floral,"Vanilla, Amber, Musk, Patchouli","Jasmine, Geranium, Neroli, Ylang-Ylang",5,Princess of beauty,3.8,467,0,0,467
+743,Calvin Klein,Sheer Beauty,345,104.05,100,EDT,Women,Fruity,"Musk, Sandalwood, Vanille","Jasmine, Peony, Lily",4.6,AMLAQ,3.9,135,240.95,69.84,135
+744,Lattafa,Rouat Al Musk,68,38.95,100,EDP,Women,Oriental,"Vanilla, Amber","Jasmine, White Flowers, Sandalwood",4.8,noon,4.2,98.1K,29.05,42.72,98100
+745,Mancera,Wild Leather,320,224,120,EDP,Unisex,Woody,"Amber, Guaiac Wood, Leather, Lichen, Musk","Bulgarian Rose, Patchouli, Violet",4.4,noon,4.2,98.1K,96,30,98100
+746,Misk Perfumes,White Musk Perfume,5.35,5.35,6,Oil,Unisex,Musk,Tail Rose,Vanilla Flowers,3.8,warddah,3.7,56,0,0,56
+747,Alina Corel,Monsieur Coco Vanilla,65,31.85,100,EDP,Unisex,Floral,"White Musk, Woody Notes, Madagascar Vanilla","Jasmine, Ylang-Ylang, Tiare Flower",4.7,noon,4.2,98.1K,33.15,51,98100
+748,jennifer lopez,Still,330,107.8,100,EDP,Women,Floral,"Amber, Orris, Sandalwood","Honeysuckle, Orange Tree Blossom, Pink Freesia",4.8,noon,4.2,98.1K,222.2,67.33,98100
+749,DORALL COLLECTION,Golden Blaze,11,11,100,EDP,Women,Musk,"Musk, Patchouli, Amber","Ylang-ylang, Jasmine",4.3,top langri,3.7,347,0,0,347
+750,Rasasi,Emotion,79,44.45,50,EDP,Women,Sandalwood,"Sandalwood, Musk, Amber, Cedar, Vanilla","Kiwi, Pineapple, Black Currant, Freesia, Water Lily, Jasmin",4.6,VIP.PARFUME,3.5,538,34.55,43.73,538
+751,DIESEL,Only The Brave Tattoo,236.9,236.9,75,EDT,Men,Citrus,"Woodsy Accord, Benzoin, Tob**co, Patchouli","Sage, Bourbon Pepper",4.5,hadayiq baris,3.8,122,0,0,122
+752,Lattafa,Sheikh Shuyukh,63,30.3,50,EDP,Unisex,Woody,"Vetiver, Patchouli","Lavender, Sage, Rosemary",4.9,noon,4.2,98.1K,32.7,51.9,98100
+754,HUGO BOSS,Orange EDT Sp,199,110,100,EDT,Men,Floral,"Vanilla, Woodsy Notes","Incense, Sichuan Pepper",4.8,Acacia Rose,4.4,537,89,44.72,537
+755,Armaf,Club De Nuit Milestone,135,135,105,EDP,Women,Floral,"Vetiver, Musk, Ambroxan","Violet Sandalwood, White Wood",5,Attractive perfume,3.5,244,0,0,244
+756,BVLGARI,Man In Black,485,187,100,EDP,Men,Spicy,"Tonka Bean, Guaiac Wood, Benzoin","Leather, Iris, Tuberose",4.6,Kado Store,4.2,20,298,61.44,20
+757,VERSACE,Eros,365,225.1,100,EDP,Women,Citrus,"Sandalwood, Ambroxan, Musk, Woodsy Notes","Lemon Blossom, Jasmine Sambac, Jasmine, Peony",5,noon,4.2,98.1K,139.9,38.33,98100
+758,CARTIER,Declaration,460,101.6,100,EDT,Men,Spicy,"Leather, Amber, Tea, Tahitian Vetiver, Oak Moss, Cedar","Iris, Ginger, Cinnamon, Pepper, Juniper, Orris Root, Jasmine, Guatemalan Cardamom",4.5,Number One,4.1,63,358.4,77.91,63
+760,DIESEL,Plus Plus Masculine,31.8,31.8,75,EDT,Men,Spicy,"Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise","Jasmine, Birch, Sage, Cardamom, Coriander, Lily-of-the-valley, Violet, Green Notes",4.6,noon,4.2,98.1K,0,0,98100
+761,Rasasi,Shuhrah,144,69.7,90,EDP,Women,Floral,"Oud, Patchouli, Grey Amber, Musk","Iris, Jasmine, Lily of the Valley",5,noon,4.2,98.1K,74.3,51.6,98100
+762,VERSACE,Eros,510,208,100,EDP,Women,Citrus,"Sandalwood, Ambroxan, Woodsy Notes, Musk","Lemon Blossom, Jasmine Sambac, Jasmine, Peony",4.5,King-Perfume,3.9,450,302,59.22,450
+763,VERSACE,Eros,510,234.95,100,EDP,Women,Citrus,"Musk, Ambroxan, Woodsy Notes, Sandalwood","Lemon Blossom, Jasmine Sambac, Jasmine, Peony",4.6,noon,4.2,98.1K,275.05,53.93,98100
+764,Lancome,La Vie Est Belle,560,217,75,EDP,Women,Vanilla,"Patchouli, Praline, Tonka Beans, Vanilla","Iris, Jasmine, Orange Tree Blossom",4.4,Al-Najm,3.7,347,343,61.25,347
+765,Arabian Oud,Sheikh Al Shuyukh,36.3,36.3,50,EDP,Women,Oriental,"Vetiver, Patchouli","Lavender, Sage, Rosemary",5,Bismat Eatar,3.7,66,0,0,66
+766,UNITED COLORS OF BENETTON,Hot,29,27.1,100,EDT,Women,Woody,"Cedarwood, Sandalwood, Oak Moss, Amber, Vanilla, Musk","Lily of The Valley, Water Jasmine, Iris, Apricot",4.5,noon,4.2,98.1K,1.9,6.55,98100
+767,LANVIN,L'Homme,110,110,100,EDT,Men,Spicy,"Sandalwood, amber, musk","Comprise, pepper, mint, sage, cardamom",5,Queen Beauty,3.9,135,0,0,135
+769,S.T.Dupont,Essence Pure,215,74.35,100,EDT,Men,Woody,"Cypress, Amber, Musk, Cedar","Iris, Lavender, Bamboo",4.6,noon,4.2,98.1K,140.65,65.42,98100
+770,ARMAND BASI,In Red,275,107.95,100,EDT,Women,Citrus,"Palisander Rosemary, Oakmoss, White Musk, Amber, Vanilla, Praline, Woody notes","Lily, Jasmine, Violet Leaf, Rose, Blackcurrant, Pink Pepper, Peony",4.5,Parvant Store,3.9,76,167.05,60.75,76
+772,DORALL COLLECTION,Lancy,27,11.85,100,EDT,Women,Spicy,"Tonka, Praline, Patchouli, Vanilla","Iris, Orange Blossom, Jasmine",4.5,the beauty,3.9,538,15.15,56.11,538
+773,GUCCI,Guilty,354,213.95,75,EDT,Women,Floral,"Lily, Wild Strawberry",Litchi,4.8,AMLAQ,3.9,135,140.05,39.56,135
+774,PACO RABANNE,One Million,319,319,200,EDT,Men,Woody,"Amber, Leather","Cinnamon, Rose",4.5,Number One,3.5,75,0,0,75
+775,VERSACE,Bright Crystal,63,21.4,5,EDT,Women,Floral,"Plants, Musk, Red Woods","Lotus, Peony, Magnolia",4.5,noon,4.2,98.1K,41.6,66.03,98100
+776,DORALL COLLECTION,DC Charged,14.95,14.95,100,EDT,Women,Woody,"Praline, Coconut Salt, Suede, Musk","Floral Notes, Apple",5,Princess of beauty,3.8,467,0,0,467
+777,DAVIDOFF,The Game,215,83.95,100,EDT,Men,Woody,Ebony Wood,"Iris, Woody Notes",4.9,noon,4.2,98.1K,131.05,60.95,98100
+778,HUGO BOSS,Boss The Scent,426,133,100,EDT,Men,Spicy,Leather,"Maninka Fruit, Lavender",4.6,Perfume Ms,3.9,537,293,68.78,537
+779,SWISS ARABIAN,Bakhoor Al Arais,15,15,50,EDP,Unisex,Arabian,"Amber, Palisander Rosewood","Cedar, Spicy",4.6,hawas,4.5,9,0,0,9
+780,PACO RABANNE,Invictus Intense,199,199,100,EDT,Men,Spicy,"Ambergris, Amber, Salt","Laurels, Whiskey",4.7,Parfume-Stor,3.9,537,0,0,537
+781,Calvin Klein,Beauty,378,109.55,100,EDP,Women,Floral,Virginia Cedar,Jasmine,4.6,AMLAQ,3.9,135,268.45,71.02,135
+782,Ferrari,Cedar Essence,360,106,100,EDP,Men,Woody,"Patchouli, Amber","Marine, Watermelon",4.4,AMLAQ,3.9,135,254,70.56,135
+783,J.CASANOVA,Plaisir,148,75.75,100,EDP,Women,Oriental,Amber,Musk,4.8,top langri,4.2,347,72.25,48.82,347
+785,Calvin Klein,CK One,265,98,200,EDT,Unisex,Citrus,"Sandalwood, Amber, Musk, Cedar, Oakmoss","Nutmeg, Violet, Orris Root, Jasmine, Lily-Of-The-Valley, Rose",4.5,noon,4.2,98.1K,167,63.02,98100
+786,Fendi,Furiosa,550,184.5,100,EDP,Women,Floral,"Incense, Guaiac Wood, Amber","Jasmine Absolute, Violaciocca Flower, Gardenia",4.2,noon,4.2,98.1K,365.5,66.45,98100
+787,al raheeb,Oud Khurafi,36,36,100,EDP,Unisex,Fresh,"Cashmeran, Ambroxan, Musk",Woody,5,beautiful lady,4.4,8,0,0,8
+788,Bill Blass,Nude Natural Spray Colo,114,79.45,100,EDT,Women,Floral,"Sandalwood, Musk, Orris Root, Vetiver","Oakmoss, Jasmine, Ylang-Ylang, Rose, Narcissus",4.7,AMLAQ,3.9,135,34.55,30.31,135
+789,PACO RABANNE,Black Xs Potion,162,162,100,EDT,Men,Woody,Labdanum Rum,Wormwood Cashmere Wood,4.3,Beautiful Live,4.1,7,0,0,7
+790,JAGUAR,Vision III,347,120,100,EDT,Men,Woody,"Sandalwood, Patchouli, Tonka Bean, Cedar, Vanilla, Musk","Jasmine, Marine Notes",3.8,magic flower,3.6,5,227,65.42,5
+791,VERSACE,Crystal Noir,27,16.2,5,EDT,Women,Arabian,"Amber, Musk, Sandalwood","Orange Blossom, Gardenia, Peony",4.4,noon,4.2,98.1K,10.8,40,98100
+792,Dolce & Gabbana,Pour Femme,566,195,100,EDP,Women,Floral,"Guimave, Vanilla, Heliotrope, Sandalwood","Jasmine, Orange Blossom",5,Parfume-Stor,4.1,66,371,65.55,66
+793,Al Rasasi,Dirham,45.9,45.9,35,EDP,Unisex,Floral,"Vanilla, Patchouli, Massoia Wood","Rose , Black Violet, Coca Flower",5,hawas,4.5,9,0,0,9
+794,Roberto Cavalli,Florence,500,154.95,75,EDP,Women,Floral,"Patchouli, Amber, Musk","Orange Blossom, Hibiscus Seed, Grapefruit Blossom",4.7,noon,4.2,98.1K,345.05,69.01,98100
+795,Milton Lloyd,Hawaii London,51,23,55,EDT,Women,Floral,"Woody Notes, Musk","Jasmine, Rose",4,hawas,4.2,9,28,54.9,9
+796,AZZARO,Chrome Legend,163.25,163.25,125,EDT,Men,Woody,"Warm Amber, Musk, Tonka Bean","Woodsy Notes Of Oakmoss, Vetiver, Cedar",4.5,Abu Al Tayyeb Perfumes,4.1,7,0,0,7
+797,VERSACE,Crystal Noir,447,215,90,EDT,Women,Spicy,"Sandalwood, Musk, Amber","Orange Blossom, Peony, Gardenia, Coconut",4.8,noon,4.2,98.1K,232,51.9,98100
+798,S.T.Dupont,Essence Pure,117,91.1,100,EDT,Women,Citrus,"Amber, Patchouli, Vanilla, Cedar","Jasmine, Rose",4.4,noon,4.2,98.1K,25.9,22.14,98100
+799,LANVIN,Eclat D'arpege,6.85,6.85,2,EDP,Women,Floral,"Blackberry, Sensual Musk","Musk, Chinese Osmanthus, Petitgrain, Cedar, Wisteria",3.8,AMLAQ,3.9,135,0,0,135
+800,LACOSTE,Pour Femme,322,123.05,90,EDP,Women,Floral,"Cedar, Vetiver, Sandalwood, Musk","Jasmine Petals, White Heliotrope, Hibiscus",4.5,noon,4.2,98.1K,198.95,61.79,98100
+801,CHLOE,Love Story,535,221.9,75,EDP,Women,Floral,"Musk, Cedar, Cashmirwood, Patchouli","Orange Blossom, Stephanotis, Rose, Black Currant, Peach",4.3,King-Perfume,3.9,450,313.1,58.52,450
+802,J.CASANOVA,Vivaldi,87,87,100,EDP,Women,Fresh,"Tonka Bean, Patchouli, Opoponax, Vanilla, Vetiver, White Musk","Mimosa, Jasmine, Turkish Rose, Ylang-Ylang",5,Ryhana Perfume,4.2,25,0,0,25
+803,CAROLINA HERRERA,Good Girl,565,213.15,80,EDP,Women,Arabian,"Tonka Bean, Cocoa, Sandalwood, Praline, Cinnamon, Cedar, Cashmere Wood","Jasmine Sambac, Tuberose, Orris, Bulgarian Rose, Orange Blossom",4.8,hadayiq baris,3.8,122,351.85,62.27,122
+804,Dunhill,Desire Blue,280,68,100,EDT,Men,Fresh,"Tonka Bean, Musk, Amber, Benzoin","Orange, Brazilian Rosewood, Sea Notes",4.3,Modon,3.9,71,212,75.71,71
+805,AZZARO,Chrome,121,121,100,EDT,Men,Citrus,"Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom","Cyclamen, Coriander, Jasmine, Oakmoss",5,Instant,3.7,44,0,0,44
+806,Yves Saint Laurent,Black Opium,620,364.65,90,EDP,Women,Vanilla,"Musk, White Wood","Jasmine Tea, Orrange Blossom, Coffee",4.8,noon,4.2,98.1K,255.35,41.19,98100
+807,NINA RICCI,Premier Jour,300,136.45,100,EDP,Women,Fruity,"Sandalwood, Musk, Vanilla, Woodsy Notes","Orchid, Gardenia",4.7,noon,4.2,98.1K,163.55,54.52,98100
+808,Dorall,Blue Princess,11.85,11.85,100,EDT,Men,Oriental,"Musk, Patchouli","Woody, Vetiver",5,hawas,4.5,9,0,0,9
+809,GUESS,Seductive,177,86.75,75,EDT,Women,Spicy,"Vanille, Olibanum, Cashmere Wood","Jasmine, African Orange Flower, Orris Root",5,noon,4.2,98.1K,90.25,50.99,98100
+810,HUGO BOSS,Boss The Scent,535,155,100,EDP,Women,Fruity,Cacao,Osmanthus,4.6,hadayiq baris,3.8,122,380,71.03,122
+811,AVON,Today Tomorrow Always,98.95,98.95,75,EDT,Men,Citrus,"Sandalwood, patchouli, amber",Anise,5,Victoria,3.6,30,0,0,30
+812,Lattafa,Oud Mood,119,42.55,100,EDP,Unisex,Woody,"Musk, Incense, Amber, Resin, Woody","Patchouli, Caramel, Agarwood",4.6,noon,4.2,98.1K,76.45,64.24,98100
+814,DIESEL,Plus Plus Masculine,50,30,75,EDT,Men,Spicy,"Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise","Jasmine, Birch, Sage, Cardamom, Coriander, Lily-of-The-Valley, Violet, Green Notes",4.5,Attractive perfume,3.5,244,20,40,244
+815,LACOSTE,EDTTouch Of Pink For Wom,335,89,90,EDT,Women,Citrus,"Woody, Musk, Vanilla","Jasmine, Carrot, Spicy Coriander",4.8,Cute Shop,3.7,98,246,73.43,98
+816,GUCCI,Guilty Absolute,515,230,90,EDP,Men,Woody,"Woody Notes, Vetiver","Patchouli, Cypress",4.1,Rayhanti,3.8,537,285,55.34,537
+818,VERSACE,Bright Crystal,430,169.95,90,EDT,Women,Floral,"Amber, Musk, Mahogany","Peony, Lotus, Magnolia",4.8,noon,4.2,98.1K,260.05,60.48,98100
+819,MB,Sweetheart Rockstar,10.8,10.8,100,EDP,Women,Fresh,"Rose, Vanilla, Ginger","Pine, Cardamom, Lavender, Rosemary",4.5,Beautify,3.6,531,0,0,531
+820,Ferrari,Scuderia Red,245,97.6,125,EDT,Men,Fruity,"Cedar, Sandalwood, Moss, Vanilla","Jasmine, Geranium, Orris, Nutmeg",4.6,noon,4.2,98.1K,147.4,60.16,98100
+821,DAVIDOFF,Hot Water,215,76.95,110,EDT,Men,Arabian,"Styrax, Benzoin","Pimento, Patchouli",4.6,AMLAQ,3.9,135,138.05,64.21,135
+822,ST Dupont,Passenger,103,103,100,EDT,Men,Spicy,"Guaiac Wood, Benzoin","Ginger, Cardamom, Pink Pepper, Lavender",5,Beautiful Live,4.1,7,0,0,7
+823,HUGO BOSS,Ma Vie,415,137.55,75,EDP,Women,Floral,"Cedar, Woody Notes","Pink Freesia, Jasmine, Rose",4.7,AMLAQ,3.9,135,277.45,66.86,135
+824,Givenchy,Xeryus Rouge,455,214.4,100,EDT,Men,Woody,Cedar Wood,Red Pepper,4.8,noon,4.2,98.1K,240.6,52.88,98100
+825,joop,Homme,223,55,125,EDT,Men,Citrus,"Vanilla, tonka bean, patchouli, sandalwood","Jasmine, lily of the valley, heliotrope, cinnamon",4.4,hadayiq baris,3.8,122,168,75.34,122
+826,TESORI D´ORIENTE,Lotus Flower Aromatic Par,55,33.6,100,EDT,Unisex,Floral,"Vanilla, Woodsy Notes, Sandalwood, Musk","Jasmine, Lotus, Tuberose, Lily Of The Valley",4.6,B.A.G,3.7,14.1K,21.4,38.91,14100
+827,TESORI D´ORIENTE,White Musk,60,39.95,100,EDT,Men,Woody,"Aldehyde, Jasmine, White Flowers",Rose,4.2,B.A.G,3.8,14.1K,20.05,33.42,14100
+828,STELLA MCCARTNEY,Stella,460,197.95,100,EDP,Women,Floral,Amber,Rose,4.8,noon,4.2,98.1K,262.05,56.97,98100
+830,Alina Corel,For Ever,33.85,33.85,100,EDP,Men,Spicy,"Guaiac Wood, Benzoin","Ginger, Cardamom, Pink Pepper, Lavender",5,Beautiful Live,4.1,7,0,0,7
+831,Calvin Klein,One Shock,159,86.3,200,EDT,Women,Floral,"Musk, Patchouli, Amber, Vanille","Jasmine, Narcissus, Mexican chocolate, Blackberry",4.2,noon,4.2,98.1K,72.7,45.72,98100
+832,Mancera,Roses Vanille,446,248.8,120,EDP,Women,Arabian,"Cedar, Vanilla, Sugar, White Musk","Rose, Sugar",5,noon,4.2,98.1K,197.2,44.22,98100
+833,Mandarina Duck,Black,182.6,182.6,100,EDT,Men,Woody,"Vetiver, Patchouli","Tuberose, Orange Blossom, Musk",5,Star.perfume,3.9,539,0,0,539
+834,PACO RABANNE,1 Million,395,172,100,EDT,Men,Woody,"Leather, Woody Notes, Amber, Indian Patchouli","Rose, Cinnamon, Spicy Notes",4.6,Al-Najm,3.7,347,223,56.46,347
+835,Calvin Klein,Sheer Beauty,345,104.05,100,EDT,Women,Fruity,"Musk, Sandalwood, Vanille","Jasmine, Peony, Lily",4.6,AMLAQ,3.9,135,240.95,69.84,135
+836,CHLOE,Chloe,157.35,157.35,90,EDT,Women,Floral,"Bourbon Vanilla, sandalwood, Tonka Bean","Night Queen Flower, Bulgarian Rose, Orange Flower",4.5,Parfume-Stor,3.5,63,0,0,63
+837,TED LAPIDUS,Creation,101,50,100,EDT,Women,Floral,"Jasmine, Rose, Tuberose, Carnation","Jasmine, Rose, Tuberose, Carnation",4.7,alkhalijiah  perfume,3.5,88,51,50.5,88
+839,Lattafa,Rouat Al Musk,68,38.95,100,EDP,Women,Oriental,"Vanilla, Amber","Jasmine, White Flowers, Sandalwood",4.8,noon,4.2,98.1K,29.05,42.72,98100
+841,TRI,En Joy,10,9.9,100,EDT,Women,Floral,"Sandalwood, Cedar, Patchoulli, Musk, Benzoin","Rose, Jasmine, Cassis, Peach",4.1,Parisian Store,3.9,425,0.1,1,425
+842,Mancera,Roses Greedy,450,258.95,120,EDP,Unisex,Floral,"White Musk, Amber, Vanilla, Sugar, Benzoin","Rose, Jasmine, Flowers",4.6,noon,4.2,98.1K,191.05,42.46,98100
+843,Rasasi,Emotion,79,44.45,50,EDP,Women,Sandalwood,"Sandalwood, Musk, Amber, Cedar, Vanilla","Kiwi, Pineapple, Black Currant, Freesia, Water Lily, Jasmin",4.6,VIP.PARFUME,4.3,538,34.55,43.73,538
+844,BURBERRY,Mr. Burberry,515,179.95,100,EDP,Men,Woody,"Patchouli, Amber, Sandalwood, Vetiver, Benzoin, Cinnamon","Lavender, Cedar, Nutmeg",4.5,noon,4.2,98.1K,335.05,65.06,98100
+845,DORALL COLLECTION,Oud Maaruf,29,11.49,100,EDT,Men,Arabian,"Sandalwood, musk, woody - amber, patchouli, Oud, dry woody-amber, amber","Rose, raspberry, dried fruits, ylang, geranium, jasmin, orris, muguet, saffron",4,B.A.G,4.2,14.1K,17.51,60.38,14100
+846,BURBERRY,Burberry Body Intense,435,152.45,60,EDP,Women,Fruity,"Cashmere Wood, Amber, Vanille, Musk","Rose, Sandalwood, Iris",4.6,noon,4.2,98.1K,282.55,64.95,98100
+847,Dior,Sauvage,532,208.25,100,EDT,Men,Oriental,"Ceder, ambroxan, labdanum","Lavender, elemi, geranium, sichuan pepper",4,diffrent,3.7,5,323.75,60.86,5
+848,Lattafa,Sheikh Shuyukh,63,30.3,50,EDP,Unisex,Woody,"Vetiver, Patchouli","Lavender, Sage, Rosemary",4.9,noon,4.2,98.1K,32.7,51.9,98100
+849,Mancera,Roses Vanille,450,285,120,EDP,Women,Arabian,"Cedar, Vanilla, Sugar, White Musk","Rose, Sugar",4.9,AMLAQ,3.9,135,165,36.67,135
+850,Mancera,Roses Vanille,450,239.95,120,EDP,Women,Arabian,"Vanilla, Sugar, White Musk, Cedar","Rose, Sugar",4.7,noon,4.2,98.1K,210.05,46.68,98100
+851,Ferrari,Man In Red,235,119.9,100,EDT,Men,Fruity,"Cedar, Tonka Bean, Labdanum","Lavender, Yellow Plum, Orange Blossom",5,top langri,4.3,347,115.1,48.98,347
+852,Dunhill,Desire,276,84.25,100,EDT,Men,Fresh,"Vanilla, Musk","Rose, Teak Wood, Patchouli",4.5,S2021,3.9,23,191.75,69.47,23
+853,BVLGARI,Man In Black,485,187,100,EDP,Men,Spicy,"Tonka Bean, Guaiac Wood, Benzoin","Leather, Iris, Tuberose",4.6,Kado Store,3.6,20,298,61.44,20
+854,VERSACE,Eros,365,225.1,100,EDP,Women,Citrus,"Sandalwood, Ambroxan, Musk, Woodsy Notes","Lemon Blossom, Jasmine Sambac, Jasmine, Peony",5,noon,4.2,98.1K,139.9,38.33,98100
+855,Gres,Cabotine,125,61.55,100,EDT,Women,Floral,"Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber.","Rose, Tuberose, Ylang-Ylang, Ginger Lily, Hyacinth, Heliotrope, Freesia, Violet, Iris.",4.6,AMLAQ,3.9,135,63.45,50.76,135
+856,Alina Corel,Monsieur Oud,51,30.95,100,EDP,Unisex,Musk,"Cedar, Musk","Rose, Water",4.5,noon,4.2,98.1K,20.05,39.31,98100
+857,VERSACE,Eros,510,208,100,EDP,Women,Citrus,"Sandalwood, Ambroxan, Woodsy Notes, Musk","Lemon Blossom, Jasmine Sambac, Jasmine, Peony",4.5,King-Perfume,3.6,450,302,59.22,450
+858,VERSACE,Eros,510,234.95,100,EDP,Women,Citrus,"Musk, Ambroxan, Woodsy Notes, Sandalwood","Lemon Blossom, Jasmine Sambac, Jasmine, Peony",4.6,noon,4.2,98.1K,275.05,53.93,98100
+859,GIORGIO ARMANI,Si Passione EDP For Wo,630,235.45,100,EDT,Women,Floral,"Cedar, Vanilla, Patchouli","Rose, Jasmine, Heliotrope, Pineapple",5,Parfume-Stor,4.1,347,394.55,62.63,347
+860,BOUCHERON,Quatre,465,158.4,100,EDP,Women,Floral,"Golden Woods, Cedar, Cashmere, Musk, Vanilla, Caramel","Sambac Jasmine, rose,  Accords of Wild Strawberry, Peach, Apple",4.8,noon,4.2,98.1K,306.6,65.94,98100
+861,LALIQUE,Encre Noire,165,140,100,EDT,Men,Woody,Sandalwood,Lemongrass,4.4,kikup,3.6,23,25,15.15,23
+862,UNITED COLORS OF BENETTON,Hot,29,27.1,100,EDT,Women,Woody,"Cedarwood, Sandalwood, Oak Moss, Amber, Vanilla, Musk","Lily of The Valley, Water Jasmine, Iris, Apricot",4.5,noon,4.2,98.1K,1.9,6.55,98100
+863,Dior,Sauvage,430,208.25,100,EDT,Men,Spicy,"Ambroxan, Cedar, Labdanum","Sichuan Pepper, Lavender, Pink Pepper, Vetiver, Geranium, Patchouli, Elemi",4.6,Spicebomb,3.9,66,221.75,51.57,66
+864,CAROLINA HERRERA,212 Sexy,330,104.5,100,EDT,Men,Vanilla,"Sensual Oriental Character - Gaiac Wood, Sandalwood, Bourbon Vanilla, Musk, Amber","Subtle, Spicy Sensuality - Green Pepper, Floral Petal, Cardamom, Tonka Beans",4.2,Al-Najm,3.7,347,225.5,68.33,347
+865,GUCCI,Rush 2,576,361,50,EDT,Women,Floral,"Oakmoss, Musk, Black Currant","Lily, Gardenia, Plam Tree, Narcissus",4.4,Tiffany,4.1,5,215,37.33,5
+866,BURBERRY,London,370,167.6,100,EDP,Women,Floral,"Sandalwood, Musk, Patchouli","Tiare Flower, Jasmine, Peony, Clementine Zest",4.8,noon,4.2,98.1K,202.4,54.7,98100
+867,HUGO BOSS,Femme,415,139.35,75,EDP,Women,Floral,"Apricot, Amber, Lemon Tree","Lily, Jasmine, Bulgarian Rose",4.8,Lolita Shop,3.6,23,275.65,66.42,23
+868,Jean Paul GAULTIER,Scandal,505,354.95,80,EDP,Women,Floral,"Vanilla, Musk, Labdanum","Tiare Flower, Jasmine, Orange Blossom",4.5,noon,4.2,98.1K,150.05,29.71,98100
+869,ARMAND BASI,In Red,275,107.95,100,EDT,Women,Citrus,"Palisander Rosemary, Oakmoss, White Musk, Amber, Vanilla, Praline, Woody notes","Lily, Jasmine, Violet Leaf, Rose, Blackcurrant, Pink Pepper, Peony",4.5,Parvant Store,4.1,76,167.05,60.75,76
+870,VERSACE,Eros,430,202,100,EDT,Men,Arabian,"Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver, Oakmoss","Tonka Bean, Geranium, Ambroxan",4.5,noon,4.2,98.1K,228,53.02,98100
+872,GUCCI,Bloom,695,325.65,100,EDP,Women,Floral,Rangoon Creeper,Tuberose,4.6,noon,4.2,98.1K,369.35,53.14,98100
+873,GUCCI,Guilty,354,213.95,75,EDT,Women,Floral,"Lily, Wild Strawberry",Litchi,4.8,AMLAQ,3.9,135,140.05,39.56,135
+874,GUCCI,Bloom,573,315.85,100,EDP,Women,Floral,Rangoon Creeper,Tuberose,4.2,noon,4.2,98.1K,257.15,44.88,98100
+875,VERSACE,Crystal Noir,447,172,90,EDP,Women,Floral and Oriental,"Sandalwood, Cashmeran, Vanilla Pod, Heliotropine","Tuberose, Frangipani, Jasmine Dry",4.4,flower,4.2,98,275,61.52,98
+876,HUGO BOSS,Boss The Scent,426,133,100,EDT,Men,Spicy,Leather,"Maninka Fruit, Lavender",4.6,Perfume Ms,4.1,537,293,68.78,537
+877,GUCCI,Bloom Nettare Di Fiori,630,329.85,100,EDP,Women,Floral,"Patchoulie, Musk, Schijnhulst","Tuberose, Honeysuckle, Jasmine",4.3,noon,4.2,98.1K,300.15,47.64,98100
+879,LACOSTE,L.12.12 Blanc,244,88,100,EDT,Men,Woody,"Leather, Suede, Cedar","Mexican Tuberose, Ylang-Ylang",3.7,hadayiq baris,3.8,122,156,63.93,122
+880,LACOSTE,Eau De lacoste,347,91.9,100,EDT,Men,Citrus,"Georgywood, Suede, Vetiver, Cedarwood","Tuberose, Olibanum, Ylang-Ylang",4.2,noon,4.2,98.1K,255.1,73.52,98100
+881,Geoffrey Beene,Grey Flannel,105,82.9,120,EDT,Men,Woody,"Tonka Bean, Almond, Oakmoss, Vetiver, Cedar","mimosa, iris, violet, sage, rose, geranium, Narcissus",5,Beautiful Live,4.3,7,22.1,21.05,7
+882,Niya,Hawaiian Musk,99,49,100,EDP,Men,Woody,"Musk, Oakmoss, Vanilla","Moroccan Jasmine, Patchouli, Birch, Rose",4.5,noon,4.2,98.1K,50,50.51,98100
+883,Genie Collection,Premium,35,14.5,25,EDP,Unisex,Oriental,"Amber, Patchouli, Musk","Tuberose, Ylang-ylang, Jasmine",5,Genie collection,3.8,32,20.5,58.57,32
+884,GUESS,Homme,210,98,100,EDT,Men,Spicy,"Patchouli, Sandalwood, Amber, Musk","Vanilla Orchid, Violet Leaves, Vetiver",4.4,Star.perfume,3.5,537,112,53.33,537
+886,Niya,Prive Maison Sandalwood,247,99,100,EDP,Men,Woody,"Sandalwood, Vanilla, Musk","Muguet, Violet, Tuberose",4.7,noon,4.2,98.1K,148,59.92,98100
+887,Lattafa,Ana Abiyedh Leather,65,47.9,60,EDP,Men,Musk,"Tonka Bean, Guaiac Wood","Vanilla, Cardamom, Saffron",4.6,top langri,3.9,347,17.1,26.31,347
+888,Roberto Cavalli,Just Cavalli,357,101.95,90,EDT,Men,Woody,Leather,Vetiver,4.8,noon,4.2,98.1K,255.05,71.44,98100
+889,AVON,Tomorrow,130,70,50,EDP,Women,Floral,"Powdery, Floral, Woody, Balsamic, Rose",Musk,4.5,Tiffany,4.1,54,60,46.15,54
+890,J.CASANOVA,Plaisir,148,75.75,100,EDP,Women,Oriental,Amber,Musk,4.8,top langri,4.3,347,72.25,48.82,347
+891,Givenchy,Pour Homme,375,117.85,100,EDT,Men,Spicy,"Labdanum, Cedar","Vetiver, Lavender Extract",4.7,hadayiq baris,3.8,122,257.15,68.57,122
+892,MONTBLANC,Emblem,363,146.6,100,EDT,Men,Spicy,"Tonka Bean, Woody Notes","Violet Leaf, Cinnamon",4.4,noon,4.2,98.1K,216.4,59.61,98100
+893,BURBERRY,Burberry Body,499,164.35,85,EDP,Women,Fruity,"Woody Cashmeran, Creamy Vanilla, Amber, Musk.","Natural Rose Absolute, Iris, Warm Sandalwood.",4.8,perfumes--addresses,4.1,59,334.65,67.06,59
+894,Calvin Klein,CK One,265,98,200,EDT,Unisex,Citrus,"Sandalwood, Amber, Musk, Cedar, Oakmoss","Nutmeg, Violet, Orris Root, Jasmine, Lily-Of-The-Valley, Rose",4.5,noon,4.2,98.1K,167,63.02,98100
+895,MONTBLANC,Emblem Intense,395,127.5,100,EDT,Men,Spicy,"Patchouli, Tonka Beans, Velvet, Woody Notes","Violet Leaf, Apple, Rose, Cinnamon, Nutmeg",4.2,noon,4.2,98.1K,267.5,67.72,98100
+896,MONTBLANC,Emblem,363,146.55,100,EDT,Men,Spicy,"Woody Notes, Tonka Bean","Violet Leaf, Cinnamon",5,noon,4.2,98.1K,216.45,59.63,98100
+897,Bill Blass,Nude Natural Spray Colo,114,79.45,100,EDT,Women,Floral,"Sandalwood, Musk, Orris Root, Vetiver","Oakmoss, Jasmine, Ylang-Ylang, Rose, Narcissus",4.7,AMLAQ,3.9,135,34.55,30.31,135
+898,HUGO BOSS,Nuit,415,162,75,EDP,Women,Floral,"Sandalwood, Crystal Moss, Warm Woods","Violet, Jasmin, White Florals",4.8,AMLAQ,3.9,135,253,60.96,135
+899,Roberto Cavalli,Florence,500,154.95,75,EDP,Women,Floral,"Patchouli, Amber, Musk","Orange Blossom, Hibiscus Seed, Grapefruit Blossom",4.7,noon,4.2,98.1K,345.05,69.01,98100
+900,Elizabeth Taylor,White Diamonds,220,118.85,100,EDT,Women,Floral,"Oak Moss, Patchouli, Musk, Sandalwood, Amber","Violet, Rose, Jasmine, Ylang-Ylang",4.3,noon,4.2,98.1K,101.15,45.98,98100
+901,DAVIDOFF,Adventure,210,79.6,100,EDT,Men,Woody,"Vetiver, Ceder, WhiteMusk","Warm Spices Of Wild Aromatic Black Sesame, South American Pimento",4.5,noon,4.2,98.1K,130.4,62.1,98100
+902,Givenchy,L'Interdit EDP For Wo,550,206.55,80,EDT,Women,Floral,"Vetiver, Patchouli, Ambroxan, Vanilla","Orange Blossom, Jasmine, Tuberose",4.9,Number One,4.1,63,343.45,62.45,63
+903,Dolce & Gabbana,3 L'Imperatrice,300,156.75,100,EDT,Women,Floral,"Citrus Wood, Musks, Sandalwood","Watermelon, Cyclamen, Jasmine",4.6,noon,4.2,98.1K,143.25,47.75,98100
+904,Roberto,Paradiso Assoluto,515,127.65,75,EDP,Women,Floral,"Patchouli, Sandalwood, Vanilla, Cashmeran","Wild Jasmine, Red Lily, Passionfruit",4.5,noon,4.2,98.1K,387.35,75.21,98100
+905,CHLOE,Love Story,535,221.9,75,EDP,Women,Floral,"Musk, Cedar, Cashmirwood, Patchouli","Orange Blossom, Stephanotis, Rose, Black Currant, Peach",4.3,King-Perfume,3.6,450,313.1,58.52,450
+906,Roberto Cavalli,Paradiso Assoluto,515,139,75,EDP,Women,Floral,"Patchouli, Sandalwood, Vanilla, Cashmeran","Wild Jasmine, Red Lily, Passionfruit",5,noon,4.2,98.1K,376,73.01,98100
+907,Ajmal,Sacrifice,79,75.9,50,EDP,Women,Floral,"Ambergris, Musk","Orange Blossom, Vanilla",4.2,neo lek,3.6,88,3.1,3.92,88
+908,Estee Lauder,Beautiful,570,181.2,75,EDP,Women,Floral,"Sandalwood, Vetiver, Amber","Orange Flower, Muguet, Jasmine, Ylang-Ylang",4.6,noon,4.2,98.1K,388.8,68.21,98100
+909,Roberto Cavalli,Paradiso Azzuro,499,175,75,EDP,Women,Fruity,"Cypress, Cashmere Wood, Amberwood, Sandalwood","Wild Jasmine, Watery Notes, Apple, Peach, Rose Tuberose",4.7,AMLAQ,3.9,135,324,64.93,135
+910,Roberto Cavalli,Paradiso Azzurro,499,165,75,EDP,Women,Fruity,"Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla","Wild Jasmine, Watery Notes, Apple, Tuberose, Peach, Rose",4.7,Beauty Group,4.2,124,334,66.93,124
+911,Roberto Cavalli,Women,430,103,75,EDP,Women,Arabian,"Benzoin, Tonka Beans, Vanilla",Orange Tree Blossom,5,rich&light,3.5,69,327,76.05,69
+912,GUESS,Dare,170,75,100,EDT,Women,Citrus,"Coconut Accords, Wood, Musk","Wild Rose, Elegant Jasmine",4.9,noon,4.2,98.1K,95,55.88,98100
+913,Dunhill,Desire Blue,280,68,100,EDT,Men,Fresh,"Tonka Bean, Musk, Amber, Benzoin","Orange, Brazilian Rosewood, Sea Notes",4.3,Modon,3.6,71,212,75.71,71
+914,BURBERRY,For Women EDP Natural Sp,378,153.75,100,EDP,Women,Fruity,"Musk, Vanilla","Woody-Floral, Sandalwood, Cedar",4.8,noon,4.2,98.1K,224.25,59.33,98100
+915,NINA RICCI,Premier Jour,300,136.45,100,EDP,Women,Fruity,"Sandalwood, Musk, Vanilla, Woodsy Notes","Orchid, Gardenia",4.7,noon,4.2,98.1K,163.55,54.52,98100
+916,JOVAN,Musk Cologne Sp,55,19,59,EDT,Women,Woody,"Musk, Amber, Wood",Ylang-ylang,4.7,Cute,3.7,1.9K,36,65.45,1900
+917,LACOSTE,L.12.12 Blanc-Pure,347,94.2,100,EDT,Men,Woody,"Virginia Cedar, Leather, Suede, Vetiver","Ylang-Ylang, Tuberose",4.6,noon,4.2,98.1K,252.8,72.85,98100
+918,HUGO BOSS,The Scent,535,155,100,EDP,Women,Fruity,Cacao,Osmanthus,4.5,noon,4.2,98.1K,380,71.03,98100
+920,PACO RABANNE,Olympéa Intense,485,166.9,80,EDP,Women,Floral,"Ambergris, Cashmere wood, Sandalwood","Paco Rabanne Olympea, Vanilla, Salt",4.8,hadayiq baris,3.8,122,318.1,65.59,122
+921,Dolce & Gabbana,3 L'Imperatrice,300,300,100,EDT,Women,Floral,"Citrus Wood, Musks, Sandalwood","Watermelon, Cyclamen, Jasmine",4.6,garmid,3.7,98,0,0,98
+922,Mancera,Red Tobacco,590,340,120,EDP,Men,Woody,"Precious Tobacco, Amber, Woody Notes, Vetiver, Vanilla Pods, White Musk","Patchouli Leaves, Jasmine",4.7,Faces,3.7,61,250,42.37,61
+923,Lattafa,Oud Mood,119,42.55,100,EDP,Unisex,Woody,"Musk, Incense, Amber, Resin, Woody","Patchouli, Caramel, Agarwood",4.6,noon,4.2,98.1K,76.45,64.24,98100
+926,GUCCI,Guilty Absolute,515,230,90,EDP,Men,Woody,"Woody Notes, Vetiver","Patchouli, Cypress",4.1,Rayhanti,3.5,537,285,55.34,537
+927,VERSACE,Bright Crystal,430,169.95,90,EDT,Women,Floral,"Amber, Musk, Mahogany","Peony, Lotus, Magnolia",4.8,noon,4.2,98.1K,260.05,60.48,98100
+929,Dunhill,Custom,330,89.85,100,EDT,Men,Floral,"Virginia Cedar, Incense",Pepper,4.3,noon,4.2,98.1K,240.15,72.77,98100
+931,GUESS,Dare,170,75,100,EDT,Women,Citrus,"Coconut Accords, Wood, Musk","Wild Rose, Elegant Jasmine",4.9,noon,3.7,98.1K,95,55.88,98100
+932,DAVIDOFF,Hot Water,215,76.95,110,EDT,Men,Arabian,"Styrax, Benzoin","Pimento, Patchouli",4.6,AMLAQ,3.9,135,138.05,64.21,135
+933,BURBERRY,For Women EDP Natural Sp,378,153.75,100,EDP,Women,Fruity,"Musk, Vanilla","Woody-Floral, Sandalwood, Cedar",4.8,garmid,3.7,98,224.25,59.33,98
+934,Dolce & Gabbana,K,338,269,100,EDT,Men,Woody,"Blood Orange, Pressed Sicilian Lemon, Juniper Berries","Pimento, Clary Sage, Geranium, Lavandin",4.1,Grass gulf,3.7,98,69,20.41,98
+935,JOVAN,Musk Cologne Sp,55,19,59,EDT,Women,Woody,"Musk, Amber, Wood",Ylang-ylang,4.7,garmid,3.7,1.9K,36,65.45,1900
+937,LACOSTE,L.12.12 Blanc-Pure,347,94.2,100,EDT,Men,Woody,"Virginia Cedar, Leather, Suede, Vetiver","Ylang-Ylang, Tuberose",4.6,garmid,3.7,98,252.8,72.85,98
+938,TED LAPIDUS,Pour Homme,129,44.45,100,EDT,Men,Woody,"Sandalwood, tonka bean, amber, patchouli, musk, oakmoss, cedar, tobacco","Pine tree, honey, orris root, jasmine, caraway, petitgrain, lily-of-the-valley, rose, brazilian rosewood, incense",5,neo lek,3.6,88,84.55,65.54,88
+939,HUGO BOSS,Bottled Unlimited,373,126,100,EDT,Men,Vanilla,"Sandalwood, Musk","Pineapple, Rose",4.4,Al-Najm,3.7,347,247,66.22,347
+940,GIORGIO ARMANI,Stronger With You,415,170,100,EDT,Men,Vanilla,"Vanilla, Chestnut, Cedar, Amber wood, Guaiac Wood","Pineapple, Sage, Melon, Cinnamon, Lavender",4.5,hadayiq baris,3.8,122,245,59.04,122
+941,HUGO BOSS,Ma Vie,415,137.55,75,EDP,Women,Floral,"Cedar, Woody Notes","Pink Freesia, Jasmine, Rose",4.7,AMLAQ,3.9,135,277.45,66.86,135
+942,DORALL COLLECTION,Pink Hearts,29,8.15,100,EDT,Women,Floral,"Caramel, Musk, Tonka, Sandalwood, Vanilla","Red Berries, Lily Of The Valley, Licorice, Cotton Candy, Strawberry",4.4,B.A.G,3.7,14.1K,20.85,71.9,14100
+943,Givenchy,Xeryus Rouge,455,214.4,100,EDT,Men,Woody,Cedar Wood,Red Pepper,4.8,noon,4.2,98.1K,240.6,52.88,98100
+944,Dolce & Gabbana,The Only One 2,614,137.9,100,EDP,Women,Floral,"Tonka, Patchouli, Ambergris, Amber Woods","Red Rose, Violet, Coffee",4.3,hadayiq baris,3.8,122,476.1,77.54,122
+945,TESORI D´ORIENTE,White Musk,60,39.95,100,EDT,Men,Woody,"Aldehyde, Jasmine, White Flowers",Rose,4.2,B.A.G,3.7,14.1K,20.05,33.42,14100
+946,Mancera,Roses Vanille,446,248.8,120,EDP,Women,Arabian,"Cedar, Vanilla, Sugar, White Musk","Rose, Sugar",5,noon,4.2,98.1K,197.2,44.22,98100
+947,BURBERRY,My Blush,431,181,50,EDP,Women,Arabian,"Jasmine, Wisteria","Rose Petals, Green Apple, Geranium",4.6,Fnoon,3.7,5,250,58,5
+948,BURBERRY,My Burberry Blush,699,199.9,90,EDP,Women,Arabian,"Jasmine, Wisteria","Rose petals, Green apple, Geranium",4.5,noon,4.2,98.1K,499.1,71.4,98100
+952,TRI,En Joy,10,9.9,100,EDT,Women,Floral,"Sandalwood, Cedar, Patchoulli, Musk, Benzoin","Rose, Jasmine, Cassis, Peach",4.1,Parisian Store,4.1,425,0.1,1,425
+953,Mancera,Rose Greedy,446,269,120,EDP,Unisex,"Rose, Floral","White Musk, Amber, Vanilla, Sugar","Rose, Jasmine, Flowers",4.5,AMLAQ,3.9,135,177,39.69,135
+954,DORALL COLLECTION,Oud Maaruf,29,11.49,100,EDT,Men,Arabian,"Sandalwood, musk, woody - amber, patchouli, Oud, dry woody-amber, amber","Rose, raspberry, dried fruits, ylang, geranium, jasmin, orris, muguet, saffron",4,B.A.G,3.7,14.1K,17.51,60.38,14100
+955,BURBERRY,Burberry Body Intense,435,152.45,60,EDP,Women,Fruity,"Cashmere Wood, Amber, Vanille, Musk","Rose, Sandalwood, Iris",4.6,noon,4.2,98.1K,282.55,64.95,98100
+956,Mancera,Roses Vanille,450,285,120,EDP,Women,Arabian,"Cedar, Vanilla, Sugar, White Musk","Rose, Sugar",4.9,AMLAQ,3.9,135,165,36.67,135
+957,Mancera,Roses Vanille,450,239.95,120,EDP,Women,Arabian,"Vanilla, Sugar, White Musk, Cedar","Rose, Sugar",4.7,noon,4.2,98.1K,210.05,46.68,98100
+958,Dunhill,Desire,276,84.25,100,EDT,Men,Fresh,"Vanilla, Musk","Rose, Teak Wood, Patchouli",4.5,S2021,3.5,23,191.75,69.47,23
+959,Parfums Gres,Cabotine,135,75,100,EDT,Women,Floral,"Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber","Rose, Tuberose, Ylang-Ylang, Ginger Lily, Hyacinth, Heliotrope, Freesia, Violet, Iris",4.8,AMLAQ,3.9,135,60,44.44,135
+960,Alina Corel,Monsieur Oud,51,30.95,100,EDP,Unisex,Musk,"Cedar, Musk","Rose, Water",4.5,noon,4.2,98.1K,20.05,39.31,98100
+961,GIORGIO ARMANI,Si Passione EDP For Wo,630,235.45,100,EDP,Women,Floral,"Cedar, Vanilla, Patchouli","Rose, Jasmine, Heliotrope, Pineapple",5,Parfume-Stor,4.1,347,394.55,62.63,347
+962,Yves Saint Laurent,Kouros Silver,540,190,100,EDT,Men,Fruity,"Amber, Woody Notes",Sage,4.5,Queen Beauty,3.5,5,350,64.81,5
+964,DAVIDOFF,Cool Water,150,71.75,75,EDT,Men,Aromatic,"Musk, Oakmoss, Cedar, Amber","Sandalwood, Geranium, Neroli, Jasmine",4.1,noon,4.2,98.1K,78.25,52.17,98100
+965,DAVIDOFF,Cool Water,315,85.5,125,EDT,Men,Fresh,"Musk, Oakmoss, Cedar, Tobacco, Amber","Sandalwood, Jasmine, Neroli, Geranium",3.7,Lolita Shop,3.6,5,229.5,72.86,5
+966,BVLGARI,Aqva Marine Pour Homme,331,163.95,100,EDT,Men,Citrus,"Virginia Cedar, Amber","Seaweed, Rosemary, Water Notes",4.8,hadayiq baris,3.8,122,167.05,50.47,122
+967,Dior,Sauvage,430,208.25,100,EDT,Men,Spicy,"Ambroxan, Cedar, Labdanum","Sichuan Pepper, Lavender, Pink Pepper, Vetiver, Geranium, Patchouli, Elemi",4.6,Spicebomb,3.5,66,221.75,51.57,66
+968,GUESS,Marciano,150,80.7,100,EDT,Men,Spicy,"Woody, Spicy","Spicy, Lavenday, Sage",4.7,AMLAQ,3.9,135,69.3,46.2,135
+970,CAROLINA HERRERA,212 Sexy,330,104.5,100,EDT,Men,Vanilla,"Sensual Oriental Character - Gaiac Wood, Sandalwood, Bourbon Vanilla, Musk, Amber","Subtle, Spicy Sensuality - Green Pepper, Floral Petal, Cardamom, Tonka Beans",4.2,Al-Najm,3.7,347,225.5,68.33,347
+971,BVLGARI,Petits Et Mamans,254,193.95,100,EDT,Women,Floral,"Iris, Vanilla, White Peach, Powdery Notes","Sunflower, Chamomile, Rose",4.8,noon,4.2,98.1K,60.05,23.64,98100
+972,Justcavalli,Just Cavalli,385,131.4,75,EDT,Women,Floral,"Cuddly, Creamy Rosewood",Tahitian Tiare Flowers,4.6,Star.perfume,3.9,537,253.6,65.87,537
+973,Jean Paul GAULTIER,Scandal,505,354.95,80,EDP,Women,Floral,"Vanilla, Musk, Labdanum","Tiare Flower, Jasmine, Orange Blossom",4.5,noon,4.2,98.1K,150.05,29.71,98100
+974,GUCCI,Bloom Aqua Di Fiori,515,311.8,100,EDT,Women,Fruity,Jasmine,Tuberose,4.7,noon,4.2,98.1K,203.2,39.46,98100
+975,GUCCI,Bloom,695,325.65,100,EDP,Women,Floral,Rangoon Creeper,Tuberose,4.6,noon,4.2,98.1K,369.35,53.14,98100
+976,VERSACE,Crystal Noir,447,172,90,EDP,Women,Floral and Oriental,"Sandalwood, Cashmeran, Vanilla Pod, Heliotropine","Tuberose, Frangipani, Jasmine Dry",4.4,flower,3.7,98,275,61.52,98
+977,GUCCI,Bloom Nettare Di Fiori,630,329.85,100,EDP,Women,Floral,"Patchoulie, Musk, Schijnhulst","Tuberose, Honeysuckle, Jasmine",4.3,noon,4.2,98.1K,300.15,47.64,98100
+979,CAROLINA HERRERA,Good Girl,565,168,80,EDP,Women,Arabian,"Tonka Bean, Cocoa","Tuberose, Jasmine Sambac",4.1,hadayiq baris,3.8,122,397,70.27,122
+980,Genie Collection,Premium,35,14.5,25,EDP,Unisex,Oriental,"Amber, Patchouli, Musk","Tuberose, Ylang-ylang, Jasmine",5,Genie collection,3.7,32,20.5,58.57,32
+981,Rasasi,Oud Al-Mubakhar,40,30.85,100,EDP,Men,Arabian,"Sandalwood, Tonka Bean, Musk, Patchouli","Turkish Rose, Violet, Geranium",4,noon,4.2,98.1K,9.15,22.88,98100
+982,Roberto Cavalli,Nero Assoluto,264,129.55,75,EDP,Women,Arabian,"Ebony, Woodsy Notes",Vanilla,5,noon,4.2,98.1K,134.45,50.93,98100
+983,Roberto Cavalli,Nero Assoluto,515,105,75,EDP,Women,Arabian,"Ebony, Woody Notes",Vanilla,4.6,noon,4.2,98.1K,410,79.61,98100
+984,GUESS,Homme,210,98,100,EDT,Men,Spicy,"Patchouli, Sandalwood, Amber, Musk","Vanilla Orchid, Violet Leaves, Vetiver",4.4,Star.perfume,3.9,537,112,53.33,537
+985,Lattafa,Ana Abiyedh Leather,65,47.9,60,EDP,Men,Musk,"Tonka Bean, Guaiac Wood","Vanilla, Cardamom, Saffron",4.6,top langri,4.3,347,17.1,26.31,347
+986,Roberto Cavalli,Just Cavalli,357,101.95,90,EDT,Men,Woody,Leather,Vetiver,4.8,noon,4.2,98.1K,255.05,71.44,98100
+987,HUGO BOSS,Bottled Night,688,250,200,EDT,Men,Woody,"Musk, Woody Notes",Violet,4.5,Lady Style,3.6,5,438,63.66,5
+988,MONTBLANC,Emblem,363,146.6,100,EDT,Men,Spicy,"Tonka Bean, Woody Notes","Violet Leaf, Cinnamon",4.4,noon,4.2,98.1K,216.4,59.61,98100
+989,MONTBLANC,Emblem,363,146.55,100,EDT,Men,Spicy,"Woody Notes, Tonka Bean","Violet Leaf, Cinnamon",5,noon,4.2,98.1K,216.45,59.63,98100
+990,HUGO BOSS,Nuit,415,162,75,EDP,Women,Floral,"Sandalwood, Crystal Moss, Warm Woods","Violet, Jasmin, White Florals",4.8,AMLAQ,3.9,135,253,60.96,135
+991,Elizabeth Taylor,White Diamonds,220,118.85,100,EDT,Women,Floral,"Oak Moss, Patchouli, Musk, Sandalwood, Amber","Violet, Rose, Jasmine, Ylang-Ylang",4.3,noon,4.2,98.1K,101.15,45.98,98100
+992,Marc Jacobs,Daisy Eau So Fresh,330,179.4,125,EDT,Women,Fruity,"Musk, Plum, Cedarwood","Violet, Wild Rose, Apple Blossom, Lychee, Jasmine Petals",5,noon,4.2,98.1K,150.6,45.64,98100
+993,CARTIER,Pasha Edition Noir,478,198.55,100,EDT,Men,Oriental,"Woody Amber, Cedar Accords","Warm, Cuddly Aromas",4.6,AMLAQ,3.9,135,279.45,58.46,135
+994,MONTBLANC,Legend Spirit,342,140,100,EDT,Men,Citrus,"White Musk, white wood, Cashmere Wood, Oakmoss","Water Notes, Lavender, Cardamom",4.7,hadayiq baris,3.8,122,202,59.06,122
+995,BVLGARI,Petits Et Mamans,327,197.75,100,EDT,Women,Floral,"Iris, Vanilla",White Peach,4.8,Tiffany,4.1,75,129.25,39.53,75
+996,Roberto Cavalli,Paradiso Assoluto,515,139,75,EDP,Women,Floral,"Patchouli, Sandalwood, Vanilla, Cashmeran","Wild Jasmine, Red Lily, Passionfruit",5,noon,4.2,98.1K,376,73.01,98100
+997,Roberto Cavalli,Paradiso Azzurro,499,165,75,EDP,Women,Fruity,"Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla","Wild Jasmine, Watery Notes, Apple, Tuberose, Peach, Rose",4.7,Beauty Group,4.3,124,334,66.93,124
+998,GUESS,Dare,170,75,100,EDT,Women,Citrus,"Coconut Accords, Wood, Musk","Wild Rose, Elegant Jasmine",4.9,noon,4.2,98.1K,95,55.88,98100
+999,BURBERRY,For Women EDP Natural Sp,378,153.75,100,EDT,Women,Fruity,"Musk, Vanilla","Woody-Floral, Sandalwood, Cedar",4.8,noon,4.2,98.1K,224.25,59.33,98100
+1000,JOVAN,Musk Cologne Sp,55,19,59,EDT,Women,Woody,"Musk, Amber, Wood",Ylang-ylang,4.7,Cute,3.7,1.9K,36,65.45,1900
+1001,SWISS ARABIAN,Layali CPO At,126,77,15,EDT,Unisex,Arabian,"Agarwood, Amber","Ylang-Ylang, Rose, Jasmine",4,Swiss Arabian PerfumesPRICE UPDATE WITH 15% VAT 1 JULY 2020,3.9,5,49,38.89,5
+1002,LACOSTE,L.12.12 Blanc-Pure,347,94.2,100,EDT,Men,Woody,"Virginia Cedar, Leather, Suede, Vetiver","Ylang-Ylang, Tuberose",4.6,noon,4.2,98.1K,252.8,72.85,98100
